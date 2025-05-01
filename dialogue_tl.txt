@@ -11,7 +11,7 @@
 
 # section "Prologue"
 00007	Lemon@r@vremo90010.Korone? That's just her nickname.
-00008	Lemon@r@vremo90020.Her full name was...@rKurone Uzuhana, if I remember well.
+00008	Lemon@r@vremo90020.Her full name was...@rKurone Uzuhana, I think.
 00009	Lemon@r@vremo90030.But let me tell you, that girl sure was something!@rFuhehehe☆.
 00010	Murasaki@r@vmura90010.Heh, Korone never lacked in cute reactions,@rit was a sight for sore eyes.
 00011	Murasaki@r@vmura90020.She would genuinely believe even the most @robvious lies. Truly, it was so entertaining.
@@ -20,16 +20,16 @@
 00014	Cyan@r@vsian90020.All of my best memories of middle school were@rwhen we would tease her, in fact!
 00015	Cyan@r@vsian90030.Honestly, it feels like all we did at school@rwas to tease Korone.
 00016	Lemon@r@vremo00010."Korone, looking at your hair bounce is so soothing, fuehehe☆."
-00017	Korone@r@vkoro00010."Stop iiiit～ Don't touch my haiiiir～"
+00017	Korone@r@vkoro00010."Stop iiiit~ Don't touch my haiiiir~"
 00018	Cyan@r@vsian00010."Hey, did ya know？ If you push here and it hurts, it means you're secretly a slut!"
-00019	Korone@r@vkoro00020."Owwwie...erm, it doesn't hurt!　It, doesn't hurt at aaaall--ow, ahaha～」
+00019	Korone@r@vkoro00020."Owwwie...erm, it doesn't hurt!　It, doesn't hurt at aaaall--ow, ahaha~」
 00020	Murasaki@r@vmura00010."That's obviously a lie. You're a bit too trusting of others, Korone."
 00021	Korone@r@vkoro00030."Whaaat? That was a lie? But, I thought a zone like that really existed in the body... Ahaha...」
 00022	Lemon@r@vremo00020."Fuehehe☆. You're the best, Korone. I'd love to tease you forever."
-00023	梓杏@r@vsian00020."So true! We won't let anyone else even put a finger on you."
-00024	コロネ@r@vkoro00040."Stop iiiiit～ Stop teasing meeee～ And stop touching my haiiiir～"
-00025	紫@r@vmura00020.「コロネさんはいつまでも私たちだけのコロネさんでいてほしいですわね。その変な喋り方も全て愛おしいですわ」
-00026	コロネ@r@vkoro00050.「変な喋り方って言うなよ～～、全然、普通なんだよ～～」
+00023	Cyan@r@vsian00020."So true! We won't let anyone else even put a finger on you."
+00024	Korone@r@vkoro00040."Stop iiiiit～ Stop teasing meeee~ And stop touching my haiiiir~"
+00025	Murasaki@r@vmura00020."I wish you'll stay our Korone. I, for one, love your strange way of speaking."
+00026	Korone@r@vkoro00050."Don't call it straaaaange~ It's totally normaaaaaal~"
 00027	Girl@r@vsiro00010."And so, three years have passed since our last meeting."
 00028	Cyan@r@vsian00030."That...can't be..."
 00029	Murasaki@r@vmura00030."You mean...you really are Korone?"
@@ -38,29 +38,29 @@
 00032	Girl@r@vsiro00030."The 'soothing' bouncing hair you made fun of me for? Yes, I do remember."
 00033	Girl@r@vsiro00040."I also remember you often making fun of my body, Cyan."
 00034	Cyan@r@vsian00040."I...I wouldn't call it 'making fun of'..."
-00035	少女@r@vsiro00050.「中指が薬指より長い人は何とかだとか。胸の発育が早いと何とかだとか。二重まぶただと何とかだとか……」
-00036	少女@r@vsiro00060.「私の身体のこと、事細かに指摘してはバカだのスケベだのと言ってくれましたよね」
-00037	紫@r@vmura00040.「ま、……待って。私たちは決して、そんなつもりで、」
-00038	少女@r@vsiro00070.「紫さんは、私の喋り方や言葉遣いのこと、……何度も何度も馬鹿にしてくれましたよね。……ね？」
-00039	紫@r@vmura00050.「私たちは決して貴女を馬鹿にするつもりなんて……。もし嫌だったなら言ってくれれば……、」
-00040	少女@r@vsiro00080.@z150.「だから今、言ってんですやああああぁあああああッ？！？！」
-00041	少女@r@vsiro00090.「お前らにずっとずっとッ、ずっとずっとずおっとおおぅ馬鹿にされてきたってやあああぁッ！！！」
-00042	少女@r@vsiro00100.「私はね！　お前に馬鹿にされた髪もッ、お前に馬鹿にされた顔も体もッ、お前に馬鹿にされた喋り方もッ、全部全部が嫌になったんですよッ！！」
-00043	少女@r@vsiro00110.「だからッ！！　体中、全部全部ッ、髪も体も皮膚も、舌も目玉もッ、引っ掻いてッひん剝いてッ焼いて潰して削ぎ落してッッ！！」
-00044	少女@r@vsiro00120.「私はッ、生まれッ、変わったんですよおおおおおおぉぉおお！！」
-00045	コロネ@r@vsiro00130.「渦花黒祢ですッ！！！　３年ぶりですね、みんな、本当にお久しぶりですッ」
-00046	梓杏@r@vsian00050.「お前が……、コ、コロネ……？」
-00047	レモン@r@vremo00040.「……う、嘘だよ、嘘だもん……。コロネは、そんな子じゃないもん……」
-00048	コロネ@r@vsiro00140.「レモンさんの言うコロネって、どんな子だったんですか？」
-00049	コロネ@r@vsiro00150.「馬鹿でまぬけで、愚かでドジばかりで。気の向いた時に髪の毛をピヨンピヨンして癒されることの出来る女の子のこと？」
-00050	レモン@r@vremo00050.「そ、それはその……、ふ、ふへ……」
-00051	コロネ@r@vsiro00160.「コロネぅはああぁッ！！　お前の玩具になる為に学校に来てたンじゃねええんだやああぁあああッ！！！」
-00052	梓杏@r@vsian00060.「……わ、私は認めないぞ、認めない、認めたくない……。お、お前がコロネなんて……、絶対、絶対……ッ」
-00053	コロネ@r@vsiro00170.「うッ、うわぅッ！！　ぅ私だって、認めたくなんかねぇえええぇんだああぁあああッ！！！」
-00054	コロネ@r@vsiro00180.「お前に突っつかれたり抓られたりした、耳や鼻や、指や唇や、何もかも全部全部ぅうッ！　ぅ私だって認めたくなんかねええんだがああああぁああッ！！」
-00055	コロネ@r@vsiro90001.　嫌だった！！　お前らに馬鹿にされて貶されて辱められた自分の全てが嫌だった！！
+00035	Girl@r@vsiro00050."Saying things about people with long middle fingers, or about my fast chest growth, or about my double eyelids..."
+00036	Girl@r@vsiro00060."You would point out every little flaw in my body, while calling me either an idiot or a slut."
+00037	Murasaki@r@vmura00040."...W-Wait, it was never our intention to--"
+00038	Girl@r@vsiro00070."And Murasaki. You would constantly, constantly, make fun of the way I spoke.... That, I remember."
+00039	Murasaki@r@vmura00050."But it was never our intention to make fun of you! If you hated it, you should've said something..."
+00040	Girl@r@vsiro00080.@z150."AM I NOT DOING THAT NOOWWWWWWWW?!?!"
+00041	Girl@r@vsiro00090."I'VE ALWAYS, ALWAYS, ALWAYS ALWAYS ALWAAAAAAAAAAYS BEEN MADE FUN OF BY YOU THREEEEEEEE!!!"
+00042	Girl@r@vsiro00100."I hated my hair, I hated the way I looked, I hated the way I spoke! All of it, ALL OF IT!!!"
+00043	Girl@r@vsiro00110."So I got rid of it all!! I've thrown away my hair, peeled my skin, ripped my eyes out, cut my tongue, I've cast all of it aside!!"
+00044	Girl@r@vsiro00120."I'VE, BEEN, REBOOOOOOOOORN!!!"
+00045	Korone@r@vsiro00130."I am Kurone Uzuhana! Three years have passed, it's been so long!!"
+00046	Cyan@r@vsian00050."You're...Korone?!"
+00047	Lemon@r@vremo00040."Y...You lie! That's a lie! Korone's not that kind of girl...!"
+00048	Korone@r@vsiro00140."And what kind of girl is Korone, pray tell?"
+00049	Korone@r@vsiro00150."Do you mean the idiotic, foolish, clumsy girl you would mess with by making her 'soothing' hair bounce?"
+00050	Lemon@r@vremo00050."U-Um...I mean...fuhehe..."
+00051	Korone@r@vsiro00160."Well SHE didn't come to school just to get bullied by youuuuuuu!!!!"
+00052	Cyan@r@vsian00060."...I-I won't accept it. I can't accept it! I can't! You...you can't be Korone...!"
+00053	Korone@r@vsiro00170."GRRRAAAAAAAAHHH!!! LIKE I WANT TO ACCEPT IT EITHERRRRRRRRR!!!"
+00054	Korone@r@vsiro00180."All of the parts you've seen! All of the parts you've touched! From ears to nose to fingers to lips! I don't want to acknowledge ANY OF IIIIIIIIT!!!"
+00055	Korone@r@vsiro90001.I hated it all! I hated everything that you bullied me for, that you humiliated me for, that you degraded me for!!
 00056	コロネ@r@vsiro90002.　だから、嫌なところを全て全て、全部全部、ひん剥いて裂いてッメチャクチャ痛かったけどさ、おン前らに傷付けられた心の痛みに比べりゃ、こんなの髪の毛一本抜いた程度にも感じやしねえさッ！！
-00057	紫@r@vmura00060.「か、顔を変えたって言うんですの？！　私たちに、馬鹿にされたと思って……？！」
+00057	紫@r@vmura00060."You mean, you went as far as to change your own face?! Just because...you thought we were mocking you?!"
 00058	コロネ@r@vsiro00190.「顔だけじゃねぇええええぇッ！！　頭の天辺から足の爪先まで！　お前らに見られたとこ、触られたとこ、弄られたとこ、馬鹿にされたところ、全部全部全部だあああぁあああああッ！！」
 00059	コロネ@r@vsiro90010.　綺麗でしょ？　縫い目どころか、どこにメスを入れたかもわからないでしょ。
 00060	コロネ@r@vsiro90020.　私は生まれ変わったんです！　卵の殻を剥きたてのような、無垢な新しい身体に、新しい黒祢に生まれ変わったんですッ！
