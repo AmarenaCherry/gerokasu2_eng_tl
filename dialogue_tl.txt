@@ -16,19 +16,19 @@
 00010	Murasaki@r@vmura90010.Heh, Korone never lacked in cute reactions,@rit was a sight for sore eyes.
 00011	Murasaki@r@vmura90020.She would genuinely believe even the most @robvious lies. Truly, it was so entertaining.
 00012	Mursaki@r@vmura90030.Maybe she was just that pure,@rmaybe she was just an idiot, hehe.@rRegardless, she would liven up the mood.
-00013	Cyan@r@vsian90010.Also, she'd react in so many funny way@reverytime we teased her!
+00013	Cyan@r@vsian90010.Also, she'd react in so many funny ways@reverytime we teased her!
 00014	Cyan@r@vsian90020.All of my best memories of middle school were@rwhen we would tease her, in fact!
-00015	Cyan@r@vsian90030.Honestly, it feels like all we did at school@rwas to tease Korone.
+00015	Cyan@r@vsian90030.Honestly, it feels like all we did at school@rwas to tease Korone, hehehe.
 00016	Lemon@r@vremo00010."Korone, looking at your hair bounce is so soothing, fuehehe☆."
 00017	Korone@r@vkoro00010."Stop iiiit~ Don't touch my haiiiir~"
 00018	Cyan@r@vsian00010."Hey, did ya know？ If you push here and it hurts, it means you're secretly a slut!"
-00019	Korone@r@vkoro00020."Owwwie...erm, it doesn't hurt!　It, doesn't hurt at aaaall--ow, ahaha~」
+00019	Korone@r@vkoro00020."Owwwie...erm, it doesn't hurt! It, doesn't hurt at aaaall--ow, ahaha~"
 00020	Murasaki@r@vmura00010."That's obviously a lie. You're a bit too trusting of others, Korone."
-00021	Korone@r@vkoro00030."Whaaat? That was a lie? But, I thought a zone like that really existed in the body... Ahaha...」
+00021	Korone@r@vkoro00030."Whaaat? That was a lie? But, I thought a zone like that really existed in the body... Ahaha..."
 00022	Lemon@r@vremo00020."Fuehehe☆. You're the best, Korone. I'd love to tease you forever."
 00023	Cyan@r@vsian00020."So true! We won't let anyone else even put a finger on you."
-00024	Korone@r@vkoro00040."Stop iiiiit～ Stop teasing meeee~ And stop touching my haiiiir~"
-00025	Murasaki@r@vmura00020."I wish you'll stay our Korone. I, for one, love your strange way of speaking."
+00024	Korone@r@vkoro00040."Stop iiiiit~ Stop teasing meeee~ And stop touching my haiiiir~"
+00025	Murasaki@r@vmura00020."I wish you'll stay the Korone we know and love. I, for one, enjoy your strange way of speaking."
 00026	Korone@r@vkoro00050."Don't call it straaaaange~ It's totally normaaaaaal~"
 00027	Girl@r@vsiro00010."And so, three years have passed since our last meeting."
 00028	Cyan@r@vsian00030."That...can't be..."
@@ -38,50 +38,50 @@
 00032	Girl@r@vsiro00030."The 'soothing' bouncing hair you made fun of me for? Yes, I do remember."
 00033	Girl@r@vsiro00040."I also remember you often making fun of my body, Cyan."
 00034	Cyan@r@vsian00040."I...I wouldn't call it 'making fun of'..."
-00035	Girl@r@vsiro00050."Saying things about people with long middle fingers, or about my fast chest growth, or about my double eyelids..."
+00035	Girl@r@vsiro00050."Saying mean comments about people with long middle fingers, or about my fast chest growth, or about my double eyelids..."
 00036	Girl@r@vsiro00060."You would point out every little flaw in my body, while calling me either an idiot or a slut."
 00037	Murasaki@r@vmura00040."...W-Wait, it was never our intention to--"
 00038	Girl@r@vsiro00070."And Murasaki. You would constantly, constantly, make fun of the way I spoke.... That, I remember."
 00039	Murasaki@r@vmura00050."But it was never our intention to make fun of you! If you hated it, you should've said something..."
 00040	Girl@r@vsiro00080.@z150."AM I NOT DOING THAT NOOWWWWWWWW?!?!"
 00041	Girl@r@vsiro00090."I'VE ALWAYS, ALWAYS, ALWAYS ALWAYS ALWAAAAAAAAAAYS BEEN MADE FUN OF BY YOU THREEEEEEEE!!!"
-00042	Girl@r@vsiro00100."I hated my hair, I hated the way I looked, I hated the way I spoke! All of it, ALL OF IT!!!"
-00043	Girl@r@vsiro00110."So I got rid of it all!! I've thrown away my hair, peeled my skin, ripped my eyes out, cut my tongue, I've cast all of it aside!!"
+00042	Girl@r@vsiro00100."Be it the way I did my hair, be it the way I looked, be it the way I spoke! You made fun of all of it, ALL OF IT! AND I HATED IT!!"
+00043	Girl@r@vsiro00110."So I got rid of it all!! I've thrown away my hair, peeled my skin off, ripped my eyes out, cut my tongue off, I've cast all of it aside!!"
 00044	Girl@r@vsiro00120."I'VE, BEEN, REBOOOOOOOOORN!!!"
-00045	Korone@r@vsiro00130."I am Kurone Uzuhana! Three years have passed, it's been so long!!"
+00045	Korone@r@vsiro00130."I am Kurone Uzuhana! Three years have passed, it's been so, SO long!!"
 00046	Cyan@r@vsian00050."You're...Korone?!"
 00047	Lemon@r@vremo00040."Y...You lie! That's a lie! Korone's not that kind of girl...!"
 00048	Korone@r@vsiro00140."And what kind of girl is Korone, pray tell?"
 00049	Korone@r@vsiro00150."Do you mean the idiotic, foolish, clumsy girl you would mess with by making her 'soothing' hair bounce?"
 00050	Lemon@r@vremo00050."U-Um...I mean...fuhehe..."
-00051	Korone@r@vsiro00160."Well SHE didn't come to school just to get bullied by youuuuuuu!!!!"
+00051	Korone@r@vsiro00160."Well SHE didn't go to school just to get bullied by YOUUUUUUUU!!!!"
 00052	Cyan@r@vsian00060."...I-I won't accept it. I can't accept it! I can't! You...you can't be Korone...!"
-00053	Korone@r@vsiro00170."GRRRAAAAAAAAHHH!!! LIKE I WANT TO ACCEPT IT EITHERRRRRRRRR!!!"
-00054	Korone@r@vsiro00180."All of the parts you've seen! All of the parts you've touched! From ears to nose to fingers to lips! I don't want to acknowledge ANY OF IIIIIIIIT!!!"
-00055	Korone@r@vsiro90001.I hated it all! I hated everything that you bullied me for, that you humiliated me for, that you degraded me for!!
-00056	コロネ@r@vsiro90002.　だから、嫌なところを全て全て、全部全部、ひん剥いて裂いてッメチャクチャ痛かったけどさ、おン前らに傷付けられた心の痛みに比べりゃ、こんなの髪の毛一本抜いた程度にも感じやしねえさッ！！
-00057	紫@r@vmura00060."You mean, you went as far as to change your own face?! Just because...you thought we were mocking you?!"
-00058	コロネ@r@vsiro00190.「顔だけじゃねぇええええぇッ！！　頭の天辺から足の爪先まで！　お前らに見られたとこ、触られたとこ、弄られたとこ、馬鹿にされたところ、全部全部全部だあああぁあああああッ！！」
-00059	コロネ@r@vsiro90010.　綺麗でしょ？　縫い目どころか、どこにメスを入れたかもわからないでしょ。
-00060	コロネ@r@vsiro90020.　私は生まれ変わったんです！　卵の殻を剥きたてのような、無垢な新しい身体に、新しい黒祢に生まれ変わったんですッ！
-00061	コロネ@r@vsiro90030.　お前たちのいない新しい学校で、私は人生をやり直しました。
-00062	コロネ@r@vsiro90040.　誰にも好かれ、誰にも受け入れられ。いつだって友達がいっぱいいる、誰にも虐められない、ずっとずっと望んでた理想の人生に！
-00063	コロネ@r@vsiro00200.「幸せでした！！　あなたたちのいない新しい生活は幸せそのものでしたッ！！」
-00064	コロネ@r@vsiro90050.　誰も私の惨めな中学校時代なんか知らない！　誰も知らないから、なかったことに出来る！　私は虐められていなかった世界を手に入れたんだッ！！
-00065	コロネ@r@vsiro00210.「でも、外見はどんなに綺麗に取り繕えても。……内側は継ぎ接ぎだらけで、未だに痛みが疼き続けるんです」
-00066	コロネ@r@vsiro00220.「私がどんなに新しい、真っ新な無垢な人生を歩んでも！　あなたたちがある日、突然やってきて、また元の地獄に引き戻すんじゃないかという恐怖が拭えないんですッ。それどころか募る一方でッ！！　だからッ！！」
-00067	コロネ@r@vsiro00230.「同窓会を開くことにしたんです！！」
-00068	コロネ@r@vsiro00240.「あなたたちとの過去を清算したい私と、それを認めたくないだろうあなたたちとの、フェアな同窓会を……！」
-00069	@r　その途端、少女たちはものすごい力で首輪を後ろから引っ張られる。
-00070	@r　喉を潰されて瞬時に窒息状態となり、呆然としている間に……、少女たちの体は部屋の四隅に置かれていたアンティークな椅子に引き寄せられ、無理やり着席させられた。
-00071	@r　すると４人の椅子はそれぞれ、意思を持ったかのように歩き出し、部屋の中央に集まってくるのだ。
-00072	@r　そして部屋中央には、床のカーペットが開いて、勢いよく大きな丸テーブルが姿を現すのだ。
-00073	@r　こうして４人の少女は、椅子に首輪と鎖で無理やり着席させられ、テーブルを中心に相対することとなる……。
-00074	コロネ@r@vsiro00250.「私もあなたたちと同じ条件ですっ。三人がかりで私ひとりを虐めていたあなたたちと違って、私はアンフェアではありませんから」
-00075	@r　コロネは自分の首を拘束する鎖付き首輪を誇示する。彼女もまた、椅子に拘束されているのだ。
-00076	@r　第１のゲーム『フラミンゴのクロッケー』の和やかな雰囲気は、もう微塵もない。
-00077	@r　いや、あの和やかさこそがきっと、罠だった。
-00078	@r　三人を軽口にして、彼女たちがコロネのことをどう思っているのかを、自身に語らせる為の、罠だった。
+00053	Korone@r@vsiro00170."Grrr, GRRRAAAAAAAAHHH!!! LIKE I WANT TO ACCEPT IT EITHERRRRRRRRR!!!"
+00054	Korone@r@vsiro00180."All of the parts you've seen! All of the parts you've touched! From my ears to my nose to my fingers to my lips! I don't want to acknowledge ANY OF IIIIIIIIT!!!"
+00055	Korone@r@vsiro90001.I HATED IT ALL!! I hated everything that you bullied me for, that you humiliated me for, that you degraded me for!!
+00056	Korone@r@vsiro90002.So no matter how painful, how torturous it was to peel it all off, it was nothing compared to the pain you've inflicted me!!"
+00057	Murasaki@r@vmura00060."You mean, you went as far as to change your own face?! Just because...you thought we were mocking you?!"
+00058	Korone@r@vsiro00190."AND NOT JUST MY FACE!! From head to toe, every part that you've seen! Every part that you've touched! Every part that you teased me for, that you bullied me for! Everything, everything, EVERYTHING!!!"
+00059	Korone@r@vsiro90010.Isn't it beautiful? No matter how hard you look, you wouldn't even see a scar on me.
+00060	Korone@r@vsiro90020.I've been reborn! I broke out of the egg's shell and obtained a new body! A new Kurone came to be!
+00061	Korone@r@vsiro90030.So I could live my new life, away from you!　お前たちのいない新しい学校で、私は人生をやり直しました。
+00062	Korone@r@vsiro90040.Liked by everyone, accepted by everyone, surrounded by so many friends, teased by no one, this was the life I've been yearning for!
+00063	Korone@r@vsiro00200."I was in bliss! Living my school life away from you three was pure bliss!!"
+00064	Korone@r@vsiro90050.Nobody from middle school knew me there! So I could pretend it never happened! The world where I was never bullied was finally in my grasp!!
+00065	Korone@r@vsiro00210."But... No matter how much I've changed outwards...the wounds inside me never healed, always in pain."
+00066	Korone@r@vsiro00220."Even with my new body, even with my new life, the fear that you would one day appear and drag me back to the depths of Hell never left! All it did is grow even stronger! That's why!!"
+00067	Korone@r@vsiro00230."That's why I've organized this reunion!!"
+00068	Korone@r@vsiro00240."Between me, who wants to face my past, and YOU, who won't seem to acknlowledge it. A fair 'reunion'...!"
+00069	@rAt that moment, the girls were pulled by a tremendous force from their necks.
+00070	@rAs they recovered from their throats being smashed by the pull...they realise they've been forcibly seated to one of the vintage chairs, one in each corner of the room.
+00071	@rAnd each of the chairs--as if animated by a will of their own--advanced towards the center of the room.
+00072	@rAnd on that centered lied a carpet, on the top of which appeared a large round table.
+00073	@rAnd so, the four girls were gathered around the table, restrained by chains and collars to their seats...
+00074	Korone@r@vsiro00250."I will be in the same condition as everyone else. Unlike you three, I have no interest in ganging up on the weak. This is only fair."
+00075	@rShe shows her neck, also adorned by a chained collar. She, too, is restrained.
+00076	@rThe peaceful atmosphere from the first game, the 'Flamingo Croquet', is completely gone.
+00077	@rOr maybe it never was genuine, nothing more than a trap.
+00078	@rA trap made to expose how they felt about Korone.
 00079	ハンプ@r@vhanp00010.「ホーッホー！！　それではお次は第２のゲームじゃ！」
 00080	梓杏@r@vsian00070.「現れやがったな、卵野郎……」
 00081	ハンプ@r@vhanp00020.「卵野郎は悲しいですぞぉ！　ワシには、ハンプティー・ダンディー・ダンプティーという名前がありますぞぉお！！」
