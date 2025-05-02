@@ -114,31 +114,32 @@
 00108	@r　勇ましい言葉を口にするレモンだが、テーブルの下で握り締める拳は、滴るほどに汗にまみれ、震えている。
 00109	コロネ@r@vsiro00330."When it comes to game theory, you've always been quick on the uptake, Lemon. It's one of your strongest qualities.
 00110	レモン@r@vremo00140."Oh...t-thank you, fuhehe..."
-00111	紫@r@vmura00100.「……コロネさんに、このような同窓会を開こうと思わせてしまったのは……、私たちの責任ですわ」
-00112	紫@r@vmura00110.「悲しいし悔しい……、どんな言葉で謝ればいいかさえ思いつかないけれど……、」
-00113	紫@r@vmura00120.「せめて出来る罪滅ぼしは……、コロネさんの、……このゲームを、正面から受け止めることだけですわ……」
-00114	コロネ@r@vsiro00340.「ありがとう、紫さん。もし、二人で生き残ることが出来たら、仲直りしましょうね」
-00115	梓杏@r@vsian00120.「……ど、どういう結果に終わっても、それで昔のことは水に流してくれるのか……？」
-00116	コロネ@r@vsiro00350.「えぇ。私が死のうと、私だけが生き残ろうと、全部、水に流します」
-00117	梓杏@r@vsian00130.「くッ……………」
-00118	梓杏@r@vsian00140.「はああああああああッ！！　おっしゃ！　買ってやるぜ、その喧嘩！」
-00119	コロネ@r@vsiro00360.「喧嘩って捉え方が梓杏さんらしいですね。その感じも懐かしいです」
-00120	梓杏@r@vsian00150.「カードでちまちま勝負なんて性に合わねぇ！　腕っぷしで決めようぜ！」
-00121	コロネ@r@vsiro00370.「それはダメだよ～～～～」
-00122	@r　どきりとするくらいに、……その口調は紛れもなく、あの日のコロネのものだった。
-00123	ハンプ@r@vhanp00090.「それでは『三月兎の終わりのないお茶会』ゲームの説明を続けるぞい！」
-00124	@r　４人の中のひとりが密かに、『邪魔者』に指名される。
-00125	@r　勝負は、邪魔者１人が勝つか、それ以外の３人が勝つかで競われる。
-00126	ハンプ@r@vhanp00100.「題名通り、これはお茶会のゲームなのじゃ。終わらないお茶会を終わらせることが出来れば、３人の勝利という訳じゃ！」
-00127	紫@r@vmura00130.「……逆に、お茶会を終わらせることを邪魔できれば、邪魔者の勝ち……」
-00128	レモン@r@vremo00150.「となると、お茶会の終わらせ方が重要になるね」
-00129	ハンプ@r@vhanp00110.「場には、７枚のカードが用意されておる。見るがよい。数字が振られてあるじゃろ？」
-00130	梓杏@r@vsian00160.「あぁん……？　１とか２とか３とか、シケた数字ばっかだな」
-00131	@r　それは大きく数字の記された、お茶会のテーブルが描かれたカードだった。
-00132	@r　７枚の内、“１”のカードは１枚。“２”のカードは４枚。“３”のカードは２枚という内訳だ。
-00133	ハンプ@r@vhanp00120.「この数字が、お茶会を過ごす時間じゃ。１なら１時間という具合じゃな！」
-00134	ハンプ@r@vhanp00130.「そして合計が１０時間になれば、お茶会は終了して、邪魔者以外の３人が勝利するという訳じゃ！」
-00135	レモン@r@vremo00160.「……７枚の合計は１５。１５時間。……邪魔がないなら余裕に見えるよ」
+00111	紫@r@vmura00100."...Korone, what pushed you to organize this 'reunion'...is a consequence of our actions."
+00112	紫@r@vmura00110."No matter how painful, how frustrated I am...I cannot think of any words to say to you."
+00113	紫@r@vmura00120."But if it lets me atone for what I did, then...then I'll face your challenge head on.
+00114	コロネ@r@vsiro00340."Thank you, Murasaki. If the both of us survive, let's reconcile."
+00115	梓杏@r@vsian00120."...You mean, no matter the outcome, you'll forgive us?"
+00116	コロネ@r@vsiro00350."Indeed. Even if I die, even if I'm the only one alive, all will be water under bridge."
+00117	梓杏@r@vsian00130."Gh..."
+00118	梓杏@r@vsian00140."Phewwwwww! Alright, I'm ready, bring it on!"
+00119	コロネ@r@vsiro00360."Interpreting it like a fight is very much like you, Cyan. It reminds me of the past."
+00120	梓杏@r@vsian00150."Card games aren't my thing at all! Let's settle this with our muscles!"
+00121	コロネ@r@vsiro00370."Nooooo you caaaaan't~"
+00122	@rThat slurred, surprised reaction... It was, without a doubt, coming from the Korone of back then.
+00123	ハンプ@r@vhanp00090."Without further ado, let's continue with the game explanations!"
+00124	@rOne person will randomly be assigned the role of 'nuisance' in secret.
+
+00125	@rThe game ends whenever the nuisance or the remaining group loses.　勝負は、邪魔者１人が勝つか、それ以外の３人が勝つかで競われる。
+00126	ハンプ@r@vhanp00100."As the name implies, this game revolves around a tea party. If the group of three manage to end the endless tea party, they win!"
+00127	紫@r@vmura00130."...Conversely, if the nuisance manages to disturb the tea party, the nuisance wins."
+00128	レモン@r@vremo00150."In that case, what matters most is how to end the tea party."
+00129	ハンプ@r@vhanp00110."For that, you will be using these seven cards. Look at them well! Do you notice anything in particular with the number?"
+00130	梓杏@r@vsian00160."Huh...? None of them go higher than 3, how cheap."
+00131	@rThe playing cards depicted a tea party table, all with a big number written on them.
+00132	@rOf the seven cards, one is numbered '1', four are numbered '2' and two are numbered '3'.
+00133	ハンプ@r@vhanp00120."The numbers represent the time spent in the tea party. So for example '1' is one hour."
+00134	ハンプ@r@vhanp00130."Once ten hours have passed, the tea party is considered over and everyone but the nuisance wins!"
+00135	レモン@r@vremo00160."Seven cards, to a total of fifteen hours... When said like that, it sounds too easy."
 00136	ハンプ@r@vhanp00140.「今回の７枚はそういうことじゃが、多少、変動することもあるぞい！」
 00137	紫@r@vmura00140.「それで邪魔者さんは、これをどうやって妨害するのかしら……？」
 00138	コロネ@r@vsiro00380.「お茶会のカードは“成功”させないと、時間を加算できないんです」
