@@ -82,38 +82,38 @@
 00076	@rThe peaceful atmosphere from the first game, the 'Flamingo Croquet', is completely gone.
 00077	@rOr maybe it never was genuine, nothing more than a trap.
 00078	@rA trap made to expose how they felt about Korone.
-00079	ハンプ@r@vhanp00010.「ホーッホー！！　それではお次は第２のゲームじゃ！」
-00080	梓杏@r@vsian00070.「現れやがったな、卵野郎……」
-00081	ハンプ@r@vhanp00020.「卵野郎は悲しいですぞぉ！　ワシには、ハンプティー・ダンディー・ダンプティーという名前がありますぞぉお！！」
-00082	ハンプ@r@vhanp00030.「まぁとにかく、気を取り直してじゃ！　お次のゲームは題して『三月兎の終わりのないお茶会』じゃぁぁあぁ！！」
-00083	紫@r@vmura00070.「やはり、不思議の国のアリスがテーマですわね……」
-00084	レモン@r@vremo00060.「でも……、ムード的に、今度こそデスゲームみたいな気がするしぃ……」
-00085	ハンプ@r@vhanp00040.「もっちろんじゃああぁい！！　今度こそ、お待ちかねの命を賭けたデスゲームですぞぉおおおい！！」
-00086	レモン@r@vremo00070.「ふ、ふへぇえぇぇぇぇぇ………ッッ」
-00087	梓杏@r@vsian00080.「今更だろ！　出口のない部屋、鎖のついた首輪！　きっとデスゲームだって最初に言ったのはお前だろ！」
-00088	レモン@r@vremo00080.「そ、それはそうだけど……、ふへぇぇぇ、ぅぅぅ…………」
-00089	紫@r@vmura00080.「……コロネさんも、同じデスゲームに臨むということなんですの？」
-00090	コロネ@r@vsiro00280.「言いましたよね。フェアだ、って」
-00091	コロネ@r@vsiro00290.「私たちは、仲良し四人組だったんですよね？　少なくとも、あなたたちはそう思ってる」
-00092	コロネ@r@vsiro00300.「だからせめて最後は、仲良し四人組で公平に生き死にを賭けての、デスゲーム同窓会にしようではないですか！！」
-00093	ハンプ@r@vhanp00050.「それではルールの説明じゃ！！　今度はカードを使ったゲームだぞい！！」
-00094	レモン@r@vremo00090.「トレーディングカードゲーム？　遊戯・ザ・ギャザリングみたいなっ？」
-00095	梓杏@r@vsian00090.「お前、ゲームのことになると切り替え早いな……」
-00096	ハンプ@r@vhanp00060.「まず、４人のプレイヤーの中の１人が『邪魔者』に指名されるのじゃ！」
-00097	コロネ@r@vsiro00310.「もちろん、誰が邪魔者に選ばれたかはわかりません」
-00098	ハンプ@r@vhanp00070.「ゲームは、邪魔者が勝つか、邪魔者以外の３人が勝つかを競い合うものじゃ！」
-00099	紫@r@vmura00090.「……３人勝って、１人が負けるか。１人が勝って、３人が負けるか……」
-00100	梓杏@r@vsian00100.「なんだよそれ……。つまり、この中から必ず誰かが負ける、……死ぬってことだろ？！」
-00101	ハンプ@r@vhanp00080.「その通りじゃ！　負ければ、おしまい！　楽しい処刑でゲームオーバーじゃ！！」
-00102	レモン@r@vremo00100.「……ふへぇぇ……。四人が誰も欠けずに……生き残る方法はないのぉ……？」
-00103	コロネ@r@vsiro00320.「はい。ありません。私たち四人組が、楽しい３人と、虐められてる１人で常に分かれていたようにです」
-00104	レモン@r@vremo00110.「わかった。ルール了解だよ」
-00105	梓杏@r@vsian00110.「レ、レモン……」
-00106	レモン@r@vremo00120.「仕方ないよ。ここから逃げ出す方法が一切ないことはすでにわかってる。退路は断たれた」
-00107	レモン@r@vremo00130.「じゃあ、前だよ。……勝負を受けて勝って、生き残るしかない」
+00079	Hampu@r@vhanp00010."Ho-Ho! Now then, let's get on with the second game!"
+00080	Cyan@r@vsian00070."Now the egghead's back again..."
+00081	Hampu@r@vhanp00020."Egghead? Oh, you wound me! My name is Humpty Dandy Dumpty, do not forget it!"
+00082	Hampu@r@vhanp00030."In any case, regain your composure! For we will start the second game, 'The March Hare's Endless Tea Party'!!"
+00083	Murasaki@r@vmura00070."So this IS themed around Alice in Wonderland..."
+00084	Lemon@r@vremo00060."But the mood's a lot darker... It's kind of like a real death game..."「でも……、ムード的に、今度こそデスゲームみたいな気がするしぃ……」
+00085	Hampu@r@vhanp00040."Why yes, of course! From now on, this is a full-fledged, life-betting death game!"
+00086	Lemon@r@vremo00070."F-Fuheee...?"「ふ、ふへぇえぇぇぇぇぇ………ッッ」
+00087	Cyan@r@vsian00080."Why're you acting surprised?! There is no exit, we're being chained and collared, and you yourself even called it a death game before!"
+00088	Lemon@r@vremo00080."I-I mean, sure but... Fuheee..."
+00089	Murasaki@r@vmura00080."...Do you really want to participate as well, Korone?"
+00090	Korone@r@vsiro00280."Like I've said, it's only fair."
+00091	Korone@r@vsiro00290."The four of us were friends, no? At the very least, I believe we were."
+00092	Korone@r@vsiro00300."So then, why not bet our lives and gamble on this Death Game Reunion of ours together??"「だからせめて最後は、仲良し四人組で公平に生き死にを賭けての、デスゲーム同窓会にしようではないですか！！」
+00093	Hampu@r@vhanp00050."Now then, time to explain the rules! For this game, you will be using cards!"
+00094	Lemon@r@vremo00090."A trading card game? Just like Play: The Gathering?"
+00095	Cyan@r@vsian00090."You're a totally different person when games are involved, huh..."
+00096	ハンプ@r@vhanp00060."First off, one amongst you will be selected to play as the 'nuisance'!"
+00097	コロネ@r@vsiro00310."Of course, the nuisance's identity will be hidden to the others."
+00098	ハンプ@r@vhanp00070."The game ends when either the nuisance or the remainder wins!"「
+00099	紫@r@vmura00090."...Three victors, one loser. One victor, three losers..."
+00100	梓杏@r@vsian00100."The hell... So that means at least one person will lose...and die?!"
+00101	ハンプ@r@vhanp00080."That's exactly right! One loss and it's Game Over! Their fun will end there!"
+00102	レモン@r@vremo00100."Fuheee... And I'm guessing there's...no scenario where we all live...?"
+00103	コロネ@r@vsiro00320."Nope, none at all. Three of us will carry on, while the remaining one will be cast aside like a bullying victim."
+00104	レモン@r@vremo00110."Alright. I got the rules."
+00105	梓杏@r@vsian00110."L-Lemon..."
+00106	レモン@r@vremo00120."We've got no choice, there's no other way to leave this place. We're cut off from the outside."
+00107	レモン@r@vremo00130."All we've got is this... To win this game and survive."
 00108	@r　勇ましい言葉を口にするレモンだが、テーブルの下で握り締める拳は、滴るほどに汗にまみれ、震えている。
-00109	コロネ@r@vsiro00330.「ゲームの勝敗が掛かった時の、レモンちゃんの切り替えの早さ。いつもカッコよかったですよ」
-00110	レモン@r@vremo00140.「あ、……ありがと、ふへへ………」
+00109	コロネ@r@vsiro00330."When it comes to game theory, you've always been quick on the uptake, Lemon. It's one of your strongest qualities.
+00110	レモン@r@vremo00140."Oh...t-thank you, fuhehe..."
 00111	紫@r@vmura00100.「……コロネさんに、このような同窓会を開こうと思わせてしまったのは……、私たちの責任ですわ」
 00112	紫@r@vmura00110.「悲しいし悔しい……、どんな言葉で謝ればいいかさえ思いつかないけれど……、」
 00113	紫@r@vmura00120.「せめて出来る罪滅ぼしは……、コロネさんの、……このゲームを、正面から受け止めることだけですわ……」
