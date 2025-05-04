@@ -75,7 +75,7 @@
 00069	@rAt that moment, the girls were pulled by a tremendous force from their necks.
 00070	@rAs they recovered from their throats being smashed by the pull...they realise they've been forcibly seated to one of the vintage chairs, one in each corner of the room.
 00071	@rAnd each of the chairs--as if animated by a will of their own--advanced towards the center of the room.
-00072	@rAnd on that centered lied a carpet, on the top of which appeared a large round table.
+00072	@rAnd on that center lied a carpet, on the top of which appeared a large round table.
 00073	@rAnd so, the four girls were gathered around the table, restrained by chains and collars to their seats...
 00074	Korone@r@vsiro00250."I will be in the same condition as everyone else. Unlike you three, I have no interest in ganging up on the weak. This is only fair."
 00075	@rShe shows her neck, also adorned by a chained collar. She, too, is restrained.
@@ -86,47 +86,47 @@
 00080	Cyan@r@vsian00070."Now the egghead's back again..."
 00081	Hampu@r@vhanp00020."Egghead? Oh, you wound me! My name is Humpty Dandy Dumpty, do not forget it!"
 00082	Hampu@r@vhanp00030."In any case, regain your composure! For we will start the second game, 'The March Hare's Endless Tea Party'!!"
-00083	Murasaki@r@vmura00070."So this IS themed around Alice in Wonderland..."
-00084	Lemon@r@vremo00060."But the mood's a lot darker... It's kind of like a real death game..."「でも……、ムード的に、今度こそデスゲームみたいな気がするしぃ……」
+00083	Murasaki@r@vmura00070."So this IS themed around 'Alice in Wonderland'..."
+00084	Lemon@r@vremo00060."But the mood's a lot darker... It's kind of like a real death game now..."
 00085	Hampu@r@vhanp00040."Why yes, of course! From now on, this is a full-fledged, life-betting death game!"
-00086	Lemon@r@vremo00070."F-Fuheee...?"「ふ、ふへぇえぇぇぇぇぇ………ッッ」
-00087	Cyan@r@vsian00080."Why're you acting surprised?! There is no exit, we're being chained and collared, and you yourself even called it a death game before!"
-00088	Lemon@r@vremo00080."I-I mean, sure but... Fuheee..."
+00086	Lemon@r@vremo00070."F-Fuheee...?"
+00087	Cyan@r@vsian00080."Why're you acting surprised?! There is no exit. We're being chained and collared. You yourself even called it a death game before!"
+00088	Lemon@r@vremo00080."I-I mean, yeah but... Fuheee..."
 00089	Murasaki@r@vmura00080."...Do you really want to participate as well, Korone?"
 00090	Korone@r@vsiro00280."Like I've said, it's only fair."
 00091	Korone@r@vsiro00290."The four of us were friends, no? At the very least, I believe we were."
-00092	Korone@r@vsiro00300."So then, why not bet our lives and gamble on this Death Game Reunion of ours together??"「だからせめて最後は、仲良し四人組で公平に生き死にを賭けての、デスゲーム同窓会にしようではないですか！！」
+00092	Korone@r@vsiro00300."So then, why not bet our lives and gamble on this Death Game Reunion of ours together?"
 00093	Hampu@r@vhanp00050."Now then, time to explain the rules! For this game, you will be using cards!"
 00094	Lemon@r@vremo00090."A trading card game? Just like Play: The Gathering?"
 00095	Cyan@r@vsian00090."You're a totally different person when games are involved, huh..."
-00096	ハンプ@r@vhanp00060."First off, one amongst you will be selected to play as the 'nuisance'!"
-00097	コロネ@r@vsiro00310."Of course, the nuisance's identity will be hidden to the others."
-00098	ハンプ@r@vhanp00070."The game ends when either the nuisance or the remainder wins!"「
-00099	紫@r@vmura00090."...Three victors, one loser. One victor, three losers..."
-00100	梓杏@r@vsian00100."The hell... So that means at least one person will lose...and die?!"
-00101	ハンプ@r@vhanp00080."That's exactly right! One loss and it's Game Over! Their fun will end there!"
-00102	レモン@r@vremo00100."Fuheee... And I'm guessing there's...no scenario where we all live...?"
-00103	コロネ@r@vsiro00320."Nope, none at all. Three of us will carry on, while the remaining one will be cast aside like a bullying victim."
-00104	レモン@r@vremo00110."Alright. I got the rules."
-00105	梓杏@r@vsian00110."L-Lemon..."
-00106	レモン@r@vremo00120."We've got no choice, there's no other way to leave this place. We're cut off from the outside."
-00107	レモン@r@vremo00130."All we've got is this... To win this game and survive."
-00108	@r　勇ましい言葉を口にするレモンだが、テーブルの下で握り締める拳は、滴るほどに汗にまみれ、震えている。
-00109	コロネ@r@vsiro00330."When it comes to game theory, you've always been quick on the uptake, Lemon. It's one of your strongest qualities.
-00110	レモン@r@vremo00140."Oh...t-thank you, fuhehe..."
-00111	紫@r@vmura00100."...Korone, what pushed you to organize this 'reunion'...is a consequence of our actions."
-00112	紫@r@vmura00110."No matter how painful, how frustrated I am...I cannot think of any words to say to you."
-00113	紫@r@vmura00120."But if it lets me atone for what I did, then...then I'll face your challenge head on.
-00114	コロネ@r@vsiro00340."Thank you, Murasaki. If the both of us survive, let's reconcile."
-00115	梓杏@r@vsian00120."...You mean, no matter the outcome, you'll forgive us?"
-00116	コロネ@r@vsiro00350."Indeed. Even if I die, even if I'm the only one alive, all will be water under bridge."
-00117	梓杏@r@vsian00130."Gh..."
-00118	梓杏@r@vsian00140."Phewwwwww! Alright, I'm ready, bring it on!"
-00119	コロネ@r@vsiro00360."Interpreting it like a fight is very much like you, Cyan. It reminds me of the past."
-00120	梓杏@r@vsian00150."Card games aren't my thing at all! Let's settle this with our muscles!"
-00121	コロネ@r@vsiro00370."Nooooo you caaaaan't~"
+00096	Hampu@r@vhanp00060."First off, one amongst you will be selected to play as the 'nuisance'!"
+00097	Korone@r@vsiro00310."Of course, the nuisance's identity will be hidden to the others."
+00098	Hampu@r@vhanp00070."The game ends when either the nuisance or the remainder wins!"「
+00099	Murasaki@r@vmura00090."...Three victors, one loser. One victor, three losers..."
+00100	Cyan@r@vsian00100."The hell... So that means at least one person will lose...and die?!"
+00101	Hampu@r@vhanp00080."That's exactly right! One loss and it's Game Over! Their fun will end there!"
+00102	Lemon@r@vremo00100."Fuheee... And I'm guessing there's...no scenario where we all live...?"
+00103	Korone@r@vsiro00320."Nope, none at all. Three of us will carry on, while the remaining one will be cast aside like a bullying victim."
+00104	Lemon@r@vremo00110."Alright. I got the rules."
+00105	Cyan@r@vsian00110."L-Lemon..."
+00106	Lemon@r@vremo00120."We've got no choice, there's no other way to leave this place. We're cut off from the outside."
+00107	Lemon@r@vremo00130."All we've got is to move forward... To win this game and survive."
+00108	@rHer words may be brave, but her shaking, sweaty fists under the table betray her feelings.
+00109	Korone@r@vsiro00330."When it comes to game theory, you've always been quick on the uptake, Lemon. It's one of your strongest qualities.
+00110	Lemon@r@vremo00140."Oh...t-thank you, fuhehe..."
+00111	Murasaki@r@vmura00100."...Korone, what pushed you to organize this 'reunion'...is a consequence of our actions."
+00112	Murasaki@r@vmura00110."No matter how painful, how frustrated I am...I cannot think of any words to say to you."
+00113	Murasaki@r@vmura00120."But if it lets me atone for what I did, then...then I'll face your challenge head on.
+00114	Korone@r@vsiro00340."Thank you, Murasaki. If the both of us survive, let's reconcile."
+00115	Cyan@r@vsian00120."...You mean, no matter the outcome, you'll forgive us?"
+00116	Korone@r@vsiro00350."Indeed. Even if I die, even if I'm the only one alive, all will be water under bridge."
+00117	Cyan@r@vsian00130."Gh..."
+00118	Cyan@r@vsian00140."Phewwwwww! Alright, I'm ready, bring it on!"
+00119	Korone@r@vsiro00360."Interpreting it like a fight is very much like you, Cyan. It reminds me of the past."
+00120	Cyan@r@vsian00150."Card games aren't my thing at all! Let's settle this with our muscles!"
+00121	Korone@r@vsiro00370."Nooooo you caaaaan't~"
 00122	@rThat slurred, surprised reaction... It was, without a doubt, coming from the Korone of back then.
-00123	ハンプ@r@vhanp00090."Without further ado, let's continue with the game explanations!"
+00123	Hampu@r@vhanp00090."Without further ado, let's continue with the game explanations!"
 00124	@rOne person will randomly be assigned the role of 'nuisance' in secret.
 
 00125	@rThe game ends whenever the nuisance or the remaining group loses.　勝負は、邪魔者１人が勝つか、それ以外の３人が勝つかで競われる。
@@ -140,35 +140,35 @@
 00133	ハンプ@r@vhanp00120."The numbers represent the time spent in the tea party. So for example '1' is one hour."
 00134	ハンプ@r@vhanp00130."Once ten hours have passed, the tea party is considered over and everyone but the nuisance wins!"
 00135	レモン@r@vremo00160."Seven cards, to a total of fifteen hours... When said like that, it sounds too easy."
-00136	ハンプ@r@vhanp00140.「今回の７枚はそういうことじゃが、多少、変動することもあるぞい！」
-00137	紫@r@vmura00140.「それで邪魔者さんは、これをどうやって妨害するのかしら……？」
-00138	コロネ@r@vsiro00380.「お茶会のカードは“成功”させないと、時間を加算できないんです」
-00139	梓杏@r@vsian00170.「つまり、邪魔者は、それを“失敗”させりゃいいんだな？　どうやってやる？」
-00140	コロネ@r@vsiro00390.「お茶会の成功は、そのお茶会に参加した全員が“成功”に投票すれば、無事に成功となります」
-00141	ハンプ@r@vhanp00150.「例えば！　この“２”と書かれたお茶会カードだと、２人のプレイヤーがお茶会に参加しなくてはならぬ」
-00142	紫@r@vmura00150.「２人？　誰がですの？」
-00143	ハンプ@r@vhanp00160.「手番のプレイヤーは必ず参加！　それ以外の参加者は手番プレイヤーが好きに決めてよいのじゃよ」
-00144	レモン@r@vremo00170.「……ふーん……。……犯人捜しゲームみたいな、役割隠匿系ってことかな……」
-00145	ハンプ@r@vhanp00170.「そしてお茶会参加者の２人には、このような投票カードが配られるのじゃ」
-00146	@r　丸テーブルの上に、シュルッシュルッと２枚のカードが現れる。
-00147	@r　どんな仕掛けで出てきたのか尋ねてみたいが、命のやり取りがかかっている今はどうでもいい。
-00148	紫@r@vmura00160.「“成功”のカードと、“失敗”のカード……」
-00149	レモン@r@vremo00180.「ふへへ……。お茶会の参加者は、この内の１枚を選んで投票するのかな？」
-00150	ハンプ@r@vhanp00180.「その通りじゃ！　その後、投票されたカードは集められてよくシャッフルしてから１枚ずつ公開する」
-00151	@r　投票されたカードが全て“成功”ならば、そのお茶会は成功。記された数字分の時間が経過する。
-00152	@r　もし、“失敗”が現れたら、そのお茶会は失敗。……そのお茶会カードは廃棄される。
-00153	レモン@r@vremo00190.「投票後のカードはシャッフルしてから公開ってことで、一応、無記名投票にはなってるけど……」
-00154	紫@r@vmura00170.「えぇ。今、例に出されている“２”のお茶会の場合、まさに茶番ですわ」
-00155	梓杏@r@vsian00180.「あ、そっか。自分が“成功”を投票したのに、“失敗”が出て来たら、それはつまり目の前のヤツが邪魔者で確定ってことじゃねぇか！」
-00156	レモン@r@vremo00200.「邪魔者だとバレたら、以降、お茶会の参加者には誰も指名しなくなる。すると“失敗”を投じる機会はなくなるから……」
-00157	コロネ@r@vsiro00400.「邪魔者はとても不利になります。それだけじゃない。邪魔者だとバレたら不利なルールがもうひとつあるんです」
-00158	ハンプ@r@vhanp00190.「それはのう、追放投票というルールじゃ！」
-00159	ハンプ@r@vhanp00200.「こいつは疑わしいッ、絶対に邪魔者じゃ！　もう絶対にお茶会には誘わぁん！　となっても、邪魔者にも手番が訪れるじゃろ？」
-00160	紫@r@vmura00180.「……そうですわね。正体がバレようが、自分の手番ならお茶会に参加できる」
-00161	レモン@r@vremo00210.「そして堂々と失敗できる、という訳だね。……つまり、バレてもまだワンチャンあるってことになる」
-00162	コロネ@r@vsiro00410.「そう。それを封じるのが、追放投票になります」
-00163	梓杏@r@vsian00190.「追放されるとどうなるんだよ。そいつの負けか？」
-00164	コロネ@r@vsiro00420.「手番がなくなります。手番中であっても。だから、自分でお茶会を開催して、自分で失敗を投じるという茶番が出来なくなる訳です」
+00136	ハンプ@r@vhanp00140."So it would seem! But be wary, things can easily turn south!"「今回の７枚はそういうことじゃが、多少、変動することもあるぞい！」
+00137	紫@r@vmura00140."So, how does the nuisance interfere with the tea party?"「それで邪魔者さんは、これをどうやって妨害するのかしら……？」
+00138	コロネ@r@vsiro00380."If not all of the party cards are a 'success' then time won't move forward."「お茶会のカードは“成功”させないと、時間を加算できないんです」
+00139	梓杏@r@vsian00170."So the nuisance just needs to make it 'fail' or something? How's that work?"「つまり、邪魔者は、それを“失敗”させりゃいいんだな？　どうやってやる？」
+00140	コロネ@r@vsiro00390."If all participants of the tea party choose for it to 'succeed', then it will succeed without fail."「お茶会の成功は、そのお茶会に参加した全員が“成功”に投票すれば、無事に成功となります」
+00141	ハンプ@r@vhanp00150."For example! Let's say someone plays the '2' card. It means that only two people will be participating to the tea party!"「例えば！　この“２”と書かれたお茶会カードだと、２人のプレイヤーがお茶会に参加しなくてはならぬ」
+00142	紫@r@vmura00150."Two people? And who might they be?"「２人？　誰がですの？」
+00143	ハンプ@r@vhanp00160."One is the player who played the card! The other one is invited from the other three by the first person."「手番のプレイヤーは必ず参加！　それ以外の参加者は手番プレイヤーが好きに決めてよいのじゃよ」
+00144	レモン@r@vremo00170."...Huh. It essentially plays like a social deduction game..."「……ふーん……。……犯人捜しゲームみたいな、役割隠匿系ってことかな……」
+00145	ハンプ@r@vhanp00170."And the two participating people will be using voting cards like these."「そしてお茶会参加者の２人には、このような投票カードが配られるのじゃ」
+00146	@rWith a rustling sound, two cards appeared on the round table.
+00147	@rOne would likely ask how those cards magically appeared, but in such a life-threatening situation this would be the least of their concerns.　どんな仕掛けで出てきたのか尋ねてみたいが、命のやり取りがかかっている今はどうでもいい。
+00148	紫@r@vmura00160."A 'success' card and a 'failure' card..."「“成功”のカードと、“失敗”のカード……」
+00149	レモン@r@vremo00180."Fuhehe... Do the tea party participants vote using these?"「ふへへ……。お茶会の参加者は、この内の１枚を選んで投票するのかな？」
+00150	ハンプ@r@vhanp00180."That's exactly right! And after everyone voted, the cards are gathered, given a good shuffle and revealed one by one."「その通りじゃ！　その後、投票されたカードは集められてよくシャッフルしてから１枚ずつ公開する」
+00151	@rIf all of the voting cards say 'success', then the tea party is a success and time moves forward according to the numbered card used.　投票されたカードが全て“成功”ならば、そのお茶会は成功。記された数字分の時間が経過する。
+00152	@rBut if even one of them says 'failure', then the tea party fails...and the numbered card is lost.　もし、“失敗”が現れたら、そのお茶会は失敗。……そのお茶会カードは廃棄される。
+00153	レモン@r@vremo00190."If the voting cards are shuffled, then this kind of becomes a secret ballot..."「投票後のカードはシャッフルしてから公開ってことで、一応、無記名投票にはなってるけど……」
+00154	紫@r@vmura00170."Indeed. And in the case of a 2-hour tea party, it pretty much becomes a farce."「えぇ。今、例に出されている“２”のお茶会の場合、まさに茶番ですわ」
+00155	梓杏@r@vsian00180."Ohh, I get it. If you voted 'success' but you see a 'failure', wouldn't that mean the other person's the nuisance?"「あ、そっか。自分が“成功”を投票したのに、“失敗”が出て来たら、それはつまり目の前のヤツが邪魔者で確定ってことじゃねぇか！」
+00156	レモン@r@vremo00200."If the nuisance is found out, they won't be invited for any other tea parties. Meaning that they can't make them 'fail' anymore..."「邪魔者だとバレたら、以降、お茶会の参加者には誰も指名しなくなる。すると“失敗”を投じる機会はなくなるから……」
+00157	コロネ@r@vsiro00400."The nuisance has quite the handicap. And that's not all. There is another rule which gives them another handicap."「邪魔者はとても不利になります。それだけじゃない。邪魔者だとバレたら不利なルールがもうひとつあるんです」
+00158	ハンプ@r@vhanp00190."And that is, the Banning Vote!"「それはのう、追放投票というルールじゃ！」
+00159	ハンプ@r@vhanp00200."You may think, 'This one's totally the nuisance, I'll never invite them again!' But even they get their turn to play, no?"「こいつは疑わしいッ、絶対に邪魔者じゃ！　もう絶対にお茶会には誘わぁん！　となっても、邪魔者にも手番が訪れるじゃろ？」
+00160	紫@r@vmura00180."...That is true. Even if they get found out, they can still participate to a tea party on their own turn."「……そうですわね。正体がバレようが、自分の手番ならお茶会に参加できる」
+00161	レモン@r@vremo00210."Meaning they won't have to hide themselves anymore... Basically, even if they're found out, there's still a a chance for them."「そして堂々と失敗できる、という訳だね。……つまり、バレてもまだワンチャンあるってことになる」
+00162	コロネ@r@vsiro00410."Exactly. This is where the Banning Vote comes into play."「そう。それを封じるのが、追放投票になります」
+00163	梓杏@r@vsian00190."So, what happens when they get banned? Do they just lose?"「追放されるとどうなるんだよ。そいつの負けか？」
+00164	コロネ@r@vsiro00420."Their turn gets skipped, even in the middle of it. That way, it prevents them from causing any more failed tea parties."「手番がなくなります。手番中であっても。だから、自分でお茶会を開催して、自分で失敗を投じるという茶番が出来なくなる訳です」
 00165	紫@r@vmura00190.「投票というからには、複数人の同意が必要なんですわよね？」
 00166	ハンプ@r@vhanp00210.「うむ。３人の同意で成立するぞい！」
 00167	梓杏@r@vsian00200.「……よくわかんねぇけど、間違って邪魔者じゃないヤツを追放したら、致命傷っぽいな……？」
