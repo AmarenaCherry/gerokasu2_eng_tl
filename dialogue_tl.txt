@@ -9,7 +9,7 @@
 16777221	テスト@r四分割
 16777222	テスト@rおわり！
 
-# section "Prologue"
+# section 「プロローグ」
 00007	Lemon@r@vremo90010.Korone? That's just her nickname.
 00008	Lemon@r@vremo90020.Her full name was...@rKurone Uzuhana, I think.
 00009	Lemon@r@vremo90030.But let me tell you, that girl sure was something!@rFuhehehe☆.
@@ -108,7 +108,7 @@
 00102	Lemon@r@vremo00100."Fuheee... And I'm guessing there's...no scenario where we all live...?"
 00103	Korone@r@vsiro00320."Nope, none at all. Three of us will carry on, while the remaining one will be cast aside like a bullying victim."
 00104	Lemon@r@vremo00110."Alright. I got the rules."
-00105	Cyan@r@vsian00110."L-Lemon..."
+00105	Cyan@r@vsian00110."Lemon..."
 00106	Lemon@r@vremo00120."We've got no choice, there's no other way to leave this place. We're cut off from the outside."
 00107	Lemon@r@vremo00130."All we've got is to move forward... To win this game and survive."
 00108	@rHer words may be brave, but her shaking, sweaty fists under the table betray her feelings.
@@ -129,140 +129,140 @@
 00123	Hampu@r@vhanp00090."Without further ado, let's continue with the game explanations!"
 00124	@rOne person will randomly be assigned the role of 'nuisance' in secret.
 
-00125	@rThe game ends whenever the nuisance or the remaining group loses.　勝負は、邪魔者１人が勝つか、それ以外の３人が勝つかで競われる。
-00126	ハンプ@r@vhanp00100."As the name implies, this game revolves around a tea party. If the group of three manage to end the endless tea party, they win!"
-00127	紫@r@vmura00130."...Conversely, if the nuisance manages to disturb the tea party, the nuisance wins."
-00128	レモン@r@vremo00150."In that case, what matters most is how to end the tea party."
-00129	ハンプ@r@vhanp00110."For that, you will be using these seven cards. Look at them well! Do you notice anything in particular with the number?"
-00130	梓杏@r@vsian00160."Huh...? None of them go higher than 3, how cheap."
+00125	@rThe game ends whenever the nuisance or the remaining group loses.
+00126	Hampu@r@vhanp00100."As the name implies, this game revolves around a tea party. If the group of three manage to end the endless tea party, they win!"
+00127	Murasaki@r@vmura00130."...Conversely, if the nuisance manages to disturb the tea party, the nuisance wins."
+00128	Lemon@r@vremo00150."In that case, what matters most is how to end the tea party."
+00129	Hampu@r@vhanp00110."For that, you will be using these seven cards. Look at them well! Do you notice anything in particular with the number?"
+00130	Cyan@r@vsian00160."Huh...? None of them go higher than 3, how cheap."
 00131	@rThe playing cards depicted a tea party table, all with a big number written on them.
 00132	@rOf the seven cards, one is numbered '1', four are numbered '2' and two are numbered '3'.
-00133	ハンプ@r@vhanp00120."The numbers represent the time spent in the tea party. So for example '1' is one hour."
-00134	ハンプ@r@vhanp00130."Once ten hours have passed, the tea party is considered over and everyone but the nuisance wins!"
-00135	レモン@r@vremo00160."Seven cards, to a total of fifteen hours... When said like that, it sounds too easy."
-00136	ハンプ@r@vhanp00140."So it would seem! But be wary, things can easily turn south!"「今回の７枚はそういうことじゃが、多少、変動することもあるぞい！」
-00137	紫@r@vmura00140."So, how does the nuisance interfere with the tea party?"「それで邪魔者さんは、これをどうやって妨害するのかしら……？」
-00138	コロネ@r@vsiro00380."If not all of the party cards are a 'success' then time won't move forward."「お茶会のカードは“成功”させないと、時間を加算できないんです」
-00139	梓杏@r@vsian00170."So the nuisance just needs to make it 'fail' or something? How's that work?"「つまり、邪魔者は、それを“失敗”させりゃいいんだな？　どうやってやる？」
-00140	コロネ@r@vsiro00390."If all participants of the tea party choose for it to 'succeed', then it will succeed without fail."「お茶会の成功は、そのお茶会に参加した全員が“成功”に投票すれば、無事に成功となります」
-00141	ハンプ@r@vhanp00150."For example! Let's say someone plays the '2' card. It means that only two people will be participating to the tea party!"「例えば！　この“２”と書かれたお茶会カードだと、２人のプレイヤーがお茶会に参加しなくてはならぬ」
-00142	紫@r@vmura00150."Two people? And who might they be?"「２人？　誰がですの？」
-00143	ハンプ@r@vhanp00160."One is the player who played the card! The other one is invited from the other three by the first person."「手番のプレイヤーは必ず参加！　それ以外の参加者は手番プレイヤーが好きに決めてよいのじゃよ」
-00144	レモン@r@vremo00170."...Huh. It essentially plays like a social deduction game..."「……ふーん……。……犯人捜しゲームみたいな、役割隠匿系ってことかな……」
-00145	ハンプ@r@vhanp00170."And the two participating people will be using voting cards like these."「そしてお茶会参加者の２人には、このような投票カードが配られるのじゃ」
+00133	Hampu@r@vhanp00120."The numbers represent the time spent in the tea party. So for example '1' is one hour."
+00134	Hampu@r@vhanp00130."Once ten hours have passed, the tea party is considered over and everyone but the nuisance wins!"
+00135	Lemon@r@vremo00160."Seven cards, to a total of fifteen hours... When said like that, it sounds too easy."
+00136	Hampu@r@vhanp00140."So it would seem! But be wary, things can easily turn south!"
+00137	Murasaki@r@vmura00140."So, how does the nuisance interfere with the tea party?"
+00138	Korone@r@vsiro00380."If not all of the party cards are a 'Success' then time won't move forward."
+00139	Cyan@r@vsian00170."So the nuisance just needs to make it 'fail' or something? How's that work?"
+00140	Korone@r@vsiro00390."If all participants of the tea party choose for it to 'succeed', then it will succeed without fail."
+00141	Hampu@r@vhanp00150."For example! Let's say someone plays the '2' card. It means that only two people will be participating to the tea party!"
+00142	Murasaki@r@vmura00150."Two people? And who might they be?"
+00143	Hampu@r@vhanp00160."One is the player who played the card! The other one is invited from the other three by the first person."
+00144	Lemon@r@vremo00170."...Huh. So this is kind of like a social deduction game..."
+00145	Hampu@r@vhanp00170."And the two participating people will be using voting cards like these."
 00146	@rWith a rustling sound, two cards appeared on the round table.
-00147	@rOne would likely ask how those cards magically appeared, but in such a life-threatening situation this would be the least of their concerns.　どんな仕掛けで出てきたのか尋ねてみたいが、命のやり取りがかかっている今はどうでもいい。
-00148	紫@r@vmura00160."A 'success' card and a 'failure' card..."「“成功”のカードと、“失敗”のカード……」
-00149	レモン@r@vremo00180."Fuhehe... Do the tea party participants vote using these?"「ふへへ……。お茶会の参加者は、この内の１枚を選んで投票するのかな？」
-00150	ハンプ@r@vhanp00180."That's exactly right! And after everyone voted, the cards are gathered, given a good shuffle and revealed one by one."「その通りじゃ！　その後、投票されたカードは集められてよくシャッフルしてから１枚ずつ公開する」
-00151	@rIf all of the voting cards say 'success', then the tea party is a success and time moves forward according to the numbered card used.　投票されたカードが全て“成功”ならば、そのお茶会は成功。記された数字分の時間が経過する。
-00152	@rBut if even one of them says 'failure', then the tea party fails...and the numbered card is lost.　もし、“失敗”が現れたら、そのお茶会は失敗。……そのお茶会カードは廃棄される。
-00153	レモン@r@vremo00190."If the voting cards are shuffled, then this kind of becomes a secret ballot..."「投票後のカードはシャッフルしてから公開ってことで、一応、無記名投票にはなってるけど……」
-00154	紫@r@vmura00170."Indeed. And in the case of a 2-hour tea party, it pretty much becomes a farce."「えぇ。今、例に出されている“２”のお茶会の場合、まさに茶番ですわ」
-00155	梓杏@r@vsian00180."Ohh, I get it. If you voted 'success' but you see a 'failure', wouldn't that mean the other person's the nuisance?"「あ、そっか。自分が“成功”を投票したのに、“失敗”が出て来たら、それはつまり目の前のヤツが邪魔者で確定ってことじゃねぇか！」
-00156	レモン@r@vremo00200."If the nuisance is found out, they won't be invited for any other tea parties. Meaning that they can't make them 'fail' anymore..."「邪魔者だとバレたら、以降、お茶会の参加者には誰も指名しなくなる。すると“失敗”を投じる機会はなくなるから……」
-00157	コロネ@r@vsiro00400."The nuisance has quite the handicap. And that's not all. There is another rule which gives them another handicap."「邪魔者はとても不利になります。それだけじゃない。邪魔者だとバレたら不利なルールがもうひとつあるんです」
-00158	ハンプ@r@vhanp00190."And that is, the Banning Vote!"「それはのう、追放投票というルールじゃ！」
-00159	ハンプ@r@vhanp00200."You may think, 'This one's totally the nuisance, I'll never invite them again!' But even they get their turn to play, no?"「こいつは疑わしいッ、絶対に邪魔者じゃ！　もう絶対にお茶会には誘わぁん！　となっても、邪魔者にも手番が訪れるじゃろ？」
-00160	紫@r@vmura00180."...That is true. Even if they get found out, they can still participate to a tea party on their own turn."「……そうですわね。正体がバレようが、自分の手番ならお茶会に参加できる」
-00161	レモン@r@vremo00210."Meaning they won't have to hide themselves anymore... Basically, even if they're found out, there's still a a chance for them."「そして堂々と失敗できる、という訳だね。……つまり、バレてもまだワンチャンあるってことになる」
-00162	コロネ@r@vsiro00410."Exactly. This is where the Banning Vote comes into play."「そう。それを封じるのが、追放投票になります」
-00163	梓杏@r@vsian00190."So, what happens when they get banned? Do they just lose?"「追放されるとどうなるんだよ。そいつの負けか？」
-00164	コロネ@r@vsiro00420."Their turn gets skipped, even in the middle of it. That way, it prevents them from causing any more failed tea parties."「手番がなくなります。手番中であっても。だから、自分でお茶会を開催して、自分で失敗を投じるという茶番が出来なくなる訳です」
-00165	紫@r@vmura00190."And for this Banning Vote to pass, I assume everyone else must agree to it, do they?"「投票というからには、複数人の同意が必要なんですわよね？」
-00166	ハンプ@r@vhanp00210."Why yes, all three voters must agree!"「うむ。３人の同意で成立するぞい！」
-00167	梓杏@r@vsian00200."...Not sure I get it but, sounds like if someone other than the nuisance gets banned, it would be rough..."「……よくわかんねぇけど、間違って邪魔者じゃないヤツを追放したら、致命傷っぽいな……？」
-00168	レモン@r@vremo00220."After all we need everyone to be in unanimity... Whether they're the nuisance or not, once the vote is declared, it would be the end for the accused."「実質的に全員の同意が必要になる訳だし。……邪魔者だろうと冤罪だろうと、この宣言が成立した時点で、ほぼ勝敗は確定的になるよ……」
-00169	紫@r@vmura00200."Essentially, for the nuisance, getting their identity exposed would be akin to a death sentance."「邪魔者は、とにかく自分の正体を気取られたら致命的、という訳ですわね」
-00170	コロネ@r@vsiro00430."Once a Banning Vote has been made, it can't be performed again. It's a trump card that can only be used once during the game."「追放投票が成立したら、もう行うことは出来ません。ゲーム中に一度だけの切り札ということですね」
-00171	レモン@r@vremo00230."Fuhee... Being the nuisance kinda sounds like hell... Isn't it a bit too much of an impossible game...?"「ふへぇ……。なんか邪魔者ばっかり不利過ぎない？　邪魔者に選ばれたら無理ゲー過ぎる……」
-00172	ハンプ@r@vhanp00220."Ho-Ho-Ho! Obviously, not all is doom and gloom for them! Some rules exist in their favor too!"「ホッホッホ！　もちろん、これだけでは邪魔者が可哀想なのじゃ～！　ちゃあんと、邪魔者を有利にするルールもあるのじゃ！」
-00173	梓杏@r@vsian00210."...Lemme guess, it'll be key to this 'Endless Tea Party' or something?"「……それが、この終わらないお茶会ゲームとやらの肝なんだろ？」
-00174	ハンプ@r@vhanp00230."That's exactly right! Along with your vote cards, I'll add one random 'success' or 'failure' card to the pile!"「その通りじゃ！　成功か失敗のカードを投票した後には、さらに１枚、成功か失敗の書かれたカードがランダムに加えられるのじゃ！」
-00175	コロネ@r@vsiro00440."So if we all vote 'success' but the random card says 'failure', that would mean the tea party would be a 'failure' too"「つまり。全員が成功を投票しても、ランダムに加えられた１枚のカードが失敗だったなら、そのお茶会は失敗となる訳ですね」
-00176	梓杏@r@vsian00220."Hey, wait! That's just a game of luck!"「それじゃ、マジでただの運ゲーじゃねぇかよッ」
-00177	ハンプ@r@vhanp00240."Of course, the odds are low! The chances of getting a random 'failure' are only 25%!"「もちろん確率は低いぞい！　加えられるカードが失敗なのは２５％だけじゃ」
-00178	レモン@r@vremo00240."...These may be low odds, but if you stack enough of them..."「……低いは低いけど、もしその低確率がたまたま重なったら……」
-00179	紫@r@vmura00210."Then it would be possible for the nuisance to win without doing a single thing."「邪魔者は、何もせずに勝ちを拾えることもあり得る訳ですわね」
-00180	梓杏@r@vsian00230."That means we can just lose even if we do everything right?! That just sucks! What's even the point!"「つまり、運次第でどう足掻いても負ける時があるってことだろ！　とんでもねぇ運ゲーじゃねぇか！」
-00181	ハンプ@r@vhanp00250."Baaack Come Ooooon!! From board games, to poker, to hanafuda, to mahjong, to even pachinko! Every game we know and love is tied to luck one way or another!!" 「ヴァッカムお～ン！！！　すごろくに始まり、トランプ、花札、麻雀、果てにはパチンコまで！　長く愛されるゲームには必ず運が絡むのじゃ！！」
-00182	コロネ@r@vsiro00450."Reading your opponent and bluffing. Then add in a pinch of luck. Don't these 25% sound like the perfect bland of chaos?"「読み合いと駆け引き。そこに運が一摘み。それが、２５％のイレギュラーという塩梅なんでしょうねぇ」
-00183	ハンプ@r@vhanp00260."Why yes! Our little Korone here understands perfectly♪"「そうじゃ！　コロネちゃんはよぉくわかってるの～♪」
-00184	コロネ@r@vsiro00460."And with that, we've explained everything. Next up, why don't we do a practice game?"「これでルール説明は終わりですっ。まずは１回、練習でプレイしてみましょう」
-00185	レモン@r@vremo00250."Sure, I guess this will be our tutorial."「いいね、チュートリアルって訳だねぇ」
-00186	紫@r@vmura00220."This isn't the real thing, right?"「これは本番ではないんですわよね？」
-00187	コロネ@r@vsiro00470."That's right. There are no consequences if you lose."「うん。勝っても負けても関係ないです」
-00188	梓杏@r@vsian00240."Alright, let's get on with it then! I'll get it faster with a game than with words!"「っしゃ。まずはやってみようぜ。説明聞くより、実際にやった方が早ぇからなっ」
-00189	ハンプ@r@vhanp00270."Ho-Ho! Now then, I'll choose which one of you will become the nuisance!"「ホッホー！　それでは今から、ワシがランダムに決めた子を邪魔者に決定するぞい！」
-00190	ハンプ@r@vhanp00280."The chosen girl will be given a signal. As a test, I'll send it to everyone.! Here we go!"「邪魔者に決まった子には、こんな感じの合図を送るのじゃ。試しに、今から全員に送るぞ！　そおれ！」
-00191	@rTwitch, twitch. ピクンピクン。
-00192	レモン@r@vremo00260."Woah... I can feel my neck twitching."「うわ、……首がピクピクってしたぁ」
-00193	梓杏@r@vsian00250."T-The hell...! It's so awkward..."「な、何だよこれ、こそばゆいな……！」
-00194	紫@r@vmura00230."...I'm assuming these are muscle spasms induced by an electrode or similar."「……微弱な電流で筋肉を痙攣させる健康器具みたいですわね」
-00195	ハンプ@r@vhanp00290."Why, yes, they're inside each of your collars. That way, the signal can be received without anyone else being aware of it."「そうじゃ。みんなの首輪の内側に取り付けられておる。これなら、誰にも知られずに合図を受け取れるという訳じゃ」
-00196	コロネ@r@vsiro00480."If it was a sound or some kind of light, other people could've noticed them too."「音とか光とかだったら、他の人にバレちゃうかもしれませんからね」
-00197	ハンプ@r@vhanp00300."Next up, I'll send the signal to only the nuisance! Here we go!"「それでは次は、邪魔者に決まった子にのみ合図を送るぞい！　そおれ！！」
-00198	@rEveryone was silent. Has the signal been sent...? Or not yet?　Or, maybe they simply failed to notice it... みんな、沈黙している。……合図は来たのか、来ないのか。それとも、本当は来たけど、自分が気付かなかったとか……。
-00199	梓杏@r@vsian00260."Not even a sound... We got way of knowing who got the signal, huh."「何の音もしねぇ。……誰に合図が行ったのか、まったくわかんねぇな」
-00200	レモン@r@vremo00270."Even if someone was being all twitchy, they could just pretend nothing happened..."「この中の誰かが、ピクピクがあっても、何もなかったようなフリをしてるんだよねぇ……」
-00201	ハンプ@r@vhanp00310."Normally, I would also randomize the seats but this is a practice run, so let's play as is!"「本番では開始前にランダムな席替えなども行なうのじゃが、今回はお試しプレイなので、このままスタートじゃ」
-00202	ハンプ@r@vhanp00320."Now then. Korone, it's your turn!"「それでは、コロネちゃんからスタートにするぞい！」
-00203	コロネ@r@vsiro00490."First off, the acting player chooses a tea party card from the set."「まず、手番のプレイヤーは、場に出ているお茶会カードの中から、どれを開催するかを選びます」
-00204	コロネ@r@vsiro00500."For this example, I'll pick a 2-hour tea time."「最初は無難に、２のお茶会を選ぶことにします」
-00205	@rKorone picked the tea party card marked with a number 2.　コロネは２の数字の記されたお茶会のカードを選ぶ。
-00206	@rIt was adorned with a lovely drawing, with a design reminiscent of story books for western fairy tales.　西洋童話の挿し絵のようなものが描かれた、飾っても素敵そうなカードだった。
-00207	レモン@r@vremo00280."For a 2-hour tea party, two people are needed. One is Korone, the other one will be a person of her choosing..."「２のお茶会は、２人が参加する。ひとりはコロネちゃんで、もうひとりはコロネちゃんが選ぶ……」
-00208	コロネ@r@vsiro00510."Indeed. You're incredible, Lemon. You're very quick at understanding game rules."「そういうことです。さすがレモンさん。ゲームの理解がいつも早いです」
-00209	レモン@r@vremo00290."Fuhehe... T-That's not much..."「ふへへぇ……。ま、まぁね」
-00210	コロネ@r@vsiro00520."Then I'll invite Lemon to this tea party. Let's treat each other well."「じゃあ、２のお茶会にお誘いするのはレモンさんにします。よろしくね」
-00211	紫@r@vmura00240."A game about being invited to tea parties... How posh."「お茶会にお誘いなんて、優雅なゲームですわね」
-00212	梓杏@r@vsian00270.「……んで。二人は投票とやらをするんだな？」
-00213	ハンプ@r@vhanp00330.「ホッホッホ、その通りじゃ！　では、投票のカードを配るぞい！　そおれ！」
-00214	@r　丸テーブルの中央にスリットが開き、コロネとレモンの前にそれぞれ２枚のカードがシュルシュルッと吐き出される。
-00215	@r　コロネがそれをめくると、不思議の国のアリスのお茶会をイメージしたイラストが描かれていて、それぞれに、成功と失敗と書かれていた。
-00216	@r　失敗の方には、ウサギが紅茶のカップを零してしまって、さぁ大変、みたいなイラストが描かれている……。
-00217	コロネ@r@vsiro00530.「成功と、失敗。この２枚のどちらかを、誰にも見せずに選択して、伏せたままテーブル中央に投票します」
-00218	レモン@r@vremo00300.「なるほど……。これで、誰がどっちを投票したかはわからない訳だ」
-00219	ハンプ@r@vhanp00340.「そしてそこに、さらに１枚、ワシがランダムなカードを混ぜるのじゃ。そおれ！」
-00220	@r　テーブル中央のスリットが開き、裏向きの投票カードが１枚、飛び出してくる。
-00221	@r　コロネとレモンが選んだ投票カードに混じり、３枚となる。
-00222	梓杏@r@vsian00280.「んで、この３枚を引っ繰り返して、全部が成功ならいいわけだろ」
-00223	ハンプ@r@vhanp00350.「おぉっとっとぉ！　３枚をまとめて引っ繰り返してはならんぞい！　１枚ずつ公開していくのじゃ」
-00224	ハンプ@r@vhanp00360.「そして、失敗が出たら、まだ引っ繰り返していないカードは、そのまま引っ繰り返さずおしまいにするのじゃよ」
-00225	梓杏@r@vsian00290.「……面倒臭ぇルールだな」
-00226	コロネ@r@vsiro00540.「公開前には、その３枚はよ～くシャッフルしてください」
-00227	コロネ@r@vsiro00550.「ね？　こうすれば、どのカードが誰によって投票されたものか、わからなくなる」
-00228	梓杏@r@vsian00300.「なら、もうまとめて引っ繰り返してもいいんじゃねぇのか？　１枚ずつなんてケチ臭ぇ」
-00229	レモン@r@vremo00310.「……あー、なるほどぉ。……失敗が２枚出ちゃうことを避けるルールかぁ……」
-00230	紫@r@vmura00250.「なるほど。……失敗が出ても、邪魔者には常に言い訳が出来る余地が残されていると……」
-00231	梓杏@r@vsian00310.「ああ？　何、二人で勝手に納得してんだよ。全然、意味がわかんねぇ」
-00232	コロネ@r@vsiro00560.「うーんと。こうしないとみんなが公平なゲームにならないから、だよ♪」
-00233	梓杏@r@vsian00320.「そ、そうか……。じゃあ仕方ねぇな……」
-00234	@r　コロネはルール通りに、よくシャッフルした後に、１枚ずつ公開していく。
-00235	@r　１枚目、成功。@k@|……２枚目、成功。
-00236	@r　３枚目……………、
-00237	@r　成功だ。
-00238	紫@r@vmura00260.「全て、成功でしたわね。つまり、２のお茶会は成功という訳ですわね」
-00239	レモン@r@vremo00320.「これで、２時間が経過。……１０時間経過でアガリだから、あと８時間、と……」
-00240	梓杏@r@vsian00330.「まだ先は長ぇってことだな」
-00241	@r　テーブル中央にガポッと四角い穴が開く。投票カードの全てをそこに捨てる。
-00242	@r　……これで、手番は終了だ。
-00243	コロネ@r@vsiro00570.「じゃあ、時計回りということで。次の手番は紫さんです」
-00244	紫@r@vmura00270.「……では私は、思い切って３のお茶会を試してみようと思います」
-00245	レモン@r@vremo00330.「ふへぇ、……いきなり攻めるねぇ？」
-00246	紫@r@vmura00280.「あくまでも練習のゲームですので。色々と試してみたいだけですわ」
-00247	梓杏@r@vsian00340.「……３のお茶会だと、３人が参加する訳だな？」
-00248	コロネ@r@vsiro00580.「はい。１人は手番プレイヤーの紫さん。残り２人は紫さんが決めます」
-00249	ハンプ@r@vhanp00370.「決定権は紫ちゃんにあるが、相談したり発言したりは、誰がしてもいいのじゃ！」
-00250	レモン@r@vremo00340.「なるほどねぇ……。うん、わかった」
-00251	レモン@r@vremo00350.「じゃあ発言するよ。紫ちゃん、そのお茶会にはぜひ私を誘って欲しいな」
-00252	紫@r@vmura00290.「レモンさんは、たった今、成功したお茶会の参加者ですものね。……なるほど、確かに誘う価値はありそうですわ」
-00253	梓杏@r@vsian00350.「じゃあ、私も立候補するぞ。勝ちたいなら私を選べ」
-00254	紫@r@vmura00300.「とても強気ですけれど、何か根拠はありまして？」
-00255	梓杏@r@vsian00360.「ああ？　私が邪魔者じゃねぇからだよ」
-00256	コロネ@r@vsiro00590.「クスクスクス。梓杏さんらしい、情熱的なアピールです」
-00257	紫@r@vmura00310.「ですわね。では、この３人でお茶会を開くことにしますわ」
-00258	ハンプ@r@vhanp00380.「それでは、紫ちゃん、レモンちゃん、梓杏ちゃんに投票カードを配るぞい！」
+00147	@rOne would likely ask how those cards magically appeared, but in such a life-threatening situation this would be the least of their concerns.
+00148	Murasaki@r@vmura00160."A 'Success' card and a 'Failure' card..."
+00149	Lemon@r@vremo00180."Fuhehe... Do the tea party participants vote using these?"
+00150	Hampu@r@vhanp00180."That's exactly right! And after everyone voted, the cards are gathered, given a good shuffle and revealed one by one."
+00151	@rIf all of the voting cards say 'Success', then the tea party is a Success and time moves forward according to the numbered card used.
+00152	@rBut if even one of them says 'Failure', then the tea party fails...and the numbered card is lost.
+00153	Lemon@r@vremo00190."If the voting cards are shuffled, then this kind of becomes a secret ballot..."
+00154	Murasaki@r@vmura00170."Indeed. And in the case of a 2-hour tea party, it pretty much becomes a farce."
+00155	Cyan@r@vsian00180."Ohh, I get it. If you voted 'Success' but you see a 'Failure', wouldn't that mean the other person's the nuisance?"
+00156	Lemon@r@vremo00200."If the nuisance is found out, they won't be invited for any other tea parties. Meaning that they can't make them 'fail' anymore..."
+00157	Korone@r@vsiro00400."The nuisance has quite the handicap. And that's not all. There is another rule which gives them another handicap."
+00158	Hampu@r@vhanp00190."And that is, the Banning Vote!"
+00159	Hampu@r@vhanp00200."You may think, 'This one's totally the nuisance, I'll never invite them again!' But even they get their turn to play, no?"
+00160	Murasaki@r@vmura00180."...That is true. Even if they get found out, they can still participate to a tea party on their own turn."
+00161	Lemon@r@vremo00210."Meaning they won't have to hide themselves anymore... Basically, even if they're found out, there's still a a chance for them."
+00162	Korone@r@vsiro00410."Exactly. This is where the Banning Vote comes into play."
+00163	Cyan@r@vsian00190."So, what happens when they get banned? Do they just lose?"
+00164	Korone@r@vsiro00420."Their turn gets skipped, even in the middle of it. That way, it prevents them from causing any more failed tea parties."
+00165	Murasaki@r@vmura00190."And for this Banning Vote to pass, I assume everyone else must agree to it, do they?"
+00166	Hampu@r@vhanp00210."Why yes, all three voters must agree!"
+00167	Cyan@r@vsian00200."...Not sure I get it but, sounds like if someone other than the nuisance gets banned, it would be rough..."
+00168	Lemon@r@vremo00220."After all we need everyone to be in unanimity... Whether they're the nuisance or not, once the vote is declared, it would be the end for the accused."
+00169	Murasaki@r@vmura00200."Essentially, for the nuisance, getting their identity exposed would be akin to a death sentance."
+00170	Korone@r@vsiro00430."Once a Banning Vote has been made, it can't be performed again. It's a trump card that can only be used once during the game."
+00171	Lemon@r@vremo00230."Fuhee... Being the nuisance kinda sounds like hell... Isn't it a bit too much of an impossible game...?"
+00172	Hampu@r@vhanp00220."Ho-Ho-Ho! Obviously, not all is doom and gloom for them! Some rules exist in their favor too!"
+00173	Cyan@r@vsian00210."...Lemme guess, it'll be key to this 'Endless Tea Party' or something?"
+00174	Hampu@r@vhanp00230."That's exactly right! Along with your vote cards, I'll add one random 'Success' or 'Failure' card to the pile!"
+00175	Korone@r@vsiro00440."So if we all vote 'Success' but the random card says 'Failure', that would mean the tea party would be a 'Failure' too"
+00176	Cyan@r@vsian00220."Hey, wait! That's just a game of luck!"
+00177	Hampu@r@vhanp00240."Of course, the odds are low! The chances of getting a random 'Failure' are only 25%!"
+00178	Lemon@r@vremo00240."...These may be low odds, but if you stack enough of them..."
+00179	Murasaki@r@vmura00210."Then it would be possible for the nuisance to win without doing a single thing."
+00180	Cyan@r@vsian00230."That means we can just lose even if we do everything right?! That just sucks! What's even the point!"
+00181	Hampu@r@vhanp00250."Baaack Come Ooooon!! From board games, to poker, to hanafuda, to mahjong, to even pachinko! Every game we know and love is tied to luck one way or another!!"
+00182	Korone@r@vsiro00450."Reading your opponent and bluffing. Then add in a pinch of luck. Don't these 25% sound like the perfect blend of chaos?"
+00183	Hampu@r@vhanp00260."Why yes! Our little Korone here understands perfectly♪"
+00184	Korone@r@vsiro00460."And with that, we've explained everything. Next up, why don't we do a practice game?"
+00185	Lemon@r@vremo00250."Sure, I guess this will be our tutorial."
+00186	Murasaki@r@vmura00220."This isn't the real thing, right?"
+00187	Korone@r@vsiro00470."That's right. There are no consequences if you lose."
+00188	Cyan@r@vsian00240."Alright, let's get on with it then! I'll get it faster with a game than with words!"
+00189	Hampu@r@vhanp00270."Ho-Ho! Now then, I'll choose which one of you will become the nuisance!"
+00190	Hampu@r@vhanp00280."The chosen girl will be given a signal. As a test, I'll send it to everyone.! Here we go!"
+00191	@rTwitch, twitch.
+00192	Lemon@r@vremo00260."Woah... I can feel my neck twitching."
+00193	Cyan@r@vsian00250."T-The hell...! It's so awkward..."
+00194	Murasaki@r@vmura00230."...I'm assuming these are muscle spasms induced by an electrode or similar."
+00195	Hampu@r@vhanp00290."Why, yes, they're inside each of your collars. That way, the signal can be received without anyone else being aware of it."
+00196	Korone@r@vsiro00480."If it was a sound or some kind of light, other people could notice them too."
+00197	Hampu@r@vhanp00300."Next up, I'll send the signal to only the nuisance! Here we go!"
+00198	@rEveryone was silent. Has the signal been sent...? Or not yet?　Or, maybe they simply failed to notice it... 
+00199	Cyan@r@vsian00260."Not even a sound... We got way of knowing who got the signal, huh."
+00200	Lemon@r@vremo00270."Even if someone was being all twitchy, they could just pretend nothing happened..."
+00201	Hampu@r@vhanp00310."Normally, I would also randomize the seats but this is a practice run, so let's play as is!"
+00202	Hampu@r@vhanp00320."Now then. Korone, it's your turn!"
+00203	Korone@r@vsiro00490."First off, the acting player chooses a tea party card from the set."
+00204	Korone@r@vsiro00500."For this example, I'll pick a 2-hour tea time."
+00205	@rKorone picked the tea party card marked with a number 2.
+00206	@rIt was adorned with a lovely drawing, with a design reminiscent of story books about western fairy tales.
+00207	Lemon@r@vremo00280."For a 2-hour tea party, two people are needed. One is Korone, the other one will be a person of her choosing..."
+00208	Korone@r@vsiro00510."Indeed! You're incredible, Lemon! You're very quick at understanding game rules."
+00209	Lemon@r@vremo00290."Fuhehe... T-That's not much..."
+00210	Korone@r@vsiro00520."Then I'll invite Lemon to this tea party. Let's treat each other well."
+00211	Murasaki@r@vmura00240."A game about being invited to tea parties... How posh."
+00212	Cyan@r@vsian00270."...And? What do they do now? Do they just vote?"
+00213	Hampu@r@vhanp00330."Ho-Ho-Ho! Why, indeed! Without further ado, you may use your voting cards! Heeere you go!"
+00214	@rAt the center of the round table appeared a slit, from which two cards were spit out in front of Korone and Lemon.
+00215	@rAnd as Korone flipped them, illustrations of Alice in Wonderland's tea party were shown, with 'Success' or 'Failure' written on each card.
+00216	@rOn the 'Failure' card was an illustration of a rabbit spilling tea, with a worried look.
+00217	Korone@r@vsiro00530."'Success' and 'Failure'. Choose one of these two in secrecy, then place your vote in the center of the table, face down.
+00218	Lemon@r@vremo00300."I see... That way, nobody knows who woted what."
+00219	Hampu@r@vhanp00340."In addition, I'll add one random card to the pile. Here!"
+00220	@rAnother card came out of the slit in the middle of the table, also face down.
+00221	@rIncluding the cards Korone and Lemon selected, the count was now to three.
+00222	Cyan@r@vsian00280."So, now we just flip them over and see if they all say 'Success', right?"
+00223	Hampu@r@vhanp00350."Not so fast! We do not flip them all at once. We instead go one by one."
+00224	Hampu@r@vhanp00360."And if a 'Failure' is found, then the tea party ends with any remaining face down card left untouched."
+00225	Cyan@r@vsian00290."...Man, what a pain."
+00226	Korone@r@vsiro00540."But before that, we'll give them a good shuffle or two."
+00227	Korone@r@vsiro00550."You see? Like that, we won't be able to tell which card belongs to who."
+00228	Cyan@r@vsian00300."Then wouldn't be OK to just flip them all at the same time? That one-by-one just feels kind of stingy."
+00229	Lemon@r@vremo00310."...Ahhh, I get it. It's so we don't know how many 'Failure' cards were played..."
+00230	Murasaki@r@vmura00250."I see... Even if a 'Failure' appears, that rule leaves the nuisance some wiggle room."
+00231	Cyan@r@vsian00310."Huh? What are you two blabbing about? I didn't get a single thing."
+00232	Korone@r@vsiro00560."Ummm so, this is to give everyone a fair chance, see?♪"
+00233	Cyan@r@vsian00320."O-Oh ok... I guess that makes sense..."
+00234	@rAs per the rules, Korone shuffled the cards then revealed them one by one.
+00235	@rFirst card: Success. @k@|Second card: Success.
+00236	@rThird card...
+00237	@rSuccess.
+00238	Murasaki@r@vmura00260."All cards are a 'Success'. Meaning that the 2-hour tea party is a success."
+00239	Lemon@r@vremo00320."And the time moves forward by two hours... Eight out of ten remaining."
+00240	Cyan@r@vsian00330."We still got a long ways to go, huh."
+00241	@rA square hole opened up in the center of the table, the voting cards being all disposed into it.
+00242	@rAnd with that, the turn ended.
+00243	Korone@r@vsiro00570."We'll rotating turns clockwise, this time it's Murasaki's turn."
+00244	Murasaki@r@vmura00270."...I've decided. I will give the 3-hour tea party a try."
+00245	Lemon@r@vremo00330."Fuhee... Aren't you jumping the gun too quickly?"
+00246	Murasaki@r@vmura00280."In the end, this is but a test run. The perfect opportunity to experiment as much as possible."
+00247	Cyan@r@vsian00340."...A 3-hour tea party, so three people in total, right?"
+00248	Korone@r@vsiro00580."Yes. One being the acting player and the other two being people of their choosing."
+00249	Hampu@r@vhanp00370."Murasaki will have the final say on who can join, but outsider advice is perfectly fine too!"
+00250	Lemon@r@vremo00340."I see... Hm, got it."
+00251	Lemon@r@vremo00350."Then I have a proposal to make. Murasaki, I'd appreciate if you could invite me to your tea party."
+00252	Murasaki@r@vmura00290.I guess you WERE a participant of a successful tea party... Certainly, there is worth in what you're saying."
+00253	Cyan@r@vsian00350."Then I wanna join too, I'm your best bet of winning."
+00254	Murasaki@r@vmura00300."You're quite confident, but is there anything to back up your claim!"
+00255	Cyan@r@vsian00360."Huh?! I'm not the nuisance, y'know."
+00256	Korone@r@vsiro00590."Hehehe. This is quite like you, Cyan. Always so passionate."
+00257	Murasaki@r@vmura00310."She sure is. Alright, then us three will attend this tea party."
+00258	Hampu@r@vhanp00380."Now then! Murasaki, Lemon, Cyan, here are your voting cards!"
 00259	@r　テーブル上にスリットが開き、３人にそれぞれ、成功と失敗のカードが配られる。
 00260	@r　そして、それぞれに１枚ずつを選び出してテーブル中央に差し出す。
 00261	@r　そしてそこにランダムなカードが１枚、混ぜられて４枚の投票カードとなる……。
