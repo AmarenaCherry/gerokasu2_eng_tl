@@ -54,7 +54,7 @@
 00048	Korone@r@vsiro00140."And what kind of girl is Korone, pray tell?"
 00049	Korone@r@vsiro00150."Do you mean the idiotic, foolish, clumsy girl you would mess with by making her 'soothing' hair bounce?"
 00050	Lemon@r@vremo00050."U-Um...I mean...fuhehe..."
-00051	Korone@r@vsiro00160."Well SHE didn't go to school just to get bullied by YOUUUUUUUU!!!!"
+00051	Korone@r@vsiro00160."Well SHE didn't go to school just to to toyed around by YOUUUUUUUU!!!!"
 00052	Cyan@r@vsian00060."...I-I won't accept it. I can't accept it! I can't! You...you can't be Korone...!"
 00053	Korone@r@vsiro00170."Grrr, GRRRAAAAAAAAHHH!!! LIKE I WANT TO ACCEPT IT EITHERRRRRRRRR!!!"
 00054	Korone@r@vsiro00180."All of the parts you've seen! All of the parts you've touched! From my ears to my nose to my fingers to my lips! I don't want to acknowledge ANY OF IIIIIIIIT!!!"
@@ -64,7 +64,7 @@
 00058	Korone@r@vsiro00190."AND NOT JUST MY FACE!! From head to toe, every part that you've seen! Every part that you've touched! Every part that you teased me for, that you bullied me for! Everything, everything, EVERYTHING!!!"
 00059	Korone@r@vsiro90010.Isn't it beautiful? No matter how hard you look, you wouldn't even see a scar on me.
 00060	Korone@r@vsiro90020.I've been reborn! I broke out of the egg's shell and obtained a new body! A new Kurone came to be!
-00061	Korone@r@vsiro90030.So I could live my new life, away from you!
+00061	Korone@r@vsiro90030.So I could live my new life, in a new school, away from you!
 00062	Korone@r@vsiro90040.Liked by everyone, accepted by everyone, surrounded by so many friends, teased by no one, this was the life I've been yearning for!
 00063	Korone@r@vsiro00200."I was in bliss! Living my school life away from you three was pure bliss!!"
 00064	Korone@r@vsiro90050.Nobody from middle school knew me there! So I could pretend it never happened! The world where I was never bullied was finally in my grasp!!
@@ -115,14 +115,14 @@
 00109	Korone@r@vsiro00330."When it comes to game theory, you've always been quick on the uptake, Lemon. It's one of your strongest qualities.
 00110	Lemon@r@vremo00140."Oh...t-thank you, fuhehe..."
 00111	Murasaki@r@vmura00100."...Korone, what pushed you to organize this 'reunion'...is a consequence of our actions."
-00112	Murasaki@r@vmura00110."No matter how painful, how frustrated I am...I cannot think of any words to say to you."
-00113	Murasaki@r@vmura00120."But if it lets me atone for what I did, then...then I'll face your challenge head on.
+00112	Murasaki@r@vmura00110."No matter how painful, how frustrated I am...I cannot find the right words to say to you."
+00113	Murasaki@r@vmura00120."So if it lets me atone for what I did, then...then I'll face your challenge head on.
 00114	Korone@r@vsiro00340."Thank you, Murasaki. If the both of us survive, let's reconcile."
-00115	Cyan@r@vsian00120."...You mean, no matter the outcome, you'll forgive us?"
+00115	Cyan@r@vsian00120."...You mean, after all this, it'll be water under bridge?"
 00116	Korone@r@vsiro00350."Indeed. Even if I die, even if I'm the only one alive, all will be water under bridge."
 00117	Cyan@r@vsian00130."Gh..."
-00118	Cyan@r@vsian00140."Phewwwwww! Alright, I'm ready, bring it on!"
-00119	Korone@r@vsiro00360."Interpreting it like a fight is very much like you, Cyan. It reminds me of the past."
+00118	Cyan@r@vsian00140."Phewwwwww! Alright, I'm ready. Bring it on!"
+00119	Korone@r@vsiro00360."Interpreting it like a fight is very much like you, Cyan. How nostalgic."
 00120	Cyan@r@vsian00150."Card games aren't my thing at all! Let's settle this with our muscles!"
 00121	Korone@r@vsiro00370."Nooooo you caaaaan't~"
 00122	@rThat slurred, surprised reaction... It was, without a doubt, coming from the Korone of back then.
@@ -169,53 +169,53 @@
 00162	コロネ@r@vsiro00410."Exactly. This is where the Banning Vote comes into play."「そう。それを封じるのが、追放投票になります」
 00163	梓杏@r@vsian00190."So, what happens when they get banned? Do they just lose?"「追放されるとどうなるんだよ。そいつの負けか？」
 00164	コロネ@r@vsiro00420."Their turn gets skipped, even in the middle of it. That way, it prevents them from causing any more failed tea parties."「手番がなくなります。手番中であっても。だから、自分でお茶会を開催して、自分で失敗を投じるという茶番が出来なくなる訳です」
-00165	紫@r@vmura00190.「投票というからには、複数人の同意が必要なんですわよね？」
-00166	ハンプ@r@vhanp00210.「うむ。３人の同意で成立するぞい！」
-00167	梓杏@r@vsian00200.「……よくわかんねぇけど、間違って邪魔者じゃないヤツを追放したら、致命傷っぽいな……？」
-00168	レモン@r@vremo00220.「実質的に全員の同意が必要になる訳だし。……邪魔者だろうと冤罪だろうと、この宣言が成立した時点で、ほぼ勝敗は確定的になるよ……」
-00169	紫@r@vmura00200.「邪魔者は、とにかく自分の正体を気取られたら致命的、という訳ですわね」
-00170	コロネ@r@vsiro00430.「追放投票が成立したら、もう行うことは出来ません。ゲーム中に一度だけの切り札ということですね」
-00171	レモン@r@vremo00230.「ふへぇ……。なんか邪魔者ばっかり不利過ぎない？　邪魔者に選ばれたら無理ゲー過ぎる……」
-00172	ハンプ@r@vhanp00220.「ホッホッホ！　もちろん、これだけでは邪魔者が可哀想なのじゃ～！　ちゃあんと、邪魔者を有利にするルールもあるのじゃ！」
-00173	梓杏@r@vsian00210.「……それが、この終わらないお茶会ゲームとやらの肝なんだろ？」
-00174	ハンプ@r@vhanp00230.「その通りじゃ！　成功か失敗のカードを投票した後には、さらに１枚、成功か失敗の書かれたカードがランダムに加えられるのじゃ！」
-00175	コロネ@r@vsiro00440.「つまり。全員が成功を投票しても、ランダムに加えられた１枚のカードが失敗だったなら、そのお茶会は失敗となる訳ですね」
-00176	梓杏@r@vsian00220.「それじゃ、マジでただの運ゲーじゃねぇかよッ」
-00177	ハンプ@r@vhanp00240.「もちろん確率は低いぞい！　加えられるカードが失敗なのは２５％だけじゃ」
-00178	レモン@r@vremo00240.「……低いは低いけど、もしその低確率がたまたま重なったら……」
-00179	紫@r@vmura00210.「邪魔者は、何もせずに勝ちを拾えることもあり得る訳ですわね」
-00180	梓杏@r@vsian00230.「つまり、運次第でどう足掻いても負ける時があるってことだろ！　とんでもねぇ運ゲーじゃねぇか！」
-00181	ハンプ@r@vhanp00250.「ヴァッカムお～ン！！！　すごろくに始まり、トランプ、花札、麻雀、果てにはパチンコまで！　長く愛されるゲームには必ず運が絡むのじゃ！！」
-00182	コロネ@r@vsiro00450.「読み合いと駆け引き。そこに運が一摘み。それが、２５％のイレギュラーという塩梅なんでしょうねぇ」
-00183	ハンプ@r@vhanp00260.「そうじゃ！　コロネちゃんはよぉくわかってるの～♪」
-00184	コロネ@r@vsiro00460.「これでルール説明は終わりですっ。まずは１回、練習でプレイしてみましょう」
-00185	レモン@r@vremo00250.「いいね、チュートリアルって訳だねぇ」
-00186	紫@r@vmura00220.「これは本番ではないんですわよね？」
-00187	コロネ@r@vsiro00470.「うん。勝っても負けても関係ないです」
-00188	梓杏@r@vsian00240.「っしゃ。まずはやってみようぜ。説明聞くより、実際にやった方が早ぇからなっ」
-00189	ハンプ@r@vhanp00270.「ホッホー！　それでは今から、ワシがランダムに決めた子を邪魔者に決定するぞい！」
-00190	ハンプ@r@vhanp00280.「邪魔者に決まった子には、こんな感じの合図を送るのじゃ。試しに、今から全員に送るぞ！　そおれ！」
-00191	@r　ピクンピクン。
-00192	レモン@r@vremo00260.「うわ、……首がピクピクってしたぁ」
-00193	梓杏@r@vsian00250.「な、何だよこれ、こそばゆいな……！」
-00194	紫@r@vmura00230.「……微弱な電流で筋肉を痙攣させる健康器具みたいですわね」
-00195	ハンプ@r@vhanp00290.「そうじゃ。みんなの首輪の内側に取り付けられておる。これなら、誰にも知られずに合図を受け取れるという訳じゃ」
-00196	コロネ@r@vsiro00480.「音とか光とかだったら、他の人にバレちゃうかもしれませんからね」
-00197	ハンプ@r@vhanp00300.「それでは次は、邪魔者に決まった子にのみ合図を送るぞい！　そおれ！！」
-00198	@r　みんな、沈黙している。……合図は来たのか、来ないのか。それとも、本当は来たけど、自分が気付かなかったとか……。
-00199	梓杏@r@vsian00260.「何の音もしねぇ。……誰に合図が行ったのか、まったくわかんねぇな」
-00200	レモン@r@vremo00270.「この中の誰かが、ピクピクがあっても、何もなかったようなフリをしてるんだよねぇ……」
-00201	ハンプ@r@vhanp00310.「本番では開始前にランダムな席替えなども行なうのじゃが、今回はお試しプレイなので、このままスタートじゃ」
-00202	ハンプ@r@vhanp00320.「それでは、コロネちゃんからスタートにするぞい！」
-00203	コロネ@r@vsiro00490.「まず、手番のプレイヤーは、場に出ているお茶会カードの中から、どれを開催するかを選びます」
-00204	コロネ@r@vsiro00500.「最初は無難に、２のお茶会を選ぶことにします」
-00205	@r　コロネは２の数字の記されたお茶会のカードを選ぶ。
-00206	@r　西洋童話の挿し絵のようなものが描かれた、飾っても素敵そうなカードだった。
-00207	レモン@r@vremo00280.「２のお茶会は、２人が参加する。ひとりはコロネちゃんで、もうひとりはコロネちゃんが選ぶ……」
-00208	コロネ@r@vsiro00510.「そういうことです。さすがレモンさん。ゲームの理解がいつも早いです」
-00209	レモン@r@vremo00290.「ふへへぇ……。ま、まぁね」
-00210	コロネ@r@vsiro00520.「じゃあ、２のお茶会にお誘いするのはレモンさんにします。よろしくね」
-00211	紫@r@vmura00240.「お茶会にお誘いなんて、優雅なゲームですわね」
+00165	紫@r@vmura00190."And for this Banning Vote to pass, I assume everyone else must agree to it, do they?"「投票というからには、複数人の同意が必要なんですわよね？」
+00166	ハンプ@r@vhanp00210."Why yes, all three voters must agree!"「うむ。３人の同意で成立するぞい！」
+00167	梓杏@r@vsian00200."...Not sure I get it but, sounds like if someone other than the nuisance gets banned, it would be rough..."「……よくわかんねぇけど、間違って邪魔者じゃないヤツを追放したら、致命傷っぽいな……？」
+00168	レモン@r@vremo00220."After all we need everyone to be in unanimity... Whether they're the nuisance or not, once the vote is declared, it would be the end for the accused."「実質的に全員の同意が必要になる訳だし。……邪魔者だろうと冤罪だろうと、この宣言が成立した時点で、ほぼ勝敗は確定的になるよ……」
+00169	紫@r@vmura00200."Essentially, for the nuisance, getting their identity exposed would be akin to a death sentance."「邪魔者は、とにかく自分の正体を気取られたら致命的、という訳ですわね」
+00170	コロネ@r@vsiro00430."Once a Banning Vote has been made, it can't be performed again. It's a trump card that can only be used once during the game."「追放投票が成立したら、もう行うことは出来ません。ゲーム中に一度だけの切り札ということですね」
+00171	レモン@r@vremo00230."Fuhee... Being the nuisance kinda sounds like hell... Isn't it a bit too much of an impossible game...?"「ふへぇ……。なんか邪魔者ばっかり不利過ぎない？　邪魔者に選ばれたら無理ゲー過ぎる……」
+00172	ハンプ@r@vhanp00220."Ho-Ho-Ho! Obviously, not all is doom and gloom for them! Some rules exist in their favor too!"「ホッホッホ！　もちろん、これだけでは邪魔者が可哀想なのじゃ～！　ちゃあんと、邪魔者を有利にするルールもあるのじゃ！」
+00173	梓杏@r@vsian00210."...Lemme guess, it'll be key to this 'Endless Tea Party' or something?"「……それが、この終わらないお茶会ゲームとやらの肝なんだろ？」
+00174	ハンプ@r@vhanp00230."That's exactly right! Along with your vote cards, I'll add one random 'success' or 'failure' card to the pile!"「その通りじゃ！　成功か失敗のカードを投票した後には、さらに１枚、成功か失敗の書かれたカードがランダムに加えられるのじゃ！」
+00175	コロネ@r@vsiro00440."So if we all vote 'success' but the random card says 'failure', that would mean the tea party would be a 'failure' too"「つまり。全員が成功を投票しても、ランダムに加えられた１枚のカードが失敗だったなら、そのお茶会は失敗となる訳ですね」
+00176	梓杏@r@vsian00220."Hey, wait! That's just a game of luck!"「それじゃ、マジでただの運ゲーじゃねぇかよッ」
+00177	ハンプ@r@vhanp00240."Of course, the odds are low! The chances of getting a random 'failure' are only 25%!"「もちろん確率は低いぞい！　加えられるカードが失敗なのは２５％だけじゃ」
+00178	レモン@r@vremo00240."...These may be low odds, but if you stack enough of them..."「……低いは低いけど、もしその低確率がたまたま重なったら……」
+00179	紫@r@vmura00210."Then it would be possible for the nuisance to win without doing a single thing."「邪魔者は、何もせずに勝ちを拾えることもあり得る訳ですわね」
+00180	梓杏@r@vsian00230."That means we can just lose even if we do everything right?! That just sucks! What's even the point!"「つまり、運次第でどう足掻いても負ける時があるってことだろ！　とんでもねぇ運ゲーじゃねぇか！」
+00181	ハンプ@r@vhanp00250."Baaack Come Ooooon!! From board games, to poker, to hanafuda, to mahjong, to even pachinko! Every game we know and love is tied to luck one way or another!!" 「ヴァッカムお～ン！！！　すごろくに始まり、トランプ、花札、麻雀、果てにはパチンコまで！　長く愛されるゲームには必ず運が絡むのじゃ！！」
+00182	コロネ@r@vsiro00450."Reading your opponent and bluffing. Then add in a pinch of luck. Don't these 25% sound like the perfect bland of chaos?"「読み合いと駆け引き。そこに運が一摘み。それが、２５％のイレギュラーという塩梅なんでしょうねぇ」
+00183	ハンプ@r@vhanp00260."Why yes! Our little Korone here understands perfectly♪"「そうじゃ！　コロネちゃんはよぉくわかってるの～♪」
+00184	コロネ@r@vsiro00460."And with that, we've explained everything. Next up, why don't we do a practice game?"「これでルール説明は終わりですっ。まずは１回、練習でプレイしてみましょう」
+00185	レモン@r@vremo00250."Sure, I guess this will be our tutorial."「いいね、チュートリアルって訳だねぇ」
+00186	紫@r@vmura00220."This isn't the real thing, right?"「これは本番ではないんですわよね？」
+00187	コロネ@r@vsiro00470."That's right. There are no consequences if you lose."「うん。勝っても負けても関係ないです」
+00188	梓杏@r@vsian00240."Alright, let's get on with it then! I'll get it faster with a game than with words!"「っしゃ。まずはやってみようぜ。説明聞くより、実際にやった方が早ぇからなっ」
+00189	ハンプ@r@vhanp00270."Ho-Ho! Now then, I'll choose which one of you will become the nuisance!"「ホッホー！　それでは今から、ワシがランダムに決めた子を邪魔者に決定するぞい！」
+00190	ハンプ@r@vhanp00280."The chosen girl will be given a signal. As a test, I'll send it to everyone.! Here we go!"「邪魔者に決まった子には、こんな感じの合図を送るのじゃ。試しに、今から全員に送るぞ！　そおれ！」
+00191	@rTwitch, twitch. ピクンピクン。
+00192	レモン@r@vremo00260."Woah... I can feel my neck twitching."「うわ、……首がピクピクってしたぁ」
+00193	梓杏@r@vsian00250."T-The hell...! It's so awkward..."「な、何だよこれ、こそばゆいな……！」
+00194	紫@r@vmura00230."...I'm assuming these are muscle spasms induced by an electrode or similar."「……微弱な電流で筋肉を痙攣させる健康器具みたいですわね」
+00195	ハンプ@r@vhanp00290."Why, yes, they're inside each of your collars. That way, the signal can be received without anyone else being aware of it."「そうじゃ。みんなの首輪の内側に取り付けられておる。これなら、誰にも知られずに合図を受け取れるという訳じゃ」
+00196	コロネ@r@vsiro00480."If it was a sound or some kind of light, other people could've noticed them too."「音とか光とかだったら、他の人にバレちゃうかもしれませんからね」
+00197	ハンプ@r@vhanp00300."Next up, I'll send the signal to only the nuisance! Here we go!"「それでは次は、邪魔者に決まった子にのみ合図を送るぞい！　そおれ！！」
+00198	@rEveryone was silent. Has the signal been sent...? Or not yet?　Or, maybe they simply failed to notice it... みんな、沈黙している。……合図は来たのか、来ないのか。それとも、本当は来たけど、自分が気付かなかったとか……。
+00199	梓杏@r@vsian00260."Not even a sound... We got way of knowing who got the signal, huh."「何の音もしねぇ。……誰に合図が行ったのか、まったくわかんねぇな」
+00200	レモン@r@vremo00270."Even if someone was being all twitchy, they could just pretend nothing happened..."「この中の誰かが、ピクピクがあっても、何もなかったようなフリをしてるんだよねぇ……」
+00201	ハンプ@r@vhanp00310."Normally, I would also randomize the seats but this is a practice run, so let's play as is!"「本番では開始前にランダムな席替えなども行なうのじゃが、今回はお試しプレイなので、このままスタートじゃ」
+00202	ハンプ@r@vhanp00320."Now then. Korone, it's your turn!"「それでは、コロネちゃんからスタートにするぞい！」
+00203	コロネ@r@vsiro00490."First off, the acting player chooses a tea party card from the set."「まず、手番のプレイヤーは、場に出ているお茶会カードの中から、どれを開催するかを選びます」
+00204	コロネ@r@vsiro00500."For this example, I'll pick a 2-hour tea time."「最初は無難に、２のお茶会を選ぶことにします」
+00205	@rKorone picked the tea party card marked with a number 2.　コロネは２の数字の記されたお茶会のカードを選ぶ。
+00206	@rIt was adorned with a lovely drawing, with a design reminiscent of story books for western fairy tales.　西洋童話の挿し絵のようなものが描かれた、飾っても素敵そうなカードだった。
+00207	レモン@r@vremo00280."For a 2-hour tea party, two people are needed. One is Korone, the other one will be a person of her choosing..."「２のお茶会は、２人が参加する。ひとりはコロネちゃんで、もうひとりはコロネちゃんが選ぶ……」
+00208	コロネ@r@vsiro00510."Indeed. You're incredible, Lemon. You're very quick at understanding game rules."「そういうことです。さすがレモンさん。ゲームの理解がいつも早いです」
+00209	レモン@r@vremo00290."Fuhehe... T-That's not much..."「ふへへぇ……。ま、まぁね」
+00210	コロネ@r@vsiro00520."Then I'll invite Lemon to this tea party. Let's treat each other well."「じゃあ、２のお茶会にお誘いするのはレモンさんにします。よろしくね」
+00211	紫@r@vmura00240."A game about being invited to tea parties... How posh."「お茶会にお誘いなんて、優雅なゲームですわね」
 00212	梓杏@r@vsian00270.「……んで。二人は投票とやらをするんだな？」
 00213	ハンプ@r@vhanp00330.「ホッホッホ、その通りじゃ！　では、投票のカードを配るぞい！　そおれ！」
 00214	@r　丸テーブルの中央にスリットが開き、コロネとレモンの前にそれぞれ２枚のカードがシュルシュルッと吐き出される。
