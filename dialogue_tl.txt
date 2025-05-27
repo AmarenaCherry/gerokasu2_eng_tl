@@ -337,15 +337,15 @@
 00330	紫@r@vmura00390."H...How could this happen...aaaaaaa....."「そ、……そんなこと、って………、あぁぁぁ……」
 00331	梓杏@r@vsian00460."That's...a trick, right? Right?!"「手品……ッ、て、手品だろッ……？！」
 00332	@r　首の切断面から脈動するように噴き出る血。指先などの弱々しい痙攣。初めて見るにも関わらず、それが本当の死であることを暴力的に理解させる。
-00333	コロネ@r@vsiro00700.「ほら。不思議の国のアリスで、ハートの女王がクロッケーに誘ってくれましたよね？」
-00334	紫@r@vmura00400.「……“首を撥ねろ”、……ですわね……」
-00335	紫@r@vmura00410.「ハートの女王は、クロッケーで気に入らないことがあると、すぐに、首を撥ねろと命じる……」
-00336	ハンプ@r@vhanp00450.「ホッホッホ。という訳で第１のゲームの処刑は、ハートの女王の“首を撥ねろギロチン”だったのじゃ～！」
-00337	ハンプ@r@vhanp00460.「第２のゲームの処刑も違う趣向を用意してあるぞい！　お楽しみになのじゃ！」
-00338	レモン@r@vremo00480.「ぜ、全然楽しみじゃない……、冗談じゃないよ、ふへへぇ………」
-00339	梓杏@r@vsian00470.「落ち着けよ！　要は勝てばいいんだろ？　頭を切り替えろよ！」
-00340	紫@r@vmura00420.「……梓杏さん、……貴女まさか、これが茶番だと思っているんですの……？」
-00341	梓杏@r@vsian00480.「ったり前だろ？　こんな、本当に人を殺すようなデスゲームなんて、そんなの本当にある訳ないだろ、はは……」
+00333	コロネ@r@vsiro00700."You know, it's just like in Alice in Wonderland, when the Queen of Hearts invited her to croquet, no?"「ほら。不思議の国のアリスで、ハートの女王がクロッケーに誘ってくれましたよね？」
+00334	紫@r@vmura00400."...'Off with their heads.' Is that it?"「……“首を撥ねろ”、……ですわね……」
+00335	紫@r@vmura00410."Whenever the Queen of Hearts wasn't in the mood for croquet, she would order for executions..."「ハートの女王は、クロッケーで気に入らないことがあると、すぐに、首を撥ねろと命じる……」
+00336	ハンプ@r@vhanp00450."Ho-Ho-Ho! And so, the punishment for the first game — the 'Flamingo Croquet' — was the Queen's 'Head-Rolling Guillotine'!「ホッホッホ。という訳で第１のゲームの処刑は、ハートの女王の“首を撥ねろギロチン”だったのじゃ～！」
+00337	ハンプ@r@vhanp00460."Special punishments for the second game have been made as well! Please look forward to it!"「第２のゲームの処刑も違う趣向を用意してあるぞい！　お楽しみになのじゃ！」
+00338	レモン@r@vremo00480."I-I'm not looking forward... This isn't fun at all, fuhehe...."「ぜ、全然楽しみじゃない……、冗談じゃないよ、ふへへぇ………」
+00339	梓杏@r@vsian00470."Everyone, calm down! Let's think positive! We just need to win, right?!"「落ち着けよ！　要は勝てばいいんだろ？　頭を切り替えろよ！」
+00340	紫@r@vmura00420."...Don't tell me, you seriously think this is still but a farce?"「……梓杏さん、……貴女まさか、これが茶番だと思っているんですの……？」
+00341	梓杏@r@vsian00480."Well duh?! I mean, this can't be a real death game where people die, right?! Haha...."「ったり前だろ？　こんな、本当に人を殺すようなデスゲームなんて、そんなの本当にある訳ないだろ、はは……」
 00342	@r　今の処刑も手品か何かで、よく出来たデスゲームごっこだと信じているのだろうか。……あるいは信じたいのだろうか。
 00343	@r　絶望的な状況を理解する者。していてなお認めたくない者。そして未だに理解さえしていない者。
 00344	@r　そして、自らの命を賭して、必ず誰かが死ぬ同窓会を開いた者……。
