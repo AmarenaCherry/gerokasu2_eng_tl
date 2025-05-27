@@ -185,7 +185,7 @@
 00178	Lemon@r@vremo00240."...These may be low odds, but if you stack enough of them..."
 00179	Murasaki@r@vmura00210."Then it would be possible for the nuisance to win without doing a single thing."
 00180	Cyan@r@vsian00230."That means we can just lose even if we do everything right?! That just sucks! What's even the point!"
-00181	Hampu@r@vhanp00250."Baaack Come Ooooon!! From board games, to poker, to hanafuda, to mahjong, to even pachinko! Every game we know and love is tied to luck one way or another!!"
+00181	Hampu@r@vhanp00250."You fooooooool!! From board games, to poker, to hanafuda, to mahjong, to even pachinko! Every game we know and love is tied to luck one way or another!!"
 00182	Korone@r@vsiro00450."Reading your opponent and bluffing. Then add in a pinch of luck. Don't these 25% sound like the perfect blend of chaos?"
 00183	Hampu@r@vhanp00260."Why yes! Our little Korone here understands perfectly♪"
 00184	Korone@r@vsiro00460."And with that, we've explained everything. Next up, why don't we do a practice game?"
@@ -232,7 +232,7 @@
 00225	Cyan@r@vsian00290."...Man, what a pain."
 00226	Korone@r@vsiro00540."But before that, we'll give them a good shuffle or two."
 00227	Korone@r@vsiro00550."You see? Like that, we won't be able to tell which card belongs to who."
-00228	Cyan@r@vsian00300."Then wouldn't be OK to just flip them all at the same time? That one-by-one just feels kind of stingy."
+00228	Cyan@r@vsian00300."Then wouldn't be OK to just flip them all at the same time? That one-by-one rule just feels kind of stingy."
 00229	Lemon@r@vremo00310."...Ahhh, I get it. It's so we don't know how many 'Failure' cards were played..."
 00230	Murasaki@r@vmura00250."I see... Even if a 'Failure' appears, that rule leaves the nuisance some wiggle room."
 00231	Cyan@r@vsian00310."Huh? What are you two blabbing about? I didn't get a single thing."
@@ -247,7 +247,7 @@
 00240	Cyan@r@vsian00330."We still got a long ways to go, huh."
 00241	@rA square hole opened up in the center of the table, the voting cards being all disposed into it.
 00242	@rAnd with that, the turn ended.
-00243	Korone@r@vsiro00570."We'll rotating turns clockwise, this time it's Murasaki's turn."
+00243	Korone@r@vsiro00570."We'll be rotating turns clockwise, this time it's Murasaki's turn."
 00244	Murasaki@r@vmura00270."...I've decided. I will give the 3-hour tea party a try."
 00245	Lemon@r@vremo00330."Fuhee... Aren't you jumping the gun too quickly?"
 00246	Murasaki@r@vmura00280."In the end, this is but a test run. The perfect opportunity to experiment as much as possible."
@@ -256,86 +256,86 @@
 00249	Hampu@r@vhanp00370."Murasaki will have the final say on who can join, but outsider advice is perfectly fine too!"
 00250	Lemon@r@vremo00340."I see... Hm, got it."
 00251	Lemon@r@vremo00350."Then I have a proposal to make. Murasaki, I'd appreciate if you could invite me to your tea party."
-00252	Murasaki@r@vmura00290.I guess you WERE a participant of a successful tea party... Certainly, there is worth in what you're saying."
-00253	Cyan@r@vsian00350."Then I wanna join too, I'm your best bet of winning."
-00254	Murasaki@r@vmura00300."You're quite confident, but is there anything to back up your claim!"
+00252	Murasaki@r@vmura00290."I guess you WERE a participant of a successful tea party... Certainly, there is worth in what you're saying."
+00253	Cyan@r@vsian00350."Then I wanna join too, I'm your best bet at winning!"
+00254	Murasaki@r@vmura00300."You're quite confident, but is there anything to back up your claims?"
 00255	Cyan@r@vsian00360."Huh?! I'm not the nuisance, y'know."
 00256	Korone@r@vsiro00590."Hehehe. This is quite like you, Cyan. Always so passionate."
 00257	Murasaki@r@vmura00310."She sure is. Alright, then us three will attend this tea party."
 00258	Hampu@r@vhanp00380."Now then! Murasaki, Lemon, Cyan, here are your voting cards!"
-00259	@r　テーブル上にスリットが開き、３人にそれぞれ、成功と失敗のカードが配られる。
-00260	@r　そして、それぞれに１枚ずつを選び出してテーブル中央に差し出す。
-00261	@r　そしてそこにランダムなカードが１枚、混ぜられて４枚の投票カードとなる……。
-00262	コロネ@r@vsiro00600.「じゃあ、１枚ずつ公開します。……それっ」
-00263	コロネ@r@vsiro00610.「……あ」
-00264	梓杏@r@vsian00370.「ああ？　失敗ってどういうことだよっ」
-00265	レモン@r@vremo00360.「ふへぇ……。つまり、この中に邪魔者が混じってる、ってことぉ……？」
-00266	コロネ@r@vsiro00620.「あるいは、ランダムなカードに失敗が混じっていただけで、邪魔者はいない可能性もあります」
-00267	紫@r@vmura00320.「……なるほど。この疑心暗鬼が、このゲームの醍醐味という訳ですわね」
-00268	レモン@r@vremo00370.「よぉし、何となく雰囲気がわかってきたぞぉ」
-00269	@r　少しずつ勝手がわかってきたようで、その後、ゲームは順調に進む。
-00270	@r　その後は、互いを疑い合いながらもお茶会は成功を重ねていく。……だが。
-00271	梓杏@r@vsian00380.「ああ……！　ここで失敗かよっ」
-00272	レモン@r@vremo00380.「ふへぇ……。どうしてこれが失敗するかなぁ……」
-00273	紫@r@vmura00330.「だから、私は邪魔者じゃないってずっと言ってましたのに。信じないから」
-00274	コロネ@r@vsiro00630.「これで、残りのお茶会を全て成功させても、１０時間には届かなくなってしまいました」
-00275	レモン@r@vremo00390.「……だねぇ。７枚のお茶会カードの合計は１５時間。つまり、６時間分が失敗したら、」
-00276	紫@r@vmura00340.「ゲームオーバー、ですわね。……つまりは、邪魔者の勝利、ということですわ」
-00277	梓杏@r@vsian00390.「結局、邪魔者ってのは誰だったんだよ？！　紫じゃねぇのかよ？！」
-00278	レモン@r@vremo00400.「……ということはまさか、コロネちゃん……？」
-00279	コロネ@r@vsiro00640.「はい。邪魔者は私でした♪」
-00280	梓杏@r@vsian00400.「そんなはずはねぇだろっ、じゃあ、コロネ抜きだったあの３のお茶会の失敗はどうして！」
-00281	紫@r@vmura00350.「……私は最初っから、あれは２５％の事故だって言っていましたわよ」
-00282	レモン@r@vremo00410.「なるほどねぇ……。ふへぇ……。このゲーム、なかなかやらしいねぇ……」
-00283	コロネ@r@vsiro00650.「ね？　面白いゲームでしょ。これで大体の流れはわかりましたか？」
-00284	梓杏@r@vsian00410.「んー、まぁ、適当にやってりゃ何とかなるだろ。アハハハ」
-00285	@r　コロネと梓杏は楽しそうに笑い合う。
-00286	@r　そんな様子を見ていると、……これがデスゲームであることを忘れそうになる。
-00287	@r　紫とレモンはしばらくの間、緊張の面持ちで見守っていたが、やがて二人も笑い出す……。
-00288	紫@r@vmura00360.「まったく、コロネさんには恐れ入りますわ。こんな刺激的な同窓会を準備して下さったなんて……」
-00289	レモン@r@vremo00420.「こういう趣向の同窓会なんて、ふへへ、凝ってるなぁ。ふへへへ……へ……」
+00259	@rThe slit opened once again, sliding the voting cards to the three participants.　テーブル上にスリットが開き、３人にそれぞれ、成功と失敗のカードが配られる。
+00260	@rAnd each of them put a card on the middle of the table, face down.　そして、それぞれに１枚ずつを選び出してテーブル中央に差し出す。
+00261	@rAnd a random card was added to the pile, bringing the total to four voting cards...　そしてそこにランダムなカードが１枚、混ぜられて４枚の投票カードとなる……。
+00262	コロネ@r@vsiro00600."Now let's reveal them one by one. Aaaaaand...!"「じゃあ、１枚ずつ公開します。……それっ」
+00263	コロネ@r@vsiro00610."...Oh."「……あ」
+00264	梓杏@r@vsian00370."Whaaaaat?! Where did that card come from?"「ああ？　失敗ってどういうことだよっ」
+00265	レモン@r@vremo00360."Fuhee... Does that mean one of us is the nuisance...?"「ふへぇ……。つまり、この中に邪魔者が混じってる、ってことぉ……？」
+00266	コロネ@r@vsiro00620."Alternatively, you may have gotten a random 'Failure' card and the nuisance isn't among you three right now."「あるいは、ランダムなカードに失敗が混じっていただけで、邪魔者はいない可能性もあります」
+00267	紫@r@vmura00320."...I see. The constant sense of paranoia seems to be the appeal of this game."「……なるほど。この疑心暗鬼が、このゲームの醍醐味という訳ですわね」
+00268	レモン@r@vremo00370."Alright, now I'm starting to get in the mood."「よぉし、何となく雰囲気がわかってきたぞぉ」
+00269	@rLittle by little, the girls got used to the game, and the rest proceeded smoothly.　少しずつ勝手がわかってきたようで、その後、ゲームは順調に進む。
+00270	@rAnd as such, even as suspicions grew, the tea parties managed to be successful. However...　その後は、互いを疑い合いながらもお茶会は成功を重ねていく。……だが。
+00271	梓杏@r@vsian00380."Huh?! Another 'Failure'?!"「ああ……！　ここで失敗かよっ」
+00272	レモン@r@vremo00380."Fuhee... But where did it come from...?"「ふへぇ……。どうしてこれが失敗するかなぁ……」
+00273	紫@r@vmura00330."Like I've been telling you, I am not the nuisance, but you wouldn't believe me." 「だから、私は邪魔者じゃないってずっと言ってましたのに。信じないから」
+00274	コロネ@r@vsiro00630."And with that, we won't be able to reach the needed 10 hours even with the remaining tea parties."「これで、残りのお茶会を全て成功させても、１０時間には届かなくなってしまいました」
+00275	レモン@r@vremo00390."...Yeah. There are seven cards with a total of 15 hours. So if we fail even 6 of them..."「……だねぇ。７枚のお茶会カードの合計は１５時間。つまり、６時間分が失敗したら、」
+00276	紫@r@vmura00340."Then it's Game Over. Meaning it's the nuisance's win."「ゲームオーバー、ですわね。……つまりは、邪魔者の勝利、ということですわ」
+00277	梓杏@r@vsian00390."But if Murasaki wasn't it, then who was the nuisance?!"「結局、邪魔者ってのは誰だったんだよ？！　紫じゃねぇのかよ？！」
+00278	レモン@r@vremo00400."...The only one left is...Korone?"「……ということはまさか、コロネちゃん……？」
+00279	コロネ@r@vsiro00640."Yes. I was the nuisance♪."「はい。邪魔者は私でした♪」
+00280	梓杏@r@vsian00400."But that's impossible! How would she have made the 3-hour tea party fail?"「そんなはずはねぇだろっ、じゃあ、コロネ抜きだったあの３のお茶会の失敗はどうして！」
+00281	紫@r@vmura00350."...Like I've been saying, that was but the 25% random accident."「……私は最初っから、あれは２５％の事故だって言っていましたわよ」
+00282	レモン@r@vremo00410."I see, I see... Fuhee... This game's kind of neat."「なるほどねぇ……。ふへぇ……。このゲーム、なかなかやらしいねぇ……」
+00283	コロネ@r@vsiro00650."Right? It's quite fun, no? Have you got a grasp of the general flow yet?"「ね？　面白いゲームでしょ。これで大体の流れはわかりましたか？」
+00284	梓杏@r@vsian00410."Hmm...kind of. Well, I'll manage somehow, hahahaha." 「んー、まぁ、適当にやってりゃ何とかなるだろ。アハハハ」
+00285	@rKorone and Cyan both laugh in unison.　コロネと梓杏は楽しそうに笑い合う。
+00286	@rJust looking at the scene... One would forget they were currently in a death game.　そんな様子を見ていると、……これがデスゲームであることを忘れそうになる。
+00287	@rMurasaki and Lemon, at first apprehensive, also started to relax under the jovial atmosphere.　紫とレモンはしばらくの間、緊張の面持ちで見守っていたが、やがて二人も笑い出す……。
+00288	紫@r@vmura00360."Still, I'm quite in awe of Korone's work. To think she would organize such a reunion..."「まったく、コロネさんには恐れ入りますわ。こんな刺激的な同窓会を準備して下さったなんて……」
+00289	レモン@r@vremo00420."And with such a theme too...fuhehe, quite specific. Fuhehehe..."「こういう趣向の同窓会なんて、ふへへ、凝ってるなぁ。ふへへへ……へ……」
 00290	@r　高まる緊張。二人の笑いは微かに引きつっている。
 00291	@r　この和やかな雰囲気のまま、……デスゲームなどということは忘れ去られて、楽しくゲームで過ごす時間になってほしいという、か細すぎる願い……。
-00292	コロネ@r@vsiro00660.「こういう趣向、って……？」
-00293	レモン@r@vremo00430.「いやその……、デスゲームって趣向で３年ぶりの同窓会なんて、コロネちゃんはさっすがハイセンスだなぁって、……ふへへぇ……」
-00294	梓杏@r@vsian00420.「バカ、そういう空気の読めないこと言うんじゃねぇ」
-00295	紫@r@vmura00370.「そうですわよ。負けたら命はないと、本気で信じて臨まないと、コロネさんに失礼ですわ」
-00296	コロネ@r@vsiro00670.「ん？　え？　何々？」
-00297	ハンプ@r@vhanp00390.「そうじゃそうじゃ、忘れとったわい。一番大切な説明を忘れておったぞい！　そぉれ！」
-00298	@r　聖堂のように高い天井から、何かが勢いよく落ちてくる。
-00299	@r　それは、私たちと同じ椅子に、同じように首輪で拘束された、……ぐったりとした女の子だった。
-00300	@r　それが鎖でガラガラと降りて、いや、落ちてきたのだ……。
-00301	レモン@r@vremo00440.「……ふ、……ふへぇ……。……誰………」
-00302	梓杏@r@vsian00430.「き、着ている制服は、コロネと同じだな……？」
-00303	@r　コロネの高校での友人だろうか？　しかし、それ以上のことは、表情さえわからない。
-00304	@r　顔に直方体の箱が被せられているからだ。
-00305	@r　その箱には、トランプの兵士の絵が描かれていた……。
-00306	紫@r@vmura00380.「……彼女は、どなたですの……？」
-00307	@r　コロネは答えない。くすりと微笑むだけだ……。
-00308	ハンプ@r@vhanp00400.「ホッホー！！　繰り返すが、これはデスゲームじゃ！」
-00309	ハンプ@r@vhanp00410.「本当は第１のゲームからデスゲームのはずだったんじゃがな！　コロネちゃんが最初だけは和やかにしたいというので、変更になっただけじゃ」
-00310	コロネ@r@vsiro00690.「そのお陰で、皆さんの気持ちを和やかな雰囲気の中で聞かせてもらうことが出来ましたので」
-00311	ハンプ@r@vhanp00420.「さてさて！　第１のゲーム『フラミンゴのクロッケー』のビリッケツの子には、こぉんな処刑が行なわれるはずだったのじゃ～い！」
-00312	@r　謎の少女はぐったりしているが、わずかに、胸には呼吸の動きがある。生きているのだ。
-00313	梓杏@r@vsian00440.「おいおい……、処刑って……、」
-00314	@r　どこからともなく、オルゴールの音が聞こえてくる。
-00315	@r　奏でる曲は、別れを感じさせるものであり、同時に新たな門出を感じさせるものでもあり、……この状況をあまりに不気味に演出した。
-00316	レモン@r@vremo00450.「……何……？　この間は……。どういうこと……？」
-00317	ハンプ@r@vhanp00430.「これはお別れを惜しむ時間なのじゃ。ほら、よくあるじゃろ？　最期に何か言い残すことは？　みたいな」
-00318	ハンプ@r@vhanp00440.「オルゴールの間だけ、言葉を交わし合うことが出来るのじゃ。最後の瞬間でなければ話せないこともあるかもしれないでのぅ」
-00319	@r　しばらくの間。沈黙が続き、オルゴールの音だけが静かに流れ続けた。
-00320	@r　まさか本当に……、このオルゴールが終わったら、……処刑されるのか……？
-00321	@r　いや、これはきっとぎりぎりの冗談。本当に処刑なんてする訳がない。そうに決まってる。そう信じたい。そうであってくれなくては……。
-00322	@r　突然、耳障りで奇怪な金属音が鳴り響く。彼女の椅子の後ろから、おかしな仕掛けが姿を現す。
-00323	@r　それは彼女の頭を覆うように潜り抜けると、首元に固定されて動きを止めた。
-00324	梓杏@r@vsian00450.「……な、何だよこれ………」
-00325	レモン@r@vremo00460.「ふ、……ふへへ……。ほらアレアレ……、手品によくあるじゃん、ほらアレ……」
-00326	@r　マジシャンが、自分の指と煙草を小さなギロチンで切断すると、煙草は切断されるけど指は無事という手品。
-00327	@r　あの小さなギロチンのようなものが、彼女の首に掛けられているのだ。
-00328	@r　……そう。これは手品。絶対に手品だ。一瞬、首が切断された、と思っても、実は切断されていないという……。
-00329	レモン@r@vremo00470.「ひやああああああぁあああぁああぁああぁッッッ…！！！」
-00330	紫@r@vmura00390.「そ、……そんなこと、って………、あぁぁぁ……」
-00331	梓杏@r@vsian00460.「手品……ッ、て、手品だろッ……？！」
+00292	コロネ@r@vsiro00660."What do you mean by 'such a theme'...?"「こういう趣向、って……？」
+00293	レモン@r@vremo00430."Y'know, like...the 'reuniting after three years only to end up in a death game' type of scenario. That's some refined taste you got there... Fuhehehe..."「いやその……、デスゲームって趣向で３年ぶりの同窓会なんて、コロネちゃんはさっすがハイセンスだなぁって、……ふへへぇ……」
+00294	梓杏@r@vsian00420."Hey, don't go ruin the mood, dumbass!"「バカ、そういう空気の読めないこと言うんじゃねぇ」
+00295	紫@r@vmura00370."That's right. It wouldn't be fair to Korone if you don't genuinely put your heart into it."「そうですわよ。負けたら命はないと、本気で信じて臨まないと、コロネさんに失礼ですわ」
+00296	コロネ@r@vsiro00670."Hm? Huh? What?"「ん？　え？　何々？」
+00297	ハンプ@r@vhanp00390."Ohhhh I knew I forgot something! I forgot to give you the most essential information! Heeere you go!"「そうじゃそうじゃ、忘れとったわい。一番大切な説明を忘れておったぞい！　そぉれ！」
+00298	@rFrom the chapel-like ceiling, something came down with great momentum.　聖堂のように高い天井から、何かが勢いよく落ちてくる。
+00299	@rIt was...a girl in a chair just like theirs, with a collar just like theirs, looking out of shape.　それは、私たちと同じ椅子に、同じように首輪で拘束された、……ぐったりとした女の子だった。
+00300	@rAnd she came down — no, she fell down — along the rattling of chains.　それが鎖でガラガラと降りて、いや、落ちてきたのだ……。
+00301	レモン@r@vremo00440."...Fu, fuheee... Who's that...?"「……ふ、……ふへぇ……。……誰………」
+00302	梓杏@r@vsian00430."S-She's wearing...the same uniform as Korone...?"「き、着ている制服は、コロネと同じだな……？」
+00303	@rWas she a friend of hers? Other than that, there wasn't much to draw from.　コロネの高校での友人だろうか？　しかし、それ以上のことは、表情さえわからない。
+00304	@rA box covered her head, making them unable to see what kind of face she was making.　顔に直方体の箱が被せられているからだ。
+00305	@rOn the box was a picture of a card soldier...　その箱には、トランプの兵士の絵が描かれていた……。
+00306	紫@r@vmura00380."...Korone, who is this girl?"「……彼女は、どなたですの……？」
+00307	@rShe didn't reply. She simply stood there, smiling... 　コロネは答えない。くすりと微笑むだけだ……。
+00308	ハンプ@r@vhanp00400."Ho-Ho!! Lest you forget, this is a death game!" 「ホッホー！！　繰り返すが、これはデスゲームじゃ！」
+00309	ハンプ@r@vhanp00410."I was originally going to present this at the first game, but little Korone here wanted to start in a more peaceful manner, so some changes were made!"「本当は第１のゲームからデスゲームのはずだったんじゃがな！　コロネちゃんが最初だけは和やかにしたいというので、変更になっただけじゃ」
+00310	コロネ@r@vsiro00690."Thanks to that, I was able to understand your feelings quite well."「そのお陰で、皆さんの気持ちを和やかな雰囲気の中で聞かせてもらうことが出来ましたので」
+00311	ハンプ@r@vhanp00420."Now, here's the kind of exection that would've happened to the last place at the 'Flamingo Croquet'. Let's take a look!"「さてさて！　第１のゲーム『フラミンゴのクロッケー』のビリッケツの子には、こぉんな処刑が行なわれるはずだったのじゃ～い！」
+00312	@rThe mystery girl, even though she looked tired, still seemed to be breathing. She was alive.　謎の少女はぐったりしているが、わずかに、胸には呼吸の動きがある。生きているのだ。
+00313	梓杏@r@vsian00440."H-Hey wait, what d'you mean by 'execution'...?"「おいおい……、処刑って……、」
+00314	@rFrom somewhere, the sound of a music box could be heard.　どこからともなく、オルゴールの音が聞こえてくる。
+00315	@rIts melody evoked a sense of parting, but also a sense of renewal, as if someone was going to a new life... But in the current situation, it was hardly anything but unsettling.　奏でる曲は、別れを感じさせるものであり、同時に新たな門出を感じさせるものでもあり、……この状況をあまりに不気味に演出した。
+00316	レモン@r@vremo00450."...What's going on? What...did you mean by this?" 「……何……？　この間は……。どういうこと……？」
+00317	ハンプ@r@vhanp00430."This is a time of farewells. You know, like when someone is leaving and your exchanging your last moments together? Or something like that."「これはお別れを惜しむ時間なのじゃ。ほら、よくあるじゃろ？　最期に何か言い残すことは？　みたいな」
+00318	ハンプ@r@vhanp00440."The tune of the music box is for sharing your last words with each other, the things you can only say at the last minute." 「オルゴールの間だけ、言葉を交わし合うことが出来るのじゃ。最後の瞬間でなければ話せないこともあるかもしれないでのぅ」
+00319	@rOnly silence perdured. As the music box kept playing, not a single word was uttered.　しばらくの間。沈黙が続き、オルゴールの音だけが静かに流れ続けた。
+00320	@rWhen that melody ends... Will she really be executed?　まさか本当に……、このオルゴールが終わったら、……処刑されるのか……？
+00321	@rNo, that must be an elaborate joke. Of course she wouldn't die. That's what they all believed, what they all wanted to believe...　いや、これはきっとぎりぎりの冗談。本当に処刑なんてする訳がない。そうに決まってる。そう信じたい。そうであってくれなくては……。
+00322	@rSuddenly, a grating metallic sound echoed. Some strange apparatus appeared from the girl's chair　突然、耳障りで奇怪な金属音が鳴り響く。彼女の椅子の後ろから、おかしな仕掛けが姿を現す。
+00323	@rIt slowly shifted through her head as if to cover it, only to stop at around her neck.　それは彼女の頭を覆うように潜り抜けると、首元に固定されて動きを止めた。
+00324	梓杏@r@vsian00450."Wh...What's that?"「……な、何だよこれ………」
+00325	レモン@r@vremo00460."Fu-Fuhehe... Look, that's the stuff they use for tricks in magic shows... Look, look...."「ふ、……ふへへ……。ほらアレアレ……、手品によくあるじゃん、ほらアレ……」
+00326	@rA trick like those where the magician cuts both a cigarette and their arm with a guillotine, and the cigarette is cut while the arm is fine.　マジシャンが、自分の指と煙草を小さなギロチンで切断すると、煙草は切断されるけど指は無事という手品。
+00327	@rThe device around the mystery girl's neck looks just like those guillotines.　あの小さなギロチンのようなものが、彼女の首に掛けられているのだ。
+00328	@r...Yes. It's just a trick. It has to be. It would just look like it was cut but nothing would happen....　……そう。これは手品。絶対に手品だ。一瞬、首が切断された、と思っても、実は切断されていないという……。
+00329	レモン@r@vremo00470."NOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!「ひやああああああぁあああぁああぁああぁッッッ…！！！」
+00330	紫@r@vmura00390."H...How could this happen...aaaaaaa....."「そ、……そんなこと、って………、あぁぁぁ……」
+00331	梓杏@r@vsian00460."That's...a trick, right? Right?!"「手品……ッ、て、手品だろッ……？！」
 00332	@r　首の切断面から脈動するように噴き出る血。指先などの弱々しい痙攣。初めて見るにも関わらず、それが本当の死であることを暴力的に理解させる。
 00333	コロネ@r@vsiro00700.「ほら。不思議の国のアリスで、ハートの女王がクロッケーに誘ってくれましたよね？」
 00334	紫@r@vmura00400.「……“首を撥ねろ”、……ですわね……」
