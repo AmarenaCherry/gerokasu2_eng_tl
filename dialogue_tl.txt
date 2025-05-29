@@ -263,155 +263,155 @@
 00256	Korone@r@vsiro00590."Hehehe. This is quite like you, Cyan. Always so passionate."
 00257	Murasaki@r@vmura00310."She sure is. Alright, then us three will attend this tea party."
 00258	Hampu@r@vhanp00380."Now then! Murasaki, Lemon, Cyan, here are your voting cards!"
-00259	@rThe slit opened once again, sliding the voting cards to the three participants.　テーブル上にスリットが開き、３人にそれぞれ、成功と失敗のカードが配られる。
-00260	@rAnd each of them put a card on the middle of the table, face down.　そして、それぞれに１枚ずつを選び出してテーブル中央に差し出す。
-00261	@rAnd a random card was added to the pile, bringing the total to four voting cards...　そしてそこにランダムなカードが１枚、混ぜられて４枚の投票カードとなる……。
-00262	コロネ@r@vsiro00600."Now let's reveal them one by one. Aaaaaand...!"「じゃあ、１枚ずつ公開します。……それっ」
-00263	コロネ@r@vsiro00610."...Oh."「……あ」
-00264	梓杏@r@vsian00370."Whaaaaat?! Where did that card come from?"「ああ？　失敗ってどういうことだよっ」
-00265	レモン@r@vremo00360."Fuhee... Does that mean one of us is the nuisance...?"「ふへぇ……。つまり、この中に邪魔者が混じってる、ってことぉ……？」
-00266	コロネ@r@vsiro00620."Alternatively, you may have gotten a random 'Failure' card and the nuisance isn't among you three right now."「あるいは、ランダムなカードに失敗が混じっていただけで、邪魔者はいない可能性もあります」
-00267	紫@r@vmura00320."...I see. The constant sense of paranoia seems to be the appeal of this game."「……なるほど。この疑心暗鬼が、このゲームの醍醐味という訳ですわね」
-00268	レモン@r@vremo00370."Alright, now I'm starting to get in the mood."「よぉし、何となく雰囲気がわかってきたぞぉ」
-00269	@rLittle by little, the girls got used to the game, and the rest proceeded smoothly.　少しずつ勝手がわかってきたようで、その後、ゲームは順調に進む。
-00270	@rAnd as such, even as suspicions grew, the tea parties managed to be successful. However...　その後は、互いを疑い合いながらもお茶会は成功を重ねていく。……だが。
-00271	梓杏@r@vsian00380."Huh?! Another 'Failure'?!"「ああ……！　ここで失敗かよっ」
-00272	レモン@r@vremo00380."Fuhee... But where did it come from...?"「ふへぇ……。どうしてこれが失敗するかなぁ……」
-00273	紫@r@vmura00330."Like I've been telling you, I am not the nuisance, but you wouldn't believe me." 「だから、私は邪魔者じゃないってずっと言ってましたのに。信じないから」
-00274	コロネ@r@vsiro00630."And with that, we won't be able to reach the needed 10 hours even with the remaining tea parties."「これで、残りのお茶会を全て成功させても、１０時間には届かなくなってしまいました」
-00275	レモン@r@vremo00390."...Yeah. There are seven cards with a total of 15 hours. So if we fail even 6 of them..."「……だねぇ。７枚のお茶会カードの合計は１５時間。つまり、６時間分が失敗したら、」
-00276	紫@r@vmura00340."Then it's Game Over. Meaning it's the nuisance's win."「ゲームオーバー、ですわね。……つまりは、邪魔者の勝利、ということですわ」
-00277	梓杏@r@vsian00390."But if Murasaki wasn't it, then who was the nuisance?!"「結局、邪魔者ってのは誰だったんだよ？！　紫じゃねぇのかよ？！」
-00278	レモン@r@vremo00400."...The only one left is...Korone?"「……ということはまさか、コロネちゃん……？」
-00279	コロネ@r@vsiro00640."Yes. I was the nuisance♪."「はい。邪魔者は私でした♪」
-00280	梓杏@r@vsian00400."But that's impossible! How would she have made the 3-hour tea party fail?"「そんなはずはねぇだろっ、じゃあ、コロネ抜きだったあの３のお茶会の失敗はどうして！」
-00281	紫@r@vmura00350."...Like I've been saying, that was but the 25% random accident."「……私は最初っから、あれは２５％の事故だって言っていましたわよ」
-00282	レモン@r@vremo00410."I see, I see... Fuhee... This game's kind of neat."「なるほどねぇ……。ふへぇ……。このゲーム、なかなかやらしいねぇ……」
-00283	コロネ@r@vsiro00650."Right? It's quite fun, no? Have you got a grasp of the general flow yet?"「ね？　面白いゲームでしょ。これで大体の流れはわかりましたか？」
-00284	梓杏@r@vsian00410."Hmm...kind of. Well, I'll manage somehow, hahahaha." 「んー、まぁ、適当にやってりゃ何とかなるだろ。アハハハ」
-00285	@rKorone and Cyan both laugh in unison.　コロネと梓杏は楽しそうに笑い合う。
-00286	@rJust looking at the scene... One would forget they were currently in a death game.　そんな様子を見ていると、……これがデスゲームであることを忘れそうになる。
-00287	@rMurasaki and Lemon, at first apprehensive, also started to relax under the jovial atmosphere.　紫とレモンはしばらくの間、緊張の面持ちで見守っていたが、やがて二人も笑い出す……。
-00288	紫@r@vmura00360."Still, I'm quite in awe of Korone's work. To think she would organize such a reunion..."「まったく、コロネさんには恐れ入りますわ。こんな刺激的な同窓会を準備して下さったなんて……」
-00289	レモン@r@vremo00420."And with such a theme too...fuhehe, quite specific. Fuhehehe..."「こういう趣向の同窓会なんて、ふへへ、凝ってるなぁ。ふへへへ……へ……」
-00290	@rThe mood shifted, their laughters being slightly strained. 　高まる緊張。二人の笑いは微かに引きつっている。
-00291	@rThey held on to a fragile wish, to forget about the threat of the death game and bask in the peaceful, happy atmosphere.　この和やかな雰囲気のまま、……デスゲームなどということは忘れ去られて、楽しくゲームで過ごす時間になってほしいという、か細すぎる願い……。
-00292	コロネ@r@vsiro00660."What do you mean by 'such a theme'...?"「こういう趣向、って……？」
-00293	レモン@r@vremo00430."Y'know, like...the 'reuniting after three years only to end up in a death game' type of scenario. That's some refined taste you got there... Fuhehehe..."「いやその……、デスゲームって趣向で３年ぶりの同窓会なんて、コロネちゃんはさっすがハイセンスだなぁって、……ふへへぇ……」
-00294	梓杏@r@vsian00420."Hey, don't go ruin the mood, dumbass!"「バカ、そういう空気の読めないこと言うんじゃねぇ」
-00295	紫@r@vmura00370."That's right. It wouldn't be fair to Korone if you don't genuinely put your heart into it."「そうですわよ。負けたら命はないと、本気で信じて臨まないと、コロネさんに失礼ですわ」
-00296	コロネ@r@vsiro00670."Hm? Huh? What?"「ん？　え？　何々？」
-00297	ハンプ@r@vhanp00390."Ohhhh I knew I forgot something! I forgot to give you the most essential information! Heeere you go!"「そうじゃそうじゃ、忘れとったわい。一番大切な説明を忘れておったぞい！　そぉれ！」
-00298	@rFrom the chapel-like ceiling, something came down with great momentum.　聖堂のように高い天井から、何かが勢いよく落ちてくる。
-00299	@rIt was...a girl in a chair just like theirs, with a collar just like theirs, looking out of shape.　それは、私たちと同じ椅子に、同じように首輪で拘束された、……ぐったりとした女の子だった。
-00300	@rAnd she came down — no, she fell down — along the rattling of chains.　それが鎖でガラガラと降りて、いや、落ちてきたのだ……。
-00301	レモン@r@vremo00440."...Fu, fuheee... Who's that...?"「……ふ、……ふへぇ……。……誰………」
-00302	梓杏@r@vsian00430."S-She's wearing...the same uniform as Korone...?"「き、着ている制服は、コロネと同じだな……？」
-00303	@rWas she a friend of hers? Other than that, there wasn't much to draw from.　コロネの高校での友人だろうか？　しかし、それ以上のことは、表情さえわからない。
-00304	@rA box covered her head, making them unable to see what kind of face she was making.　顔に直方体の箱が被せられているからだ。
-00305	@rOn the box was a picture of a card soldier...　その箱には、トランプの兵士の絵が描かれていた……。
-00306	紫@r@vmura00380."...Korone, who is this girl?"「……彼女は、どなたですの……？」
-00307	@rShe didn't reply. She simply stood there, smiling... 　コロネは答えない。くすりと微笑むだけだ……。
-00308	ハンプ@r@vhanp00400."Ho-Ho!! Lest you forget, this is a death game!" 「ホッホー！！　繰り返すが、これはデスゲームじゃ！」
-00309	ハンプ@r@vhanp00410."I was originally going to present this at the first game, but little Korone here wanted to start in a more peaceful manner, so some changes were made!"「本当は第１のゲームからデスゲームのはずだったんじゃがな！　コロネちゃんが最初だけは和やかにしたいというので、変更になっただけじゃ」
-00310	コロネ@r@vsiro00690."Thanks to that, I was able to understand your feelings quite well."「そのお陰で、皆さんの気持ちを和やかな雰囲気の中で聞かせてもらうことが出来ましたので」
-00311	ハンプ@r@vhanp00420."Now, here's the kind of exection that would've happened to the last place at the 'Flamingo Croquet'. Let's take a look!"「さてさて！　第１のゲーム『フラミンゴのクロッケー』のビリッケツの子には、こぉんな処刑が行なわれるはずだったのじゃ～い！」
-00312	@rThe mystery girl, even though she looked tired, still seemed to be breathing. She was alive.　謎の少女はぐったりしているが、わずかに、胸には呼吸の動きがある。生きているのだ。
-00313	梓杏@r@vsian00440."H-Hey wait, what d'you mean by 'execution'...?"「おいおい……、処刑って……、」
-00314	@rFrom somewhere, the sound of a music box could be heard.　どこからともなく、オルゴールの音が聞こえてくる。
-00315	@rIts melody evoked a sense of parting, but also a sense of renewal, as if someone was going to a new life... But in the current situation, it was hardly anything but unsettling.　奏でる曲は、別れを感じさせるものであり、同時に新たな門出を感じさせるものでもあり、……この状況をあまりに不気味に演出した。
-00316	レモン@r@vremo00450."...What's going on? What...did you mean by this?" 「……何……？　この間は……。どういうこと……？」
-00317	ハンプ@r@vhanp00430."This is a time of farewells. You know, like when someone is leaving and your exchanging your last moments together? Or something like that."「これはお別れを惜しむ時間なのじゃ。ほら、よくあるじゃろ？　最期に何か言い残すことは？　みたいな」
-00318	ハンプ@r@vhanp00440."The tune of the music box is for sharing your last words with each other, the things you can only say at the last minute." 「オルゴールの間だけ、言葉を交わし合うことが出来るのじゃ。最後の瞬間でなければ話せないこともあるかもしれないでのぅ」
-00319	@rOnly silence perdured. As the music box kept playing, not a single word was uttered.　しばらくの間。沈黙が続き、オルゴールの音だけが静かに流れ続けた。
-00320	@rWhen that melody ends... Will she really be executed?　まさか本当に……、このオルゴールが終わったら、……処刑されるのか……？
-00321	@rNo, that must be an elaborate joke. Of course she wouldn't die. That's what they all believed, what they all wanted to believe...　いや、これはきっとぎりぎりの冗談。本当に処刑なんてする訳がない。そうに決まってる。そう信じたい。そうであってくれなくては……。
-00322	@rSuddenly, a grating metallic sound echoed. Some strange apparatus appeared from the girl's chair　突然、耳障りで奇怪な金属音が鳴り響く。彼女の椅子の後ろから、おかしな仕掛けが姿を現す。
-00323	@rIt slowly shifted through her head as if to cover it, only to stop at around her neck.　それは彼女の頭を覆うように潜り抜けると、首元に固定されて動きを止めた。
-00324	梓杏@r@vsian00450."Wh...What's that?"「……な、何だよこれ………」
-00325	レモン@r@vremo00460."Fu-Fuhehe... Look, that's the stuff they use for tricks in magic shows... Look, look...."「ふ、……ふへへ……。ほらアレアレ……、手品によくあるじゃん、ほらアレ……」
-00326	@rA trick like those where the magician cuts both a cigarette and their arm with a guillotine, and the cigarette is cut while the arm is fine.　マジシャンが、自分の指と煙草を小さなギロチンで切断すると、煙草は切断されるけど指は無事という手品。
-00327	@rThe device around the mystery girl's neck looks just like those guillotines.　あの小さなギロチンのようなものが、彼女の首に掛けられているのだ。
-00328	@r...Yes. It's just a trick. It has to be. It would just look like it was cut but nothing would happen....　……そう。これは手品。絶対に手品だ。一瞬、首が切断された、と思っても、実は切断されていないという……。
-00329	レモン@r@vremo00470."NOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!"「ひやああああああぁあああぁああぁああぁッッッ…！！！」
-00330	紫@r@vmura00390."H...How could this happen...aaaaaaa....."「そ、……そんなこと、って………、あぁぁぁ……」
-00331	梓杏@r@vsian00460."That's...a trick, right? Right?!"「手品……ッ、て、手品だろッ……？！」
-00332	@rThe cross-section at the base of her neck was still pulsating with blood, her entire body twitching and spasming. Even though they had never seen something like this before, the violence of it all made them understand. This was a real death. 　首の切断面から脈動するように噴き出る血。指先などの弱々しい痙攣。初めて見るにも関わらず、それが本当の死であることを暴力的に理解させる。
-00333	コロネ@r@vsiro00700."You know, it's just like in Alice in Wonderland, when the Queen of Hearts invited her to croquet, no?"「ほら。不思議の国のアリスで、ハートの女王がクロッケーに誘ってくれましたよね？」
-00334	紫@r@vmura00400."...'Off with their heads'. Is that it?"「……“首を撥ねろ”、……ですわね……」
-00335	紫@r@vmura00410."Whenever the Queen of Hearts wasn't in the mood for croquet, she would order for executions..."「ハートの女王は、クロッケーで気に入らないことがあると、すぐに、首を撥ねろと命じる……」
-00336	ハンプ@r@vhanp00450."Ho-Ho-Ho! And so, the punishment for the first game — the 'Flamingo Croquet' — was the Queen's 'Head-Rolling Guillotine'!「ホッホッホ。という訳で第１のゲームの処刑は、ハートの女王の“首を撥ねろギロチン”だったのじゃ～！」
-00337	ハンプ@r@vhanp00460."Special punishments for the second game have been made as well! Please look forward to it!"「第２のゲームの処刑も違う趣向を用意してあるぞい！　お楽しみになのじゃ！」
-00338	レモン@r@vremo00480."I-I'm not looking forward... This isn't fun at all, fuhehe...."「ぜ、全然楽しみじゃない……、冗談じゃないよ、ふへへぇ………」
-00339	梓杏@r@vsian00470."Everyone, calm down! Let's think positive! We just need to win, right?!"「落ち着けよ！　要は勝てばいいんだろ？　頭を切り替えろよ！」
-00340	紫@r@vmura00420."...Don't tell me, you seriously think this is still but a farce?"「……梓杏さん、……貴女まさか、これが茶番だと思っているんですの……？」
-00341	梓杏@r@vsian00480."Well duh?! I mean, this can't be a real death game where people die, right?! Haha..."「ったり前だろ？　こんな、本当に人を殺すようなデスゲームなんて、そんなの本当にある訳ないだろ、はは……」
-00342	@rWere they still thinking it was all but a trick or some pretend play...? Or did they want to think that way?　今の処刑も手品か何かで、よく出来たデスゲームごっこだと信じているのだろうか。……あるいは信じたいのだろうか。
-00343	@rShe who knew how hopeless things were. She who understood but wanted to deny it. She who had yet to understand.　絶望的な状況を理解する者。していてなお認めたくない者。そして未だに理解さえしていない者。
-00344	@rAnd she who, betting her life, held a reunion where death was certain...　そして、自らの命を賭して、必ず誰かが死ぬ同窓会を開いた者……。
-00345	コロネ@r@vsiro00710."I hope you all have fun. Or rather..."「楽しみましょう、皆さん。……いえ」
-00346	コロネ@r@vsiro00720.@z150."Let's have fun, everyone! This will be our first and very last reunion all together!"「楽しもうよ！　最初で最後の仲良し四人組の同窓会をね！！」
-00347	ハンプ@r@vhanp00461."Are you all ready? Then let's begin! Time for the heart-stopping nuisance-deciding roulette!"「準備はいいかの？！　さあ行くぞい！　それではドキドキの邪魔者決定ルーレットじゃ！」
-00348	ハンプ@r@vhanp00470."Aaaaaaaaand START!! Rororororororoll..."「ルーレット、スタートお！！　プルルルルルルルルル……」
-00349	@rHampu's eyes started spinning, not unlike the old anime of the Showa era.　ハンプの目が、昭和アニメみたいな表現でクルクルクルとルーレットのように回り出す。
-00350	ハンプ@r@vhanp00480."And it's decided! Now then, I'll send the chosen nuisance the signal!"「決まったぞい！！　それでは今から邪魔者に決定した者の首輪に合図を送るぞい」
-00351	@rLife and death determined by victory or defeat...and before that, by where the roulette points at.　勝敗によって生死が決まるが、……勝敗以前に、このルーレットの時点で確定することがひとつある。
-00352	@rEither the lone nuisance, or the remaning three, will survive.　生き残るのは、邪魔者の１人か、それ以外の３人かしかない。
-00353	@rAs the roulette comes to its stop, the barrier between the nuisance and the rest is being set.　ルーレットの時点で、邪魔者の少女とそれ以外の３人の別れは、確定するのだ。
+00259	@rThe slit opened once again, sliding the voting cards to the three participants.　
+00260	@rAnd each of them put a card on the middle of the table, face down.　
+00261	@rAnd a random card was added to the pile, bringing the total to four voting cards...　
+00262	Korone@r@vsiro00600."Now let's reveal them one by one. Aaaaaand...!"
+00263	Korone@r@vsiro00610."...Oh."
+00264	Cyan@r@vsian00370."Whaaaaat?! Where did that card come from?"
+00265	Lemon@r@vremo00360."Fuhee... Does that mean one of us is the nuisance...?"
+00266	Korone@r@vsiro00620."Alternatively, you may have gotten a random 'Failure' card and the nuisance isn't among you three right now."
+00267	Murasaki@r@vmura00320."...I see. The constant sense of paranoia seems to be the appeal of this game."
+00268	Lemon@r@vremo00370."Alright, now I'm starting to get in the mood."
+00269	@rLittle by little, the girls got used to the game, and the rest proceeded smoothly.
+00270	@rAnd as such, even as suspicions grew, the tea parties managed to be successful. However...　
+00271	Cyan@r@vsian00380."Huh?! Another 'Failure'?!"
+00272	Lemon@r@vremo00380."Fuhee... But where did it come from...?"
+00273	Murasaki@r@vmura00330."Like I've been telling you, I am not the nuisance, but you wouldn't believe me." 
+00274	Korone@r@vsiro00630."And with that, we won't be able to reach the needed 10 hours even with the remaining tea parties."
+00275	Lemon@r@vremo00390."...Yeah. There are seven cards with a total of 15 hours. So if we fail even 6 of them..."
+00276	Murasaki@r@vmura00340."Then it's Game Over. Meaning it's the nuisance's win."
+00277	Cyan@r@vsian00390."But if Murasaki wasn't it, then who was the nuisance?!"
+00278	Lemon@r@vremo00400."...The only one left is...Korone?"
+00279	Korone@r@vsiro00640."Yes. I was the nuisance♪."
+00280	Cyan@r@vsian00400."But that's impossible! How would she have made the 3-hour tea party fail?"
+00281	Murasaki@r@vmura00350."...Like I've been saying, that was but the 25% random accident."
+00282	Lemon@r@vremo00410."I see, I see... Fuhee... This game's kind of neat."
+00283	Korone@r@vsiro00650."Right? It's quite fun, no? Have you got a grasp of the general flow yet?"
+00284	Cyan@r@vsian00410."Hmm...kind of. Well, I'll manage somehow, hahahaha." 
+00285	@rKorone and Cyan both laugh in unison.
+00286	@rJust looking at the scene... One would forget they were currently in a death game.　
+00287	@rMurasaki and Lemon, at first apprehensive, also started to relax under the jovial atmosphere.
+00288	Murasaki@r@vmura00360."Still, I'm quite in awe of Korone's work. To think she would organize such a reunion..."
+00289	Lemon@r@vremo00420."And with such a theme too...fuhehe, quite specific. Fuhehehe..."
+00290	@rThe mood shifted, their laughters being slightly strained.
+00291	@rThey held on to a fragile wish, to forget about the threat of the death game and bask in the peaceful, happy atmosphere.
+00292	Korone@r@vsiro00660."What do you mean by 'such a theme'...?"
+00293	Lemon@r@vremo00430."Y'know, like...the 'reuniting after three years only to end up in a death game' type of scenario. That's some refined taste you got there... Fuhehehe..."
+00294	Cyan@r@vsian00420."Hey, don't go ruin the mood, dumbass!"
+00295	Murasaki@r@vmura00370."That's right. It wouldn't be fair to Korone if you don't genuinely put your heart into it."
+00296	Korone@r@vsiro00670."Hm? Huh? What?"
+00297	Hampu@r@vhanp00390."Ohhhh I knew I forgot something! I forgot to give you the most essential information! Heeere you go!"
+00298	@rFrom the chapel-like ceiling, something came down with great momentum.
+00299	@rIt was...a girl in a chair just like theirs, with a collar just like theirs, looking out of shape.
+00300	@rAnd she came down — no, she fell down — along the rattling of chains.
+00301	Lemon@r@vremo00440."...Fu, fuheee... Who's that...?"
+00302	Cyan@r@vsian00430."S-She's wearing...the same uniform as Korone...?"
+00303	@rWas she a friend of hers? Other than that, there wasn't much to draw from.
+00304	@rA box covered her head, making them unable to see what kind of face she was making.
+00305	@rOn the box was a picture of a card soldier...
+00306	Murasaki@r@vmura00380."...Korone, who is this girl?"
+00307	@rShe didn't reply. She simply stood there, smiling...
+00308	Hampu@r@vhanp00400."Ho-Ho!! Lest you forget, this is a death game!" 
+00309	Hampu@r@vhanp00410."I was originally going to present this at the first game, but little Korone here wanted to start in a more peaceful manner, so some changes were made!"
+00310	Korone@r@vsiro00690."Thanks to that, I was able to understand your feelings quite well."
+00311	Hampu@r@vhanp00420."Now, here's the kind of exection that would've happened to the last place at the 'Flamingo Croquet'. Let's take a look!"
+00312	@rThe mystery girl, even though she looked tired, still seemed to be breathing. She was alive.
+00313	Cyan@r@vsian00440."H-Hey wait, what d'you mean by 'execution'...?"
+00314	@rFrom somewhere, the sound of a music box could be heard.
+00315	@rIts melody evoked a sense of parting, but also a sense of renewal, as if someone was going to a new life... But in the current situation, it was hardly anything but unsettling.
+00316	Lemon@r@vremo00450."...What's going on? What...did you mean by this?" 
+00317	Hampu@r@vhanp00430."This is a time of farewells. You know, like when someone is leaving and you're spending your last moments together? Or something like that."
+00318	Hampu@r@vhanp00440."The tune of the music box is for sharing your last words with each other, the things you can only say at the last minute."
+00319	@rOnly silence perdured. As the music box kept playing, not a single word was uttered.
+00320	@rWhen that melody ends... Will she really be executed?
+00321	@rNo, that must be an elaborate joke. Of course she wouldn't die. That's what they all believed, what they all wanted to believe...
+00322	@rSuddenly, a grating metallic sound echoed. Some strange apparatus appeared from the girl's chair
+00323	@rIt slowly shifted through her head as if to cover it, only to stop at around her neck.
+00324	Cyan@r@vsian00450."Wh...What's that?"
+00325	Lemon@r@vremo00460."Fu-Fuhehe... Look, that's the stuff they use for tricks in magic shows... Look, look...."
+00326	@rA trick like those where the magician cuts both a cigarette and their arm with a guillotine, and the cigarette is cut while the arm is fine.
+00327	@rThe device around the mystery girl's neck looks just like those guillotines.　
+00328	@r...Yes. It's just a trick. It has to be. It would just look like it was cut but nothing would happen....
+00329	Lemon@r@vremo00470."NOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!"
+00330	Murasaki@r@vmura00390."H...How could this happen...aaaaaaa....."
+00331	Cyan@r@vsian00460."That's...a trick, right? Right?!"
+00332	@rThe cross-section at the base of her neck was still pulsating with blood, her entire body twitching and spasming. Even though they had never seen something like this before, the violence of it all made them understand. This was a real death.
+00333	Korone@r@vsiro00700."You know, it's just like in Alice in Wonderland, when the Queen of Hearts invited her to croquet, no?"
+00334	Murasaki@r@vmura00400."...'Off with their heads'. Is that it?"
+00335	Murasaki@r@vmura00410."Whenever the Queen of Hearts wasn't in the mood for croquet, she would instead order for executions..."
+00336	Hampu@r@vhanp00450."Ho-Ho-Ho! And so, the execution for the first game — the 'Flamingo Croquet' — was the Queen's 'Head-Rolling Guillotine'!
+00337	Hampu@r@vhanp00460."Special executions for the second game have been made as well! Please look forward to it!"「第２のゲームの処刑も違う趣向を用意してあるぞい！　お楽しみになのじゃ！」
+00338	Lemon@r@vremo00480."I-I'm not looking forward... This isn't fun at all, fuhehe...."
+00339	Cyan@r@vsian00470."Everyone, calm down! Let's think positive! We just need to win, right?!"
+00340	Murasaki@r@vmura00420."...Don't tell me, you seriously think this is still but a farce?"
+00341	Cyan@r@vsian00480."Well duh?! I mean, this can't be a real death game where people die, right?! Haha..."
+00342	@rWere they still thinking it was all but a trick or some pretend play...? Or did they want to think that way?
+00343	@rShe who knew how hopeless things were. She who understood but wanted to deny it. She who had yet to understand.
+00344	@rAnd she who, betting her own life, held a reunion where death was certain...　
+00345	Korone@r@vsiro00710."I hope you all have fun. Or rather..."
+00346	Korone@r@vsiro00720.@z150."Let's have fun, everyone! This will be our first and very last reunion all together!"
+00347	Hampu@r@vhanp00461."Are you all ready? Then let's begin! Time for the heart-stopping nuisance-deciding roulette!"
+00348	Hampu@r@vhanp00470."Aaaaaaaaand START!! Rororororororoll..."
+00349	@rHampu's eyes started spinning, not unlike the old anime of the Showa era.
+00350	Hampu@r@vhanp00480."And it's decided! Now then, I'll send the chosen nuisance the signal!"
+00351	@rLife and death determined by victory or defeat...and before that, by where the roulette points at.
+00352	@rEither the lone nuisance, or the remaning three, will survive.
+00353	@rAs the roulette comes to its stop, the barrier between the nuisance and the rest is being set.
 
 # section 「？？？？」
-00354	@rKorone seems to be in high spirits.　コロネちゃん、すっごく張り切ってるみたいだね。
-00355	@rYou're incredible, Grandpa. You really have the power to grant any wish.　さっすが、おじいちゃん。どんな願いでも叶えちゃうんだね。
-00356	ハンプ@r@vhanp00490."Ho-Ho-Ho-Ho! That's because I adore my sweet little Mashiro! I would grant any wish if needed!!「ホッホッホッホ！　ワシは真白ちゃんのことが大ぁぁい好きじゃから！　望みは何でも叶えてあげるのじゃ～～い！！」
-00357	@r...Is that so.　……ふぅん。
-00358	@rWould you really grant anything?　本当に、何でも？
-00359	ハンプ@r@vhanp00500."But of course! As long as it makes my sweet little Mashiro happy, I'll happily oblige!"「もちろんじゃとも！　喜んでくれるなら、ワシはどんなことでもしちゃうぞ～～い！！」
-00360	@rSo if you were, say, asked to bring all the clothes in the world, would you grant that wish?　今すぐ、欲しいお洋服、全部、買ってきて～って言ったら、叶えてくれる？
-00361	ハンプ@r@vhanp00510."Hooo-Ho-Ho! But of course! I would gather and prepare them on the spot!"「ホーッホッホ！　もちろんじゃぞーい！　す～ぐにまとめて用意しちゃうのじゃ！」
-00362	@rAnd if you were, say, asked to butcher some annoying girl like a lamb, would you grant that wish?　今すぐ、嫌いな子を連れてきて、まな板の上でブツ切りにしてって言ったら、叶えてくれる？
-00363	ハンプ@r@vhanp00520."Hooo-ho-ho! But of course! In strips, or dices, or steaks, you name it!"「ホーッホッホ！　もちろんじゃぞーい！　ブツ切り、千切り、短冊切り、何でもござれじゃ～い！！」
-00364	@rHuhuhu♪. How lovely. Grandpa, you're so cool♪.　うふふふふ♪　素敵ステキ。おじいちゃん、カッコイイ♪
-00365	@rBut... Let's say,　でも、……だったらぁ。
-00366	@rIf that wish were to bring ruin and destruction, would you still grant it...?　その願いを叶えると、その先にはいずれ破滅が待っている、というような願いでも、おじいちゃんは叶えられる……？
-00367	ハンプ@r@vhanp00530."Well...hmm. I guess it would be case by case."「それは……、ん～～、ケースバイケースじゃのぉ～」
-00368	@rImagine: it's the last day of summer vacation and there is still homework to be done.　宿題がまだ残った、夏休みの最後の日。
-00369	@rNot caring about homework, you're asked to make the day fun and exciting. Would you grant that wish?　宿題のことなんてどうでもいいから、今日一日を楽しく過ごさせてって望んだら、おじいちゃんはそれを叶えてあげる？
-00370	@rKnowing that the homework is due for the next day, and the teachers would definitely scold her in front of everyone?　明日には、クラスで自分だけが宿題を提出できなくて、叱られて恥をかいて馬鹿にされて、散々な目に遭うというような状況で……。
-00371	ハンプ@r@vhanp00540."Hmmm... That is conflicting, indeed..."「んん～～～、それは困ったのぅ……」
-00372	ハンプ@r@vhanp00550."I thought that, as long as I would grant wishes, then my little Mashiro would be happy... But seems like it's not as easy as that."「ワシは何でも望みを叶えてあげれば、幸せになってくれると思っておったんじゃが、そうではない訳だのう……」
-00373	@rOf course. And what if, in a sudden fit of rage, you were asked to kill your sweet little Mashiro? Would you do it?　もちろんだよ。突然、短気を起こして、「今すぐ私を死なせて！」ってお願いをしてきたら、おじいちゃんは叶えてあげちゃうの？
-00374	ハンプ@r@vhanp00560."Hmmmm... You make some good points. I wouldn't be good grandfather if I simply granted everything that was asked of me..."「んんんん……、確かにそうじゃのう。何でも求められるままに叶えていたら、それはおじいちゃんではないのう……」
-00375	@rTrue. That's now how a grandparent would act. That would merely be a robot.　うん。そんなの、おじいちゃんじゃない。ただのロボットだよ。
-00376	@rAnd you're not a robot. You're Grandpa.　おじいちゃんはおじいちゃんなんだから。
-00377	ハンプ@r@vhanp00570."That's right! I am Mashiro's good ol' Grandpa! Hooo-Hooo!"「そうじゃな！　ワシは真白ちゃんのおじいちゃんだからの！　ホーッホー！」
-00378	@rYou really love her, don't you?　おじいちゃんは、真白のこと、好き？
-00379	ハンプ@r@vhanp00580."But of course! Mashiro's happiness is my own!"「もちろんじゃ！　真白ちゃんの幸せがワシの幸せじゃい！」
-00380	@rThen...　だったらおじいちゃん。
-00381	@rCould you please grant one request of mine...?　私からひとつ、叶えて欲しいお願いがあるの……。
-00382	ハンプ@r@vhanp00590."Oh? Be warned though, I've turned over a new leaf! I won't mindlessly grant anything! Only what makes my sweet little Mashiro happy!"「むむぅ？　ワシはもう、考えるおじいちゃんだぞぃ！　何でも考えなしに叶えたりはせん！　真白ちゃんの幸せに繋がるかどうか、よーく考えるのじゃ！」
-00383	@rHuhu, I see, that's perfectly fine.　うふふ。そうそう、それでいいんだよ、おじいちゃん。
-00384	@rSee...I'd like to ask you something.　それでね。……お願いなんだけれど。
-00385	@rYou might think it's a bit mean, and cruel, and that it wouldn't make Mashiro happy at all...　ちょっと聞いただけだと、まるで、真白の幸せに繋がりそうもない、ちょっぴり意地悪で、ちょっぴり残酷なお願いなの。
-00386	@rBut could I explain the reasoning behind this cruel wish of mine...?　でも、この残酷なお願いが、どうして幸せに繋がるか、説明させてくれるかな……？
-00387	@rIf you'd be willing to accept it,　それでもし納得できたなら。
-00388	@rI'd wish for you to lend me your strength.　私のお願いを叶えて、力を貸して欲しいの……。
-00389	ハンプ@r@vhanp00600."Oh-ho? This is quite intriguing.... Why don't you tell me more?"「ほほう？　それは興味深いのう……。ちょいと、話を聞かせてもらえるかの……？」
+00354	@rKorone seems to be in high spirits.　
+00355	@rYou're incredible, Grandpa. You really have the power to grant any wish.　
+00356	Hampu@r@vhanp00490."Ho-Ho-Ho-Ho! That's because I adore my sweet little Mashiro! I would grant any wish if needed!!
+00357	@r...Is that so.
+00358	@rWould you really grant anything?
+00359	Hampu@r@vhanp00500."But of course! As long as it makes my sweet little Mashiro happy, I'll happily oblige!"
+00360	@rSo if you were, say, asked to bring all the clothes in the world, would you grant that wish?　
+00361	Hampu@r@vhanp00510."Hooo-Ho-Ho! But of course! I would gather and prepare them on the spot!"
+00362	@rAnd if you were, say, asked to butcher some annoying girl like a lamb, would you grant that wish?　
+00363	Hampu@r@vhanp00520."Hooo-ho-ho! But of course! In strips, or dices, or steaks, you name it!"
+00364	@rHuhuhu♪. How lovely. Grandpa, you're so cool♪.
+00365	@rBut... Let's say,
+00366	@rIf that wish were to bring ruin and destruction, would you still grant it...?
+00367	Hampu@r@vhanp00530."Well...hmm. I guess it would be case by case."
+00368	@rImagine: it's the last day of summer vacation and there is still homework to be done.
+00369	@rNot caring about homework, you're asked to make the day fun and exciting. Would you grant that wish?
+00370	@rKnowing that the homework is due for the next day, and the teachers would definitely scold her in front of everyone?
+00371	Hampu@r@vhanp00540."Hmmm... That is conflicting, indeed..."
+00372	Hampu@r@vhanp00550."I thought that, as long as I would grant wishes, then my little Mashiro would be happy... But seems like it's not as easy as that."
+00373	@rOf course. And what if, in a sudden fit of rage, you were asked to kill your sweet little Mashiro? Would you do it?
+00374	Hampu@r@vhanp00560."Hmmmm... You make some good points. I wouldn't be good grandfather if I simply granted everything that was asked of me..."
+00375	@rTrue. That's not how a grandparent would act. That would merely be a robot.
+00376	@rAnd you're not a robot. You're Grandpa.
+00377	Hampu@r@vhanp00570."That's right! I am Mashiro's good ol' Grandpa! Hooo-Hooo!"
+00378	@rYou really love her, don't you?
+00379	Hampu@r@vhanp00580."But of course! Mashiro's happiness is my own!"
+00380	@rThen...
+00381	@rCould you please grant one request of mine...?
+00382	Hampu@r@vhanp00590."Oh? Be warned though, I've turned over a new leaf! I won't mindlessly grant anything! Only what makes my sweet little Mashiro happy!"
+00383	@rHuhu, I see, that's perfectly fine.
+00384	@rSee...I'd like to ask you something.　
+00385	@rYou might think it's a bit mean, and cruel, and that it wouldn't make Mashiro happy at all...
+00386	@rBut could I explain the reasoning behind this cruel wish of mine...?　
+00387	@rIf you'd be willing to accept it,
+00388	@rI'd wish for you to lend me your strength.　
+00389	Hampu@r@vhanp00600."Oh-ho? This is quite intriguing.... Why don't you tell me more?"
 
 # section 「第２ゲーム 紫」
-00390	ハンプ@r@vhanp00910.「それでは席替えをするぞい！　コロネちゃんはそのままで、そこから時計回りに席順をチェンジじゃ！」
-00391	@r　コロネ以外の３人の少女たちを拘束する椅子が、再びお伽話の魔法の椅子のように歩き出し、席を入れ替わる。
-00392	@r　その結果、コロネから時計回りに、レモン、紫、梓杏の順番となる。
-00393	コロネ@r@vsiro02280.「ということは、最初の手番は私からみたいですね」
-00394	ハンプ@r@vhanp00920.「そういうことじゃ！　コロネちゃんから時計回りで進行するぞい！」
-00395	レモン@r@vremo01740.「ふへぇ……。私は２番手かぁ。……悪くないね」
-00396	梓杏@r@vsian01710.「そりゃよかったな。私なんかビリっけつの最後だぞ」
-00397	ハンプ@r@vhanp00930.「それでは、改めて邪魔者に合図を送るぞい！　そおれ！」
-00398	@r　ぴくんぴくん。
-00399	紫@r@vmura01350.「………………………」
-00400	紫@r@vmura90040.　ふふ。まぁ、これも神様の与えたハンデですわね。
-00401	紫@r@vmura90050.　このゲームは、知性と冷静さが物を言う。つまり、賢さと冷静さを常日頃から兼ね備えた、私に一番有利なゲームなんですもの。
-00402	紫@r@vmura90060.　コロネさんは負けたら処刑のデスゲームなんて仰ってますけれど……、
-00403	紫@r@vmura90070.　ご自身が負けて処刑されるなんてことになったら、さすがにデスゲームなんて物騒な話は、引っ込めざるを得ませんわね。
+00390	Hampu@r@vhanp00910."Now time for a seating change! Korone stays where she is, while everyone else rotates clockwise!"「それでは席替えをするぞい！　コロネちゃんはそのままで、そこから時計回りに席順をチェンジじゃ！」
+00391	@rExcluding Korone, everyone's chairs — on which they are restrained — came back to life just to move around the table, changing the seat order.　コロネ以外の３人の少女たちを拘束する椅子が、再びお伽話の魔法の椅子のように歩き出し、席を入れ替わる。
+00392	@rThe new position, in a clockwise order, was now: Korone, Lemon, Murasaki and Cyan.　その結果、コロネから時計回りに、レモン、紫、梓杏の順番となる。
+00393	コロネ@r@vsiro02280."I'm assuming this is now my turn then."「ということは、最初の手番は私からみたいですね」
+00394	Hampu@r@vhanp00920."And you assumed right! We'll be moving clockwise, starting with you!"「そういうことじゃ！　コロネちゃんから時計回りで進行するぞい！」
+00395	レモン@r@vremo01740."Fuhee... I'm second. This isn't too bad..."「ふへぇ……。私は２番手かぁ。……悪くないね」
+00396	梓杏@r@vsian01710."Well good for you. Meanwhile I'm in last place."「そりゃよかったな。私なんかビリっけつの最後だぞ」
+00397	Hampu@r@vhanp00930."I will once again send the nuisance a signal! Aaaaaaaand here!"「それでは、改めて邪魔者に合図を送るぞい！　そおれ！」
+00398	@rTwitch, twitch.　ぴくんぴくん。
+00399	紫@r@vmura01350."........."「………………………」
+00400	紫@r@vmura90040.Hehe. I guess this is God's way of making things fair.　ふふ。まぁ、これも神様の与えたハンデですわね。
+00401	紫@r@vmura90050.This game favors the smartest and most collected. So it would be a given that I, the smartest and most collected person here, would have a natural advantage.　このゲームは、知性と冷静さが物を言う。つまり、賢さと冷静さを常日頃から兼ね備えた、私に一番有利なゲームなんですもの。
+00402	紫@r@vmura90060.Korone may have said losing in this death game would lead to death but...　コロネさんは負けたら処刑のデスゲームなんて仰ってますけれど……、
+00403	紫@r@vmura90070.If she herself were to end up in the losing team, she'd have no choice but to call it all off. 　ご自身が負けて処刑されるなんてことになったら、さすがにデスゲームなんて物騒な話は、引っ込めざるを得ませんわね。
 00404	@r　直前に、見せしめとばかりに処刑された子の首無し死体は、……とても人形か何かには見えない。
 00405	@r　仮に人形だったとしても、あんなに精巧なものを準備するその手間は、もはや狂気と言っていい。
 00406	@r　……普通の人間だったら、その狂気に震えあがり、普段通りの思考さえも出来なくなるだろう。
