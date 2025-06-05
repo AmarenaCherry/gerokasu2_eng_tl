@@ -94,7 +94,7 @@
 00088	Lemon@r@vremo00080."I-I mean, yeah but... Fuheee..."
 00089	Murasaki@r@vmura00080."...Do you really want to participate as well, Korone?"
 00090	Korone@r@vsiro00280."Like I've said, it's only fair."
-00091	Korone@r@vsiro00290."The four of us were friends, no? At the very least, I believe we were."
+00091	Korone@r@vsiro00290."The four of us were friends, no? At the very least, you all believe we were."
 00092	Korone@r@vsiro00300."So then, why not bet our lives and gamble on this Death Game Reunion of ours together?"
 00093	Hampu@r@vhanp00050."Now then, time to explain the rules! For this game, you will be using cards!"
 00094	Lemon@r@vremo00090."A trading card game? Just like Play: The Gathering?"
@@ -341,7 +341,7 @@
 00334	Murasaki@r@vmura00400."...'Off with their heads'. Is that it?"
 00335	Murasaki@r@vmura00410."Whenever the Queen of Hearts wasn't in the mood for croquet, she would instead order for executions..."
 00336	Hampu@r@vhanp00450."Ho-Ho-Ho! And so, the execution for the first game — the 'Flamingo Croquet' — was the Queen's 'Head-Rolling Guillotine'!
-00337	Hampu@r@vhanp00460."Special executions for the second game have been made as well! Please look forward to it!"「第２のゲームの処刑も違う趣向を用意してあるぞい！　お楽しみになのじゃ！」
+00337	Hampu@r@vhanp00460."Special executions for the second game have been made as well! Please look forward to it!"
 00338	Lemon@r@vremo00480."I-I'm not looking forward... This isn't fun at all, fuhehe...."
 00339	Cyan@r@vsian00470."Everyone, calm down! Let's think positive! We just need to win, right?!"
 00340	Murasaki@r@vmura00420."...Don't tell me, you seriously think this is still but a farce?"
@@ -380,7 +380,7 @@
 00371	Hampu@r@vhanp00540."Hmmm... That is conflicting, indeed..."
 00372	Hampu@r@vhanp00550."I thought that, as long as I would grant wishes, then my little Mashiro would be happy... But seems like it's not as easy as that."
 00373	@rOf course. And what if, in a sudden fit of rage, you were asked to kill your sweet little Mashiro? Would you do it?
-00374	Hampu@r@vhanp00560."Hmmmm... You make some good points. I wouldn't be good grandfather if I simply granted everything that was asked of me..."
+00374	Hampu@r@vhanp00560."Hmmmm... You make some good points. I wouldn't be a good grandfather if I simply granted everything that was asked of me..."
 00375	@rTrue. That's not how a grandparent would act. That would merely be a robot.
 00376	@rAnd you're not a robot. You're Grandpa.
 00377	Hampu@r@vhanp00570."That's right! I am Mashiro's good ol' Grandpa! Hooo-Hooo!"
@@ -401,139 +401,139 @@
 00390	Hampu@r@vhanp00910."Now time for a seating change! Korone stays where she is, while everyone else rotates clockwise!"「それでは席替えをするぞい！　コロネちゃんはそのままで、そこから時計回りに席順をチェンジじゃ！」
 00391	@rExcluding Korone, everyone's chairs — on which they are restrained — came back to life just to move around the table, changing the seat order.　コロネ以外の３人の少女たちを拘束する椅子が、再びお伽話の魔法の椅子のように歩き出し、席を入れ替わる。
 00392	@rThe new position, in a clockwise order, was now: Korone, Lemon, Murasaki and Cyan.　その結果、コロネから時計回りに、レモン、紫、梓杏の順番となる。
-00393	コロネ@r@vsiro02280."I'm assuming this is now my turn then."「ということは、最初の手番は私からみたいですね」
+00393	Korone@r@vsiro02280."I'm assuming this is now my turn then."「ということは、最初の手番は私からみたいですね」
 00394	Hampu@r@vhanp00920."And you assumed right! We'll be moving clockwise, starting with you!"「そういうことじゃ！　コロネちゃんから時計回りで進行するぞい！」
-00395	レモン@r@vremo01740."Fuhee... I'm second. This isn't too bad..."「ふへぇ……。私は２番手かぁ。……悪くないね」
-00396	梓杏@r@vsian01710."Well good for you. Meanwhile I'm in last place."「そりゃよかったな。私なんかビリっけつの最後だぞ」
+00395	Lemon@r@vremo01740."Fuhee... I'm second. This isn't too bad..."「ふへぇ……。私は２番手かぁ。……悪くないね」
+00396	Cyan@r@vsian01710."Well good for you. Meanwhile I'm in last place."「そりゃよかったな。私なんかビリっけつの最後だぞ」
 00397	Hampu@r@vhanp00930."I will once again send the nuisance a signal! Aaaaaaaand here!"「それでは、改めて邪魔者に合図を送るぞい！　そおれ！」
 00398	@rTwitch, twitch.　ぴくんぴくん。
-00399	紫@r@vmura01350."........."「………………………」
-00400	紫@r@vmura90040.Hehe. I guess this is God's way of making things fair.　ふふ。まぁ、これも神様の与えたハンデですわね。
-00401	紫@r@vmura90050.This game favors the smartest and most collected. So it would be a given that I, the smartest and most collected person here, would have a natural advantage.　このゲームは、知性と冷静さが物を言う。つまり、賢さと冷静さを常日頃から兼ね備えた、私に一番有利なゲームなんですもの。
-00402	紫@r@vmura90060.Korone may have said losing in this death game would lead to death but...　コロネさんは負けたら処刑のデスゲームなんて仰ってますけれど……、
-00403	紫@r@vmura90070.If she herself were to end up in the losing team, she'd have no choice but to call it all off. 　ご自身が負けて処刑されるなんてことになったら、さすがにデスゲームなんて物騒な話は、引っ込めざるを得ませんわね。
-00404	@r　直前に、見せしめとばかりに処刑された子の首無し死体は、……とても人形か何かには見えない。
-00405	@r　仮に人形だったとしても、あんなに精巧なものを準備するその手間は、もはや狂気と言っていい。
-00406	@r　……普通の人間だったら、その狂気に震えあがり、普段通りの思考さえも出来なくなるだろう。
-00407	紫@r@vmura90080.　でも、私は昔から、そういうのには全然、動じませんのよ？　コロネさんもご存知でしょうに。
-00408	紫@r@vmura90090.　せっかくの、まるで映画のようなお膳立てですけれど。この私が、引っ繰り返して、コロネさんの目を覚まさせてあげましてよ。
-00409	コロネ@r@vsiro02290.「では、私から行きますね。……どのお茶会を選ぼうかな……？」
-00410	レモン@r@vremo01750.「……まぁ、順当に考えて、いきなり３茶だけはないかなぁ」
-00411	梓杏@r@vsian01720.「サンチャって何だよ？」
-00412	紫@r@vmura01360.「大方、３のお茶会の略称ですわ。うふふ」
-00413	紫@r@vmura90100.　この状況でサンチャと言われたら、３のお茶会しか思いつきようがないでしょうに。本当に梓杏さんは、素直だけど、ひとつ、頭がお悪ぅございますわね。くす。
-00414	@r　場に出ている７枚のお茶会カードの合計値は１５。……１５時間。
-00415	@r　１０時間に達成されたら邪魔者は負ける。つまり、６時間を邪魔できれば、邪魔者が勝利できる。
-00416	@r　３のお茶会を失敗すれば、それだけでもう、邪魔者は勝利の半分を満たしたことになる訳だ。
-00417	@r　そんなリスクを初手で取ったら、それはもう、自分は邪魔者だといきなり自己紹介するようなもの……。
-00418	コロネ@r@vsiro02300.「じゃあ、２のお茶会を選びます。このお茶会には誰を誘うかな……」
-00419	紫@r@vmura90110.　ここは、コロネさんの次の手番であるレモンさんを指名するのが妥当と思いましてよ？
-00420	コロネ@r@vsiro02310.「レモンさんを誘いますね。一緒に成功させましょう」
-00421	紫@r@vmura90120.　ふふふ、それで正解ですわ、コロネさん。
-00422	紫@r@vmura90130.　もし、このお茶会が成功できたなら、次の手番のレモンさんも、まったく同じお茶会を開いて再び成功できる公算が高い。
-00423	紫@r@vmura90140.　ゲームの最序盤で、２回のお茶会を成功させた人物が２人出現することは、邪魔者でないチームにとっては、大きなアドバンテージとなるでしょうから。
-00424	ハンプ@r@vhanp00940.「それでは、コロネちゃんとレモンちゃんの投票カードにランダムを１枚加えるぞい！　では紫ちゃん、よくシャッフルしてから、１枚ずつ公開するのじゃ」
-00425	紫@r@vmura01370.「わかりましたわ。……万一、失敗が出たら、そこでストップで残りは捲らないんでしたわよね？」
-00426	コロネ@r@vsiro02320.「うん。そうだよ。お願いね」
-00427	梓杏@r@vsian01730.「……のっけからいきなり、失敗なんてしねぇといいけどな」
-00428	レモン@r@vremo01760.「プレイヤーの意思と無関係に、２５％の確率で失敗するからねぇ。……ふへぇ、これは緊張するよ……」
-00429	紫@r@vmura90150.　くす。これは邪魔者の特権ですわね。私には何の緊張もありませんわ。そんなことより私は、自分の手番を想定しなくては。
-00430	紫@r@vmura90160.　確率的に考えて、このお茶会は成功し、次のレモンさんがコロネさんを誘っての同じ形の２のお茶会も成功するに違いない。
-00431	紫@r@vmura90170.　邪魔者は、自分以外の誰かを疑わせるように立ち回るのが鉄則のはずだけれど、２回ずつを成功させてるコロネさんとレモンさんに疑惑の目を向けさせるのは難しいですわ。
-00432	紫@r@vmura90180.　となると……、ピエロに丁度いいのは……、梓杏さんということになりますわね。
-00433	梓杏@r@vsian01740.「よし！　３枚全部が成功だ！　これでまずは２点。２時間を獲得だな」
-00434	コロネ@r@vsiro02330.「あと８時間。まだまだゴールは遠いよ。じゃ、次はレモンさんです」
-00435	レモン@r@vremo01770.「私はもう決まってるよ。２茶を選択して、コロネちゃんを指名する」
-00436	紫@r@vmura90190.　くす。読み通りですわね。まぁ、レモンさんもゲームに関してだけは知恵の回る方。私と同じ結論に行きつくのは当然ですわね。
-00437	梓杏@r@vsian01750.「コロネとレモンだけでゲームが進んでるぜ。ハブられてる気持ちだぞ」
-00438	紫@r@vmura01380.「１０時間のゴールに辿り着けるなら、誰が誰とお茶会をしても関係ないではございませんこと？」
+00399	Murasaki@r@vmura01350."........."「………………………」
+00400	Murasaki@r@vmura90040.Hehe. I guess this is God's way of making things fair.　ふふ。まぁ、これも神様の与えたハンデですわね。
+00401	Murasaki@r@vmura90050.This game favors those who are smart and collected. So it would be a given that I, the smartest and most collected person here, would have a natural advantage.　このゲームは、知性と冷静さが物を言う。つまり、賢さと冷静さを常日頃から兼ね備えた、私に一番有利なゲームなんですもの。
+00402	Murasaki@r@vmura90060.Korone may have said losing in this death game would lead to death but...　コロネさんは負けたら処刑のデスゲームなんて仰ってますけれど……、
+00403	Murasaki@r@vmura90070.If she herself were to end up in the losing team, she'd have no choice but to call it all off. 　ご自身が負けて処刑されるなんてことになったら、さすがにデスゲームなんて物騒な話は、引っ込めざるを得ませんわね。
+00404	@rThat girl that was executed as an example... She did not look like a doll or anything.　直前に、見せしめとばかりに処刑された子の首無し死体は、……とても人形か何かには見えない。
+00405	@rEven if she were fake, the amount of effort and preparation necessary would be nothing short of madness.　仮に人形だったとしても、あんなに精巧なものを準備するその手間は、もはや狂気と言っていい。
+00406	@r...Any ordinary person would crack under the fear and pressure, unable to think of anything else.　……普通の人間だったら、その狂気に震えあがり、普段通りの思考さえも出来なくなるだろう。
+00407	紫@r@vmura90080.But I've never been one to be fazed by such things. Even she would be aware of it.　でも、私は昔から、そういうのには全然、動じませんのよ？　コロネさんもご存知でしょうに。
+00408	紫@r@vmura90090.I commend you for this movie-like setting you've prepared, Korone, but I will have to bring you down a peg or two.　せっかくの、まるで映画のようなお膳立てですけれど。この私が、引っ繰り返して、コロネさんの目を覚まさせてあげましてよ。
+00409	コロネ@r@vsiro02290."I'll go first. Hmm...which card should I pick?"「では、私から行きますね。……どのお茶会を選ぼうかな……？」
+00410	レモン@r@vremo01750."...Well, thinking about it, why don't we go for a 3-tea?"「……まぁ、順当に考えて、いきなり３茶だけはないかなぁ」
+00411	梓杏@r@vsian01720."The hell's a 3-tea?"「サンチャって何だよ？」
+00412	紫@r@vmura01360."It's most likely an abbreviation of '3-hour tea party'. Fufu."「大方、３のお茶会の略称ですわ。うふふ」
+00413	紫@r@vmura90100.If someone heard '3-tea' in this context, they'd obviously think of a 3-hour tea party. You may be upfront, but your intellect leaves a lot to be desired, Cyan.　この状況でサンチャと言われたら、３のお茶会しか思いつきようがないでしょうに。本当に梓杏さんは、素直だけど、ひとつ、頭がお悪ぅございますわね。くす。
+00414	@rThe total value of those seven tea party cards is 15... Fifteen hours.　場に出ている７枚のお茶会カードの合計値は１５。……１５時間。
+00415	@rIf ten of those pass by, the nuisance loses. So all they would need to do to win is to waste six of those fifteen hours.　１０時間に達成されたら邪魔者は負ける。つまり、６時間を邪魔できれば、邪魔者が勝利できる。
+00416	@rSo by failing a 3-hour tea party, the goal would already be halfway there.　３のお茶会を失敗すれば、それだけでもう、邪魔者は勝利の半分を満たしたことになる訳だ。
+00417	@rBut taking such risks this early would be equivalent to introducing yourself as the nuisance...　そんなリスクを初手で取ったら、それはもう、自分は邪魔者だといきなり自己紹介するようなもの……。
+00418	コロネ@r@vsiro02300."I'll choose a 2-hour tea party. Now, who should I invite..."「じゃあ、２のお茶会を選びます。このお茶会には誰を誘うかな……」
+00419	紫@r@vmura90110.Will she know the optimal choice to take here?　ここは、コロネさんの次の手番であるレモンさんを指名するのが妥当と思いましてよ？
+00420	コロネ@r@vsiro02310."I'll invite Lemon. Let's pray for a successful tea party together."「レモンさんを誘いますね。一緒に成功させましょう」
+00421	紫@r@vmura90120.Fufu. Correct answer, Korone.　ふふふ、それで正解ですわ、コロネさん。
+00422	紫@r@vmura90130.If this tea party ends up being successful, then there's a high probability that Lemon — the next player — will hold the same tea party.　もし、このお茶会が成功できたなら、次の手番のレモンさんも、まったく同じお茶会を開いて再び成功できる公算が高い。
+00423	紫@r@vmura90140.Being able to establish a nuisance-free team this early into the game is a tremendous advantage after all.　ゲームの最序盤で、２回のお茶会を成功させた人物が２人出現することは、邪魔者でないチームにとっては、大きなアドバンテージとなるでしょうから。
+00424	ハンプ@r@vhanp00940."Now then! I will add one random voting card to Korone's and Lemon's! Murasaki, do us the honors of shuffling and revealing the cards one by one."「それでは、コロネちゃんとレモンちゃんの投票カードにランダムを１枚加えるぞい！　では紫ちゃん、よくシャッフルしてから、１枚ずつ公開するのじゃ」
+00425	紫@r@vmura01370."Understood. In the unlikely event of a 'Failure' card, I am to stop revealing any other card, is that right?"「わかりましたわ。……万一、失敗が出たら、そこでストップで残りは捲らないんでしたわよね？」
+00426	コロネ@r@vsiro02320."Yes. Now, if you would."「うん。そうだよ。お願いね」
+00427	梓杏@r@vsian01730."...I hope we don't get a fail this early."「……のっけからいきなり、失敗なんてしねぇといいけどな」
+00428	レモン@r@vremo01760."There's at least a 25% chance of failure regardless... Fuhee, this is getting stressful..."「プレイヤーの意思と無関係に、２５％の確率で失敗するからねぇ。……ふへぇ、これは緊張するよ……」
+00429	紫@r@vmura90150.Heh. One perk of being the nuisance is that I do not have such worries. Unlike you lot, I don't have to worry about how my turn will end.　くす。これは邪魔者の特権ですわね。私には何の緊張もありませんわ。そんなことより私は、自分の手番を想定しなくては。
+00430	紫@r@vmura90160.Realistically speaking, this party is likely to be successful and, on the next turn, Lemon will re-invite Korone for another successful 2-hour tea party.　確率的に考えて、このお茶会は成功し、次のレモンさんがコロネさんを誘っての同じ形の２のお茶会も成功するに違いない。
+00431	紫@r@vmura90170.I know the nuisance should try to cast doubt on the other players, but it may end up being hard to do so on Korone and Lemon who've made two successful tea parties.　邪魔者は、自分以外の誰かを疑わせるように立ち回るのが鉄則のはずだけれど、２回ずつを成功させてるコロネさんとレモンさんに疑惑の目を向けさせるのは難しいですわ。
+00432	紫@r@vmura90180.Which means...the best move would be to make Cyan my scapegoat.　となると……、ピエロに丁度いいのは……、梓杏さんということになりますわね。
+00433	梓杏@r@vsian01740."Nice! All three are a 'Success'! That's two points then, two hours down!"「よし！　３枚全部が成功だ！　これでまずは２点。２時間を獲得だな」
+00434	コロネ@r@vsiro02330."Still, eight more left. We're far away from the goal. Anyway, it's now Lemon's turn. "「あと８時間。まだまだゴールは遠いよ。じゃ、次はレモンさんです」
+00435	レモン@r@vremo01770."I've already made up my mind. I'll do a 2-tea with Korone."「私はもう決まってるよ。２茶を選択して、コロネちゃんを指名する」
+00436	紫@r@vmura90190.Heh. Just as I expected. Well, Lemon can be quite clever when it comes to games, it's only natural she would come to the same conclusion as me.　くす。読み通りですわね。まぁ、レモンさんもゲームに関してだけは知恵の回る方。私と同じ結論に行きつくのは当然ですわね。
+00437	梓杏@r@vsian01750."So far it's just been Korone and Lemon. Feels like I'm being left out."「コロネとレモンだけでゲームが進んでるぜ。ハブられてる気持ちだぞ」
+00438	紫@r@vmura01380."Our goal is to reach ten hours, so does it really matter who gets to participate with who?"「１０時間のゴールに辿り着けるなら、誰が誰とお茶会をしても関係ないではございませんこと？」
 00439	紫@r@vmura01390.「それとも梓杏さんは……、除け者にされて順調にお茶会が成功すると負けになってしまうような役割だったりするのかしら？」
-00440	梓杏@r@vsian01760.「は？　はあッ？　馬鹿言うな、そんなつもりじゃねぇよ……っ」
-00441	紫@r@vmura90200.　このお馬鹿さんを、何とかピエロに仕立てたいですわね。
-00442	紫@r@vmura90210.　聡明で賢い者が勝つゲームに、あなたが参加させられるなんて、本当にお気の毒ですわよ。くす。
-00443	ハンプ@r@vhanp00950.「ホッホッホ！　それでは今度は梓杏ちゃんが、この３枚をよくシャッフルしてもらえるかの？」
-00444	梓杏@r@vsian01761.「おう、任せろ。１枚ずつ捲る。失敗が出たら、そこでストップ、だろ？」
-00445	紫@r@vmura90220.　２回も成功させた２人を無視して、私が梓杏をお茶会に誘えば明らかにおかしいと思われますわね……。
-00446	紫@r@vmura90230.　その為、まずは演説が必要ですわ。今の２回の成功は邪魔者が完璧な信頼を得る為にわざと通した可能性も否定できないから、２人を全面的に信頼するのは早計である、と。
-00447	紫@r@vmura90240.　それを理解させた上で、私、梓杏さん、そしてレモンさんかコロネさんのどちらかを加えて３のお茶会を……、
-00448	梓杏@r@vsian01770.「うわ、……おい、失敗だぞっ」
-00449	紫@r@vmura90250.　あら、……くす、これはこれは。
-00450	レモン@r@vremo01780.「ふ、ふへぇ…………」
-00451	コロネ@r@vsiro02270.「きっとその……、事故だと思いますよ。だって、お互いについさっき、成功させたことをもう一度やろうとしただけですから」
-00452	レモン@r@vremo01790.「そ、そうだよね、きっと事故、事故。２５％って結構、あると思うし……、ふへへぇ……」
-00453	紫@r@vmura90260.　邪魔者の私から見れば、二人の心が丸わかりですわね。
-00454	紫@r@vmura90270.　そんな馬鹿な、こんなはずは。……ついさっき、成功できたんだから、信頼できるはずなのに……。
-00455	紫@r@vmura90280.　人間は、無評価の人を疑うことには躊躇いがないけれど。一度でもわずかでも信頼してしまった人を疑うのには、大きな負担がかかる生き物。
-00456	紫@r@vmura90290.　二人して、きっとこれは事故っ、相手のことを信じたいっ、だけれど……っ、って。……くす。本当に丸わかりですわね。
-00457	紫@r@vmura01410.「……それでは。次は私の手番ですわね」
-00458	@r　となると、たった今、用意したシナリオは急遽、変更になる。
-00459	@r　コロネとレモンの潔癖が揺らいだところに追い打ちを掛けるのが妥当。
-00460	@r　自分、コロネ、レモンの３人でお茶会を開き、ここでさらに失敗させれば、２人が示そうとした潔白証明は粉々になる……。
-00461	紫@r@vmura01420.「梓杏さん。私たち２人で、２のお茶会を開きましょう」
-00462	梓杏@r@vsian01780.「お、おう！　やってやろうぜっ」
-00463	紫@r@vmura90300.　この好機を活かしてコロネさんとレモンさんに追い打ちを掛けよう……、……なんて、まさに凡人の考えでしてよ？
-00464	紫@r@vmura90310.　このゲームにおける邪魔者とは、トドメの瞬間まで、とにかく息を潜め続けることが肝要ですのよ……。
-00465	コロネ@r@vsiro02340.「さっきの失敗で、一気に信用を無くしちゃった感じです」
-00466	レモン@r@vremo01800.「まぁ、安全策で行けば、紫ちゃんと梓杏ちゃんで進めるべきだよね。……まぁ、自分が疑われてるのは悲しいけど。ふへぇ……」
-00467	梓杏@r@vsian01790.「そらよ。成功のカードを出すぜ」
-00468	紫@r@vmura01430.「くす。失敗のカードを出すぜ、なんて言う方はいないと思いましてよ」
-00469	@r　私が場に出すカードは、失敗。
-00470	紫@r@vmura90320.　ふふ。トドメの瞬間まで息を潜めるというと、……考えの足りない方々はつい勘違いをされる。……ゲームの最後まで息を潜めろという意味だと。
-00471	紫@r@vmura90330.　７ターン行なわれるゲームの３ターン目だけれど……、トドメを刺すのは、今なんでしてよ……。
-00472	ハンプ@r@vhanp00960.「ホッホー！　それではコロネちゃん、よくシャッフルしてから開示を頼むぞい！」
-00473	コロネ@r@vsiro02350.「はい。それでは行きますねっ。@k@|@x3820.……１枚目、成功。@k@x7860.２枚目、」
-00474	梓杏@r@vsian01800.「失敗……？！」
-00475	紫@r@vmura01440.「え？　そんなことがある訳……、」
-00476	@r　コロネが捲ったそのカードは失敗のカードだが……、紫が出したものとは異なる失敗のカードなのだ。
-00477	紫@r@vmura90340.　よく出来たカードゲームですわね。……このゲーム、同じ失敗のカードでも、皆、絵柄が異なっている。
-00478	紫@r@vmura90350.　私が投じた失敗のカードの絵柄は、三月兎がポットを零してしまうものだった。でも、今、捲られた失敗のカードには、帽子屋が引っ繰り返る絵柄が記されている……。
-00479	@r　恐らく、失敗のカードは全て、異なる絵柄が記されているのだ。……そのお陰で邪魔者の私にはわかることが出来る。
-00480	紫@r@vmura90360.　くすくす、幸運も重なり過ぎると無駄になるということですわね。
-00481	紫@r@vmura90370.　……私が失敗させようとして開いたお茶会なのに、さらに２５％の確率での失敗まで重なり、このお茶会はダブルで失敗している、という訳ですわ。
-00482	@r　邪魔者にとって、２５％の失敗は希少な幸運。２５％は普通、そう簡単には起こらない。
-00483	@r　２５％のクジは４回も引けば当たりそうだが、４回引いて１回でも当たる確率は、実は７０％を下回る。
-00484	@r　そんな低い確率のクジを、ここまでの手番で紫は３回引いて、２回も当ててしまっているのだ……。
-00485	レモン@r@vremo01810.「ふへぇ……、これは……どういうことぉ……？」
-00486	梓杏@r@vsian01810.「邪魔者は、コロネかレモンのはずだろ？！　どういうことだよ？！」
-00487	コロネ@r@vsiro02360.「……まず間違いなく、……先程の失敗と今の失敗の、どちらかが２５％の事故だった、ということだと思います」
-00488	紫@r@vmura01450.「それだけではありませんわよ。……２度の失敗という貴重な情報が出たはずなのに、何の手掛かりにもならないということが重要ですわ」
-00489	レモン@r@vremo01820.「……確かに。……どっちのペアが２５％の事故かはわからないし、ましてやどっちのペアのどっちが邪魔者かなんて、まったくわからない」
-00490	紫@r@vmura90380.　これが私の狙い。気配を完全に殺し切ること。
-00491	紫@r@vmura90390.　コロネさんとレモンさんが失敗したからと追い打ちを掛けようだなんて、浅はかこの上ない。そういうのはレモンさんがやりそうなことですわね。くす。
-00492	ハンプ@r@vhanp00970.「それでは、次は梓杏ちゃんの番じゃぞい！」
-00493	梓杏@r@vsian01820.「お、おう……。……クソ、誰も信用できねぇ状況になっちまったぞ……」
-00494	コロネ@r@vsiro02370.「普通、４回目の手番にもなれば、そろそろ誰が疑わしいかの情報が、多少はあるものなのですが……」
-00495	梓杏@r@vsian01830.「私はどうすりゃいいんだよっ……」
-00496	レモン@r@vremo01830.「梓杏ちゃんの望むようにしてもらうしかないよ……。私もこの状況じゃ、何も浮かばないよ……」
-00497	梓杏@r@vsian01840.「お前はゲームしか取り柄がねぇだろうがっ。何か、秘策とかを出しやがれっ……」
-00498	紫@r@vmura01460.「今は梓杏さんの手番。……何を選ぶか決められるのは、あなただけでしてよ」
-00499	紫@r@vmura90400.　まぁ、知性の最も劣った梓杏さんが何かを考えたところで、意味など為さないでしょうけれど。
-00500	紫@r@vmura90410.　本当にお気の毒ですわね。せめて一番最初のフラミンゴのゴルフみたいなゲームだったなら、梓杏さんにも輝ける瞬間がありましたでしょうに。
-00501	梓杏@r@vsian01850.「じゃあ………、私が選ぶのは、……これだっ」
-00502	紫@r@vmura90420.　１のお茶会でしょう？
-00503	梓杏@r@vsian01860.「１のお茶会だ。……誰も信用できねぇなら、選ぶのはこれしかねぇからな」
-00504	レモン@r@vremo01840.「今のところ、２時間分が成功で、４時間分が失敗。……ゲームに勝利にはまだ８時間も必要で、邪魔者はあとたったの２時間でアガリ」
-00505	コロネ@r@vsiro02380.「状況は、かなり絶望的です。もう一度、気紛れな事故が起こるだけで、……負けです」
-00506	梓杏@r@vsian01870.「わかってる。……その上、私は馬鹿だ。何も気の利いたことなんか思いつかねぇ」
-00507	梓杏@r@vsian01880.「でも、これだけはわかる。１のお茶会を選ぶというのが、少なくとも私は邪魔者じゃないという証明にできる」
-00508	紫@r@vmura01470.「……確かに。梓杏さんが邪魔者なら、２以上のお茶会を選んで失敗させればそれでアガリですものね」
-00509	レモン@r@vremo01850.「１なら、仮に事故が起きても、ギリギリで生き残れるから妥当だし」
-00510	コロネ@r@vsiro02390.「その上、梓杏さんは手番が４番目。……プレイヤーの中で唯一、次の手番がありません」
-00511	レモン@r@vremo01860.「……うん。７枚のお茶会カードに４人のプレイヤー。４番目の手番プレイヤーだけが、１度しか自分の番が来ない」
-00512	梓杏@r@vsian01890.「ん？　あー、そうなのか？　何だ、私はこれを終えるともう順番が来ないのかよ……」
-00513	紫@r@vmura90430.　くすくす。そんな重要なことにも気付かずにぼんやりと手番を迎えたんですの……？　まったく梓杏さんったら、面白い方……。
-00514	@r　他の３人には２度の手番が訪れるが、梓杏にだけは１度の手番しか訪れない。
-00515	@r　だから、４番目のプレイヤーが邪魔者になった場合には、たった一度の手番を、かなり大胆に活かすことが求められる。
-00516	@r　当然だ。確実に失敗できるのは自分の手番だけ。そこで攻めなかったら、事故だけで邪魔者の勝利条件である６時間を満たさなければならなくなる。
-00517	@r　２５％のクジを７回引けば、運が良ければ２度くらいは事故も起こるだろう。しかし絶対じゃない。
-00518	@r　しかも、その２度の事故の内の１つには、７枚中２枚しかない３のお茶会が必ず含まれていなければならないのだ……。
-00519	コロネ@r@vsiro02400.「４番目のプレイヤーは手番が少ない分、不利だけど。……だからこそ、有利な面もあるよね」
-00520	レモン@r@vremo01870.「……少なくとも。その１のお茶会を淀みなく選んだことで、私の中での梓杏ちゃんへの疑い度はかなり下がったね」
-00521	紫@r@vmura01480.「というのを狙っての、１のお茶会かもしれませんわよ？　実際、２以上のお茶会を選んでいたら、レモンさんは、あのルールで刺したでしょう？」
-00522	レモン@r@vremo01880.「ふへぇ……、まぁねぇ。負けたくないしぃ」
-00523	梓杏@r@vsian01900.「あのルール？？　何のことだ」
-00524	梓杏@r@vsian01910.「まぁいいや。おい、卵野郎。１のお茶会だと、私ひとりが投票カードを出せばいいんだな？」
-00525	ハンプ@r@vhanp00980.「ホーッホッホ！　その通りだぞい！　梓杏ちゃんのカードとランダムカードを合わせての２枚で勝負じゃ！」
+00440	梓杏@r@vsian01760."Huh? HUH?! Don't be stupid, that's not what I meant...!"「は？　はあッ？　馬鹿言うな、そんなつもりじゃねぇよ……っ」
+00441	紫@r@vmura90200.I REALLY need to make this idiot the scapegoat.　このお馬鹿さんを、何とかピエロに仕立てたいですわね。
+00442	紫@r@vmura90210.It truly is a pity that you ended up in a game like this one, Cyan. Heh.　聡明で賢い者が勝つゲームに、あなたが参加させられるなんて、本当にお気の毒ですわよ。くす。
+00443	ハンプ@r@vhanp00950."Ho-Ho-Ho! Now then, Cyan, could you do us the honors of shuffling the cards?"「ホッホッホ！　それでは今度は梓杏ちゃんが、この３枚をよくシャッフルしてもらえるかの？」
+00444	梓杏@r@vsian01761."Leave it to me. One by one, then stop at the first 'Failure', right?"「おう、任せろ。１枚ずつ捲る。失敗が出たら、そこでストップ、だろ？」
+00445	紫@r@vmura90220.Ignoring the ones with a perfect track record to perform a tea party with Cyan is likely to raise some suspicions...　２回も成功させた２人を無視して、私が梓杏をお茶会に誘えば明らかにおかしいと思われますわね……。
+00446	紫@r@vmura90230.I'll first need to address that by bringing the possibility that the nuisance may have not interfered with the previous tea parties to earn trust.　その為、まずは演説が必要ですわ。今の２回の成功は邪魔者が完璧な信頼を得る為にわざと通した可能性も否定できないから、２人を全面的に信頼するのは早計である、と。
+00447	紫@r@vmura90240.Once that is done, I'll do a 3-hour tea party with Cyan and either Korone or Lemon...　それを理解させた上で、私、梓杏さん、そしてレモンさんかコロネさんのどちらかを加えて３のお茶会を……、
+00448	梓杏@r@vsian01770."Woah!"...Hey, that's a 'Failure'!"「うわ、……おい、失敗だぞっ」
+00449	紫@r@vmura90250.Oh my...heh. What do we have here?　あら、……くす、これはこれは。
+00450	レモン@r@vremo01780."Fu, fuhee..."「ふ、ふへぇ…………」
+00451	コロネ@r@vsiro02270."That...must be an accident. We just had a successful tea party with the two of us just before, after all."「きっとその……、事故だと思いますよ。だって、お互いについさっき、成功させたことをもう一度やろうとしただけですから」
+00452	レモン@r@vremo01790."Y-Yeah, true, that has to be an accident. 25% isn't nothing...fuhehe..."「そ、そうだよね、きっと事故、事故。２５％って結構、あると思うし……、ふへへぇ……」
+00453	紫@r@vmura90260.As the nuisance, I can read you two like a book.　邪魔者の私から見れば、二人の心が丸わかりですわね。
+00454	紫@r@vmura90270.'This cannot be happening... We just had a successful run, I trusted you...' 　そんな馬鹿な、こんなはずは。……ついさっき、成功できたんだから、信頼できるはずなのに……。
+00455	紫@r@vmura90280.People are quick to distrust those they have no opinion of, but are greatly burdened by the belief of betrayal from those they even slightly trusted.　人間は、無評価の人を疑うことには躊躇いがないけれど。一度でもわずかでも信頼してしまった人を疑うのには、大きな負担がかかる生き物。
+00456	紫@r@vmura90290.The two of them surely want to believe it was but an accident, they want to believe one another, but alas... Heh. So predictable.　二人して、きっとこれは事故っ、相手のことを信じたいっ、だけれど……っ、って。……くす。本当に丸わかりですわね。
+00457	紫@r@vmura01410."...It is now my turn then."「……それでは。次は私の手番ですわね」
+00458	@rThe plan I conceived would have to be revised.　となると、たった今、用意したシナリオは急遽、変更になる。
+00459	@rThis was the perfect time to shake Korone and Lemon's credibility even more.　コロネとレモンの潔癖が揺らいだところに追い打ちを掛けるのが妥当。
+00460	@rIf I and they were all part of another failed tea party, their alibis would end up being crushed to dust...　自分、コロネ、レモンの３人でお茶会を開き、ここでさらに失敗させれば、２人が示そうとした潔白証明は粉々になる……。
+00461	紫@r@vmura01420."Cyan. Let's hold a 2-hour tea party, you and I."「梓杏さん。私たち２人で、２のお茶会を開きましょう」
+00462	梓杏@r@vsian01780."R-Right! Let's do it!"「お、おう！　やってやろうぜっ」
+00463	紫@r@vmura90300.I could use this occasion to pour more salt on the wound...but that would be too boorish, wouldn't it?　この好機を活かしてコロネさんとレモンさんに追い打ちを掛けよう……、……なんて、まさに凡人の考えでしてよ？
+00464	紫@r@vmura90310.The key to success for the nuisance is to keep your head low until you strike the decisive blow.　このゲームにおける邪魔者とは、トドメの瞬間まで、とにかく息を潜め続けることが肝要ですのよ……。
+00465	コロネ@r@vsiro02340."It seems like that last 'Failure' made us untrustworthy."「さっきの失敗で、一気に信用を無くしちゃった感じです」
+00466	レモン@r@vremo01800."Well, it's better to keep it safe and go with only Murasaki and Cyan...not that I like being suspected. Fuhee..."「まぁ、安全策で行けば、紫ちゃんと梓杏ちゃんで進めるべきだよね。……まぁ、自分が疑われてるのは悲しいけど。ふへぇ……」
+00467	梓杏@r@vsian01790."And there! I'll play a 'Success' card!"「そらよ。成功のカードを出すぜ」
+00468	紫@r@vmura01430."Hehe, I don't think anyone would ever say the'll play a 'Failure' card." 「くす。失敗のカードを出すぜ、なんて言う方はいないと思いましてよ」
+00469	@rThe card I had put on the table was a 'Failure'.　私が場に出すカードは、失敗。
+00470	紫@r@vmura90320.Huhu. The lesser-minded folk would definitely not be able to understand... To keep your head low is to wait until the end of the game. 　ふふ。トドメの瞬間まで息を潜めるというと、……考えの足りない方々はつい勘違いをされる。……ゲームの最後まで息を潜めろという意味だと。
+00471	紫@r@vmura90330.After all, why give the decisive blow for a 7-turn game in only three turns...?　７ターン行なわれるゲームの３ターン目だけれど……、トドメを刺すのは、今なんでしてよ……。
+00472	ハンプ@r@vhanp00960."Ho-Ho! Now then, Korone! Please give the cards a good shuffle before the reveal!"「ホッホー！　それではコロネちゃん、よくシャッフルしてから開示を頼むぞい！」
+00473	コロネ@r@vsiro02350."Understood. I'll begin. @k@|@x3820.First card: Success. @k@x7860.Second card:"「はい。それでは行きますねっ。@k@|@x3820.……１枚目、成功。@k@x7860.２枚目、」
+00474	梓杏@r@vsian01800."'Failure'...?!"「失敗……？！」
+00475	紫@r@vmura01440."Huh? But that couldn't have..."「え？　そんなことがある訳……、」
+00476	@rThe card Korone just flipped was a 'Failure'... A card different than the one Murasaki just placed.　コロネが捲ったそのカードは失敗のカードだが……、紫が出したものとは異なる失敗のカードなのだ。
+00477	紫@r@vmura90340.What a well-made game... Even two similar 'Failure' cards can have different designs.　よく出来たカードゲームですわね。……このゲーム、同じ失敗のカードでも、皆、絵柄が異なっている。
+00478	紫@r@vmura90350.The one I used had a drawing of the March Hare spilling tea, but this one is of the Hatter falling on their behind...　私が投じた失敗のカードの絵柄は、三月兎がポットを零してしまうものだった。でも、今、捲られた失敗のカードには、帽子屋が引っ繰り返る絵柄が記されている……。
+00479	@rMost likely, all of the 'Failure' cards have a different design... This is information only the nuisance has access to.　恐らく、失敗のカードは全て、異なる絵柄が記されているのだ。……そのお陰で邪魔者の私にはわかることが出来る。
+00480	紫@r@vmura90360.Hehehe, I suppose one CAN suffer of too much good luck.　くすくす、幸運も重なり過ぎると無駄になるということですわね。
+00481	紫@r@vmura90370....Even though this tea party was already set for failure, the random draw also ended in a 'Failure', making this a double 'Failure'.　……私が失敗させようとして開いたお茶会なのに、さらに２５％の確率での失敗まで重なり、このお茶会はダブルで失敗している、という訳ですわ。
+00482	@rFor the nuisance, the random 'Failure' card brings good fortune. 25% are low odds, after all.　邪魔者にとって、２５％の失敗は希少な幸運。２５％は普通、そう簡単には起こらない。
+00483	@rOne would expect a 1-in-4-odds event to happen at least one after four tries, but in reality the chances of that happening are less than 70%.　２５％のクジは４回も引けば当たりそうだが、４回引いて１回でも当たる確率は、実は７０％を下回る。
+00484	@r...And yet, Murasaki had essentially rolled those low odds twice in only three tries.　そんな低い確率のクジを、ここまでの手番で紫は３回引いて、２回も当ててしまっているのだ……。
+00485	レモン@r@vremo01810."Fuhee... What does it mean...?"「ふへぇ……、これは……どういうことぉ……？」
+00486	梓杏@r@vsian01810."Wasn't the nuisance supposed to be Korone or Lemon?! What the hell is going on?"「邪魔者は、コロネかレモンのはずだろ？！　どういうことだよ？！」
+00487	コロネ@r@vsiro02360."...First of all, I believe it is safe to assume that either this 'Failure' or the previous one was caused by the random card."「……まず間違いなく、……先程の失敗と今の失敗の、どちらかが２５％の事故だった、ということだと思います」
+00488	紫@r@vmura01450."That's not all... Even though we obtained valuable pieces of information in the form of those 'Failures', we cannot extract anything from them."「それだけではありませんわよ。……２度の失敗という貴重な情報が出たはずなのに、何の手掛かりにもならないということが重要ですわ」
+00489	レモン@r@vremo01820."...You've got a point. There's nothing to tell us which pair had the random 'Failure' or which pair had a nuisance."「……確かに。……どっちのペアが２５％の事故かはわからないし、ましてやどっちのペアのどっちが邪魔者かなんて、まったくわからない」
+00490	紫@r@vmura90380.That's what I'm aiming for. To erase any trace leading to me.　これが私の狙い。気配を完全に殺し切ること。
+00491	紫@r@vmura90390.Only the most shallow-minded would think of attacking Korone and Lemon at this stage. Actually, this is what Lemon would've likely done. Heh.　コロネさんとレモンさんが失敗したからと追い打ちを掛けようだなんて、浅はかこの上ない。そういうのはレモンさんがやりそうなことですわね。くす。
+00492	ハンプ@r@vhanp00970."Now, it's time for Cyan's turn!"「それでは、次は梓杏ちゃんの番じゃぞい！」
+00493	梓杏@r@vsian01820."Oh, right... Shit, I don't know who I can't trust now..."「お、おう……。……クソ、誰も信用できねぇ状況になっちまったぞ……」
+00494	コロネ@r@vsiro02370."Usually, by the fourth turn, we would already have ideas on who the nuisance is..."「普通、４回目の手番にもなれば、そろそろ誰が疑わしいかの情報が、多少はあるものなのですが……」
+00495	梓杏@r@vsian01830."What should I do now...?"「私はどうすりゃいいんだよっ……」
+00496	レモン@r@vremo01830."You'll have to go blind for this one... I also don't know what to do now."「梓杏ちゃんの望むようにしてもらうしかないよ……。私もこの状況じゃ、何も浮かばないよ……」
+00497	梓杏@r@vsian01840."Hey, you're the gaming expert! It's your whole thing! Just find some kind of cheat or something!"「お前はゲームしか取り柄がねぇだろうがっ。何か、秘策とかを出しやがれっ……」
+00498	紫@r@vmura01460."It's your turn, Cyan... Only you can choose for yourself."「今は梓杏さんの手番。……何を選ぶか決められるのは、あなただけでしてよ」
+00499	紫@r@vmura90400.Well, not that I expect the dumbest one among us to come up with anything that makes sense.　まぁ、知性の最も劣った梓杏さんが何かを考えたところで、意味など為さないでしょうけれど。
+00500	紫@r@vmura90410.Truly, what a pity. Were this another game like the 'Flamingo Croquet' we had, you would've had your moment to shine.　本当にお気の毒ですわね。せめて一番最初のフラミンゴのゴルフみたいなゲームだったなら、梓杏さんにも輝ける瞬間がありましたでしょうに。
+00501	梓杏@r@vsian01850."Ok... I choose...this!"「じゃあ………、私が選ぶのは、……これだっ」
+00502	紫@r@vmura90420.A one-hour tea party?　１のお茶会でしょう？
+00503	梓杏@r@vsian01860."I'm doing a one-hour tea party. Since I can't trust anyone, I'm choosing this."「１のお茶会だ。……誰も信用できねぇなら、選ぶのはこれしかねぇからな」
+00504	レモン@r@vremo01840."Currently, we've gained two hours but lost four... We still need eight hours to win, while the nuisance only needs two."「今のところ、２時間分が成功で、４時間分が失敗。……ゲームに勝利にはまだ８時間も必要で、邪魔者はあとたったの２時間でアガリ」
+00505	コロネ@r@vsiro02380."The situation is pretty dire... One more unlucky accident and we lose."「状況は、かなり絶望的です。もう一度、気紛れな事故が起こるだけで、……負けです」
+00506	梓杏@r@vsian01870."I know. And honestly...I'm kind of stupid. I can't think of any smart thing to do."「わかってる。……その上、私は馬鹿だ。何も気の利いたことなんか思いつかねぇ」
+00507	梓杏@r@vsian01880."But I know one thing: choosing this one-hour tea party means that at least I'm not the nuisance."「でも、これだけはわかる。１のお茶会を選ぶというのが、少なくとも私は邪魔者じゃないという証明にできる」
+00508	紫@r@vmura01470."...Indeed. If you were the nuisance, you would've gone for two hours or above, which would have given you the hours you needed."「……確かに。梓杏さんが邪魔者なら、２以上のお茶会を選んで失敗させればそれでアガリですものね」
+00509	レモン@r@vremo01850."And with only one hour, even if it were to fail, we'd still be able to survive it."「１なら、仮に事故が起きても、ギリギリで生き残れるから妥当だし」
+00510	コロネ@r@vsiro02390."On top of that, Cyan is fourth in the seating order... She is the only one who won't have to play again."「その上、梓杏さんは手番が４番目。……プレイヤーの中で唯一、次の手番がありません」
+00511	レモン@r@vremo01860."...True. There are seven cards and four players. The player on the fourth only gets to draw once."「……うん。７枚のお茶会カードに４人のプレイヤー。４番目の手番プレイヤーだけが、１度しか自分の番が来ない」
+00512	梓杏@r@vsian01890."Hm? Ohh, really? So...I won't have to play again after that?"「ん？　あー、そうなのか？　何だ、私はこれを終えるともう順番が来ないのかよ……」
+00513	紫@r@vmura90430.Hehehe. Did you really make your move without noticing something this important...? Honestly, you're just so entertaining, Cyan. 　くすくす。そんな重要なことにも気付かずにぼんやりと手番を迎えたんですの……？　まったく梓杏さんったら、面白い方……。
+00514	@rCyan will only get one turn, while everyone gets two.　他の３人には２度の手番が訪れるが、梓杏にだけは１度の手番しか訪れない。
+00515	@rMeaning that if the fourth player is the nuisance, they need to make their turn as impactful than possible.　だから、４番目のプレイヤーが邪魔者になった場合には、たった一度の手番を、かなり大胆に活かすことが求められる。
+00516	@rOf course, the only turn they can guarantee a 'Failure' on is their own. Afterwards, their only means of attack and satisfying their victory conditions is to on accidents.　当然だ。確実に失敗できるのは自分の手番だけ。そこで攻めなかったら、事故だけで邪魔者の勝利条件である６時間を満たさなければならなくなる。
+00517	@rBy drawing seven cards with 1-in-4 odds, one would expect around two accidents on average. But this isn't a certainty.　２５％のクジを７回引けば、運が良ければ２度くらいは事故も起こるだろう。しかし絶対じゃない。
+00518	@rMoreover, of the two possible accidents, one has to land during a three-hour tea party...　しかも、その２度の事故の内の１つには、７枚中２枚しかない３のお茶会が必ず含まれていなければならないのだ……。
+00519	コロネ@r@vsiro02400."Since the fourth player has less available actions, they may seem at a disadvantage... But it also means there are some perks to it too.「４番目のプレイヤーは手番が少ない分、不利だけど。……だからこそ、有利な面もあるよね」
+00520	レモン@r@vremo01870."...At the very least, since she chose the one-hour tea party this quickly, I don't doubt her that much anymore."「……少なくとも。その１のお茶会を淀みなく選んだことで、私の中での梓杏ちゃんへの疑い度はかなり下がったね」
+00521	紫@r@vmura01480."Because it was a one-hour tea party, was it? If she had instead chosen a higher value card, I'm sure you would've used that rule against her."「というのを狙っての、１のお茶会かもしれませんわよ？　実際、２以上のお茶会を選んでいたら、レモンさんは、あのルールで刺したでしょう？」
+00522	レモン@r@vremo01880."Fuhee... Maybe? I don't want to lose after all."「ふへぇ……、まぁねぇ。負けたくないしぃ」
+00523	梓杏@r@vsian01900."That rule? What rule?"「あのルール？？　何のことだ」
+00524	梓杏@r@vsian01910."Oh, whatever. Hey, Egghead! I'm doing a one-hour tea party, so I can just vote now, right?"「まぁいいや。おい、卵野郎。１のお茶会だと、私ひとりが投票カードを出せばいいんだな？」
+00525	ハンプ@r@vhanp00980."Hooo-Ho-Ho! But of course! One card from Cyan and one random card, and it's on!"「ホーッホッホ！　その通りだぞい！　梓杏ちゃんのカードとランダムカードを合わせての２枚で勝負じゃ！」
 00526	紫@r@vmura90440.　１なんてクズ札、成功してもしなくてもどうでもいいけれど。……私の、いささか過剰な幸運が、こんなところでももたらされないといいですわね。
 00527	@r　ハンプに指名されたレモンが２枚の投票カードを集め、よくシャッフルしてから公開する。
 00528	レモン@r@vremo01890.「ふへぇ……。成功だよぉ……」
