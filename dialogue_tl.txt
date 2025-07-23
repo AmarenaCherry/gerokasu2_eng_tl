@@ -13,7 +13,7 @@
 00007	Lemon@r@vremo90010.Korone? That's just her nickname.
 00008	Lemon@r@vremo90020.Her full name was...@rKurone Uzuhana, I think.
 00009	Lemon@r@vremo90030.But let me tell you, that girl sure was something!@rFuhehehe☆.
-00010	Murasaki@r@vmura90010.Heh, Korone never lacked in cute reactions,@rit was a sight for sore eyes.
+00010	Murasaki@r@vmura90010.Heh, Korone was never lacking in cute reactions,@rit was a sight for sore eyes.
 00011	Murasaki@r@vmura90020.She would genuinely believe even the most @robvious lies. Truly, it was so entertaining.
 00012	Mursaki@r@vmura90030.Maybe she was just that pure,@rmaybe she was just an idiot, hehe.@rRegardless, she would liven up the mood.
 00013	Cyan@r@vsian90010.Also, she'd react in so many funny ways@reverytime we teased her!
@@ -72,57 +72,57 @@
 00066	Korone@r@vsiro00220."Even with my new body, even with my new life, the fear that you would one day appear and drag me back to the depths of Hell never left! All it did is grow even stronger! That's why!!"
 00067	Korone@r@vsiro00230."That's why I've organized this reunion!!"
 00068	Korone@r@vsiro00240."Between me, who wants to face my past, and YOU, who won't seem to acknlowledge it. A fair 'reunion'...!"
-00069	@rAt that moment, the girls were pulled by a tremendous force from their necks.
-00070	@rAs they recovered from their throats being smashed by the pull...they realise they've been forcibly seated to one of the vintage chairs, one in each corner of the room.
-00071	@rAnd each of the chairs--as if animated by a will of their own--advanced towards the center of the room.
+00069	@rAnd at that moment, the girls were pulled by a tremendous force from their necks.
+00070	@rAs they recovered from their throats being smashed by the pull...they realised they've been forcibly seated to vintage chairs, one in each corner of the room.
+00071	@rAnd each of the chairs — as if animated by a will of its own — advanced toward the center of the room.
 00072	@rAnd on that center lied a carpet, on the top of which appeared a large round table.
 00073	@rAnd so, the four girls were gathered around the table, restrained by chains and collars to their seats...
 00074	Korone@r@vsiro00250."I will be in the same condition as everyone else. Unlike you three, I have no interest in ganging up on the weak. This is only fair."
-00075	@rShe shows her neck, also adorned by a chained collar. She, too, is restrained.
-00076	@rThe peaceful atmosphere from the first game, the 'Flamingo Croquet', is completely gone.
-00077	@rOr maybe it never was genuine, nothing more than a trap.
+00075	@rShe showed her neck, also adorned by a chained collar. She, too, was restrained.
+00076	@rThe peaceful atmosphere from the first game, the 'Flamingo Croquet', was now completely gone.
+00077	@rOr maybe such atmosphere never was genuine, nothing more than a trap.
 00078	@rA trap made to expose how they felt about Korone.
 00079	Hampu@r@vhanp00010."Ho-Ho! Now then, let's get on with the second game!"
 00080	Cyan@r@vsian00070."Now the egghead's back again..."
 00081	Hampu@r@vhanp00020."Egghead? Oh, you wound me! My name is Humpty Dandy Dumpty, do not forget it!"
 00082	Hampu@r@vhanp00030."In any case, regain your composure! For we will start the second game, 'The March Hare's Endless Tea Party'!!"
-00083	Murasaki@r@vmura00070."So this IS themed around 'Alice in Wonderland'..."
-00084	Lemon@r@vremo00060."But the mood's a lot darker... It's kind of like a real death game now..."
-00085	Hampu@r@vhanp00040."Why yes, of course! From now on, this is a full-fledged, life-betting death game!"
+00083	Murasaki@r@vmura00070."So this is indeed themed around 'Alice in Wonderland'..."
+00084	Lemon@r@vremo00060."But the mood's got a lot darker... It's kind of like a real death game now..."
+00085	Hampu@r@vhanp00040."Why yes, of course! From now on, this is the full-fledged, life-betting death game we've all been waiting for!"
 00086	Lemon@r@vremo00070."F-Fuheee...?"
 00087	Cyan@r@vsian00080."Why're you acting surprised?! There is no exit. We're being chained and collared. You yourself even called it a death game before!"
 00088	Lemon@r@vremo00080."I-I mean, yeah but... Fuheee..."
 00089	Murasaki@r@vmura00080."...Do you really want to participate as well, Korone?"
 00090	Korone@r@vsiro00280."Like I've said, it's only fair."
-00091	Korone@r@vsiro00290."The four of us were friends, no? At the very least, you all believe we were."
-00092	Korone@r@vsiro00300."So then, why not bet our lives and gamble on this Death Game Reunion of ours together?"
+00091	Korone@r@vsiro00290."The four of us were friends, no? Or at least, you all believe we were."
+00092	Korone@r@vsiro00300."So then, why not bet our lives and gamble on this 'Death Game Reunion' of ours together?"
 00093	Hampu@r@vhanp00050."Now then, time to explain the rules! For this game, you will be using cards!"
-00094	Lemon@r@vremo00090."A trading card game? Just like Play: The Gathering?"
+00094	Lemon@r@vremo00090."A trading card game? Just like Yugi: The Gathering?"
 00095	Cyan@r@vsian00090."You're a totally different person when games are involved, huh..."
 00096	Hampu@r@vhanp00060."First off, one amongst you will be selected to play as the 'nuisance'!"
 00097	Korone@r@vsiro00310."Of course, the nuisance's identity will be hidden to the others."
-00098	Hampu@r@vhanp00070."The game ends when either the nuisance or the remainder wins!"「
+00098	Hampu@r@vhanp00070."The game ends when either the nuisance or the remainder wins!"
 00099	Murasaki@r@vmura00090."...Three victors, one loser. One victor, three losers..."
 00100	Cyan@r@vsian00100."The hell... So that means at least one person will lose...and die?!"
 00101	Hampu@r@vhanp00080."That's exactly right! One loss and it's Game Over! A fun execution awaits them!"
 00102	Lemon@r@vremo00100."Fuheee... And I'm guessing there's...no scenario where we all live...?"
-00103	Korone@r@vsiro00320."Nope, none at all. Three of us will carry on, while the remaining one will be cast aside like a bullying victim."
+00103	Korone@r@vsiro00320."Nope, none at all. Three of us will carry on, while the remaining one will be cast aside like a victim of bullying."
 00104	Lemon@r@vremo00110."Alright. I got the rules."
 00105	Cyan@r@vsian00110."Lemon..."
 00106	Lemon@r@vremo00120."We've got no choice, there's no other way to leave this place. We're cut off from the outside."
 00107	Lemon@r@vremo00130."All we've got is to move forward... To win this game and survive."
-00108	@rHer words may be brave, but her shaking, sweaty fists under the table betray her feelings.
+00108	@rHer words may have been brave, but her shaking, sweaty fists under the table betrayed her feelings.
 00109	Korone@r@vsiro00330."When it comes to game theory, you've always been quick on the uptake, Lemon. It's one of your strongest qualities.
 00110	Lemon@r@vremo00140."Oh...t-thank you, fuhehe..."
 00111	Murasaki@r@vmura00100."...Korone, what pushed you to organize this 'reunion'...is a consequence of our actions."
-00112	Murasaki@r@vmura00110."No matter how painful, how frustrated I am...I cannot find the right words to say to you."
-00113	Murasaki@r@vmura00120."So if it lets me atone for what I did, then...then I'll face your challenge head on.
-00114	Korone@r@vsiro00340."Thank you, Murasaki. If the both of us survive, let's reconcile."
+00112	Murasaki@r@vmura00110."No matter how pained, how frustrated I am...I cannot find the right words to say to you."
+00113	Murasaki@r@vmura00120."So, if it lets me atone for what I did, then...then I'll face your challenge head on.
+00114	Korone@r@vsiro00340."Thank you, Murasaki. If the both of us survive, I hope we can reconcile."
 00115	Cyan@r@vsian00120."...You mean, after all this, it'll be water under bridge?"
-00116	Korone@r@vsiro00350."Indeed. Even if I die, even if I'm the only one alive, all will be water under bridge."
+00116	Korone@r@vsiro00350."Indeed. Even if I die, even if I'm the only one left alive, all will be water under bridge."
 00117	Cyan@r@vsian00130."Gh..."
 00118	Cyan@r@vsian00140."Phewwwwww! Alright, I'm ready. Bring it on!"
-00119	Korone@r@vsiro00360."Interpreting it like a fight is very much like you, Cyan. How nostalgic."
+00119	Korone@r@vsiro00360."Approaching the issue like a fight is very much like you, Cyan. How nostalgic."
 00120	Cyan@r@vsian00150."Card games aren't my thing at all! Let's settle this with our muscles!"
 00121	Korone@r@vsiro00370."Nooooo you caaaaan't~"
 00122	@rThat slurred, surprised reaction... It was, without a doubt, coming from the Korone of back then.
@@ -136,7 +136,7 @@
 00129	Hampu@r@vhanp00110."For that, you will be using these seven cards. Look at them well! Do you notice anything in particular with the numbers?"
 00130	Cyan@r@vsian00160."Huh...? None of them go higher than 3, how cheap."
 00131	@rThe playing cards depicted a tea party table, all with a big number written on them.
-00132	@rOf the seven cards, one is numbered '1', four are numbered '2' and two are numbered '3'.
+00132	@rOf the seven cards, one was numbered '1', four were numbered '2' and two were numbered '3'.
 00133	Hampu@r@vhanp00120."The numbers represent the time spent in the tea party. So for example '1' is one hour."
 00134	Hampu@r@vhanp00130."Once ten hours have passed, the tea party is considered over and everyone but the nuisance wins!"
 00135	Lemon@r@vremo00160."Seven cards, to a total of fifteen hours... When said like that, it sounds too easy."
@@ -148,24 +148,24 @@
 00141	Hampu@r@vhanp00150."For example! Let's say someone plays the '2' card. It means that only two people will be participating to the tea party!"
 00142	Murasaki@r@vmura00150."Two people? And who might they be?"
 00143	Hampu@r@vhanp00160."One is the player who played the card! The other one is invited from the other three by the first person."
-00144	Lemon@r@vremo00170."...Huh. So this is kind of like a social deduction game..."
+00144	Lemon@r@vremo00170."...Huh. So, this is kind of like a social deduction game..."
 00145	Hampu@r@vhanp00170."And the two participating people will be using voting cards like these."
 00146	@rWith a rustling sound, two cards appeared on the round table.
-00147	@rOne would likely ask how those cards magically appeared, but in such a life-threatening situation this would be the least of their concerns.
+00147	@rOne would likely ask how those cards magically appeared, but in such a life-threatening situation this was the least of their concerns.
 00148	Murasaki@r@vmura00160."A 'Success' card and a 'Failure' card..."
 00149	Lemon@r@vremo00180."Fuhehe... Do the tea party participants vote using these?"
 00150	Hampu@r@vhanp00180."That's exactly right! And after everyone voted, the cards are gathered, given a good shuffle and revealed one by one."
-00151	@rIf all of the voting cards say 'Success', then the tea party is a Success and time moves forward according to the numbered card used.
+00151	@rIf all of the voting cards say 'Success', then the tea party is a success and time moves forward according to the numbered card used.
 00152	@rBut if even one of them says 'Failure', then the tea party fails...and the numbered card is lost.
-00153	Lemon@r@vremo00190."If the voting cards are shuffled, then this kind of becomes a secret ballot..."
+00153	Lemon@r@vremo00190."If the voting cards are shuffled, then this is kind of like secret ballot..."
 00154	Murasaki@r@vmura00170."Indeed. And in the case of a 2-hour tea party, it pretty much becomes a farce."
 00155	Cyan@r@vsian00180."Ohh, I get it. If you voted 'Success' but you see a 'Failure', wouldn't that mean the other person's the nuisance?"
-00156	Lemon@r@vremo00200."If the nuisance is found out, they won't be invited for any other tea parties. Meaning that they can't make them 'fail' anymore..."
+00156	Lemon@r@vremo00200."If the nuisance is found out, they won't be invited for any other tea parties. Meaning that they can't make them fail anymore..."
 00157	Korone@r@vsiro00400."The nuisance has quite the handicap. And that's not all. There is another rule which gives them another handicap."
 00158	Hampu@r@vhanp00190."And that is, the Banning Vote!"
 00159	Hampu@r@vhanp00200."You may think, 'This one's totally the nuisance, I'll never invite them again!' But even they get their turn to play, no?"
 00160	Murasaki@r@vmura00180."...That is true. Even if they get found out, they can still participate to a tea party on their own turn."
-00161	Lemon@r@vremo00210."Meaning they won't have to hide themselves anymore... Basically, even if they're found out, there's still a a chance for them."
+00161	Lemon@r@vremo00210."Meaning, they won't have to hide themselves anymore... Basically, even if they're found out, there's still a chance for them to win."
 00162	Korone@r@vsiro00410."Exactly. This is where the Banning Vote comes into play."
 00163	Cyan@r@vsian00190."So, what happens when they get banned? Do they just lose?"
 00164	Korone@r@vsiro00420."Their turn gets skipped, even in the middle of it. That way, it prevents them from causing any more failed tea parties."
@@ -173,26 +173,26 @@
 00166	Hampu@r@vhanp00210."Why yes, all three voters must agree!"
 00167	Cyan@r@vsian00200."...Not sure I get it but, sounds like if someone other than the nuisance gets banned, it would be rough..."
 00168	Lemon@r@vremo00220."After all we need everyone to be in unanimity... Whether they're the nuisance or not, once the vote is declared, it would be the end for the accused."
-00169	Murasaki@r@vmura00200."Essentially, for the nuisance, getting their identity exposed would be akin to a death sentance."
+00169	Murasaki@r@vmura00200."For the nuisance, getting their identity exposed would be akin to a death sentence."
 00170	Korone@r@vsiro00430."Once a Banning Vote has been made, it can't be performed again. It's a trump card that can only be used once during the game."
 00171	Lemon@r@vremo00230."Fuhee... Being the nuisance kinda sounds like hell... Isn't it a bit too much of an impossible game...?"
 00172	Hampu@r@vhanp00220."Ho-Ho-Ho! Obviously, not all is doom and gloom for them! Some rules exist in their favor too!"
 00173	Cyan@r@vsian00210."...Lemme guess, it'll be key to this 'Endless Tea Party' or something?"
 00174	Hampu@r@vhanp00230."That's exactly right! Along with your vote cards, I'll add one random 'Success' or 'Failure' card to the pile!"
-00175	Korone@r@vsiro00440."So if we all vote 'Success' but the random card says 'Failure', that would mean the tea party would be a 'Failure' too"
+00175	Korone@r@vsiro00440."So if we all vote 'Success' but the random card says 'Failure', that would mean the tea party would be a 'Failure,' too"
 00176	Cyan@r@vsian00220."Hey, wait! That's just a game of luck!"
 00177	Hampu@r@vhanp00240."Of course, the odds are low! The chances of getting an accidental 'Failure' are only 25%!"
 00178	Lemon@r@vremo00240."...These may be low odds, but if you stack enough of them..."
 00179	Murasaki@r@vmura00210."Then it would be possible for the nuisance to win without doing a single thing."
 00180	Cyan@r@vsian00230."That means we can just lose even if we do everything right?! That just sucks! What's even the point!"
-00181	Hampu@r@vhanp00250."You fooooooool!! From board games, to poker, to hanafuda, to mahjong, to even pachinko! Every game we know and love is tied to luck one way or another!!"
-00182	Korone@r@vsiro00450."Reading your opponent and bluffing. Then add in a pinch of luck. Don't these 25% sound like the perfect blend of chaos?"
+00181	Hampu@r@vhanp00250."You fooooooool! From board games, to poker, to hanafuda, to mahjong, to even pachinko! Every game we know and love is tied to luck one way or another!"
+00182	Korone@r@vsiro00450."Reading your opponent, bluffing your way through, then adding in a pinch of luck. Don't these 25% sound like the perfect blend of chaos?"
 00183	Hampu@r@vhanp00260."Why yes! Our little Korone here understands perfectly♪"
 00184	Korone@r@vsiro00460."And with that, we've explained everything. Next up, why don't we do a practice game?"
 00185	Lemon@r@vremo00250."Sure, I guess this will be our tutorial."
 00186	Murasaki@r@vmura00220."This isn't the real thing, right?"
 00187	Korone@r@vsiro00470."That's right. There are no consequences if you lose."
-00188	Cyan@r@vsian00240."Alright, let's get on with it then! I'll get it faster with a game than with words!"
+00188	Cyan@r@vsian00240."Alright, let's get on with it, then! I'll get it faster with a game than with words!"
 00189	Hampu@r@vhanp00270."Ho-Ho! Now then, I'll choose which one of you will become the nuisance!"
 00190	Hampu@r@vhanp00280."The chosen girl will be given a signal. As a test, I'll send it to everyone.! Here we go!"
 00191	@rTwitch, twitch.
@@ -200,16 +200,16 @@
 00193	Cyan@r@vsian00250."T-The hell...! It's so awkward..."
 00194	Murasaki@r@vmura00230."...I'm assuming these are muscle spasms induced by an electrode or similar."
 00195	Hampu@r@vhanp00290."Why, yes, they're inside each of your collars. That way, the signal can be received without anyone else being aware of it."
-00196	Korone@r@vsiro00480."If it was a sound or some kind of light, other people could notice them too."
+00196	Korone@r@vsiro00480."If it was a sound or some kind of light, other people could potentially notice it, too."
 00197	Hampu@r@vhanp00300."Next up, I'll send the signal to only the nuisance! Here we go!"
-00198	@rEveryone was silent. Has the signal been sent...? Or not yet?　Or, maybe they simply failed to notice it... 
+00198	@rEveryone stays silent. Has the signal been sent...? Or not yet?　Or, maybe they simply failed to notice it... 
 00199	Cyan@r@vsian00260."Not even a sound... We got way of knowing who got the signal, huh."
 00200	Lemon@r@vremo00270."Even if someone was being all twitchy, they could just pretend nothing happened..."
 00201	Hampu@r@vhanp00310."Normally, I would also randomize the seats but this is a practice run, so let's play as is!"
 00202	Hampu@r@vhanp00320."Now then. Korone, it's your turn!"
 00203	Korone@r@vsiro00490."First off, the acting player chooses a tea party card from the set."
 00204	Korone@r@vsiro00500."For this example, I'll pick a 2-hour tea time."
-00205	@rKorone picked the tea party card marked with a number 2.
+00205	@rKorone picks the tea party card marked with a number 2.
 00206	@rIt was adorned with a lovely drawing, with a design reminiscent of story books about western fairy tales.
 00207	Lemon@r@vremo00280."For a 2-hour tea party, two people are needed. One is Korone, the other one will be a person of her choosing..."
 00208	Korone@r@vsiro00510."Indeed! You're incredible, Lemon! You're very quick at understanding game rules."
@@ -225,7 +225,7 @@
 00218	Lemon@r@vremo00300."I see... That way, nobody knows who woted what."
 00219	Hampu@r@vhanp00340."In addition, I'll add one random card to the pile. Here!"
 00220	@rAnother card came out of the slit in the middle of the table, also face down.
-00221	@rIncluding the cards Korone and Lemon selected, the count was now to three.
+00221	@rIncluding the cards Korone and Lemon selected, the count is now to three.
 00222	Cyan@r@vsian00280."So, now we just flip them over and see if they all say 'Success', right?"
 00223	Hampu@r@vhanp00350."Not so fast! We do not flip them all at once. We instead go one by one."
 00224	Hampu@r@vhanp00360."And if a 'Failure' is found, then the tea party ends with any remaining face down card left untouched."
@@ -274,7 +274,7 @@
 00267	Murasaki@r@vmura00320."...I see. The constant sense of paranoia seems to be the appeal of this game."
 00268	Lemon@r@vremo00370."Alright, now I'm starting to get in the mood."
 00269	@rLittle by little, the girls got used to the game, and the rest proceeded smoothly.
-00270	@rAnd as such, even as suspicions grew, the tea parties managed to be successful. However...　
+00270	@rAs such, even as suspicions grew, the tea parties managed to be successful. However...　
 00271	Cyan@r@vsian00380."Huh?! Another 'Failure'?!"
 00272	Lemon@r@vremo00380."Fuhee... But where did it come from...?"
 00273	Murasaki@r@vmura00330."Like I've been telling you, I am not the nuisance, but you wouldn't believe me." 
@@ -319,9 +319,9 @@
 00312	@rThe mystery girl, even though she looked tired, still seemed to be breathing. She was alive.
 00313	Cyan@r@vsian00440."H-Hey wait, what d'you mean by 'execution'...?"
 00314	@rFrom somewhere, the sound of a music box could be heard.
-00315	@rIts melody evoked a sense of parting, but also a sense of renewal, as if someone was going to a new life... But in the current situation, it was hardly anything but unsettling.
+00315	@rIts melody evoked a sense of parting, but also a sense of renewal, as if someone was leaving for a new life elsewhere... But in the current situation, it was hardly anything but unsettling.
 00316	Lemon@r@vremo00450."...What's going on? What...did you mean by this?" 
-00317	Hampu@r@vhanp00430."This is a time of farewells. You know, like when someone is leaving and you're spending your last moments together? Or something like that."
+00317	Hampu@r@vhanp00430."This is a time of farewells. You know, like when you're spending your final moments with someone? Or something like that."
 00318	Hampu@r@vhanp00440."The tune of the music box is for sharing your last words with each other, the things you can only say at the last minute."
 00319	@rOnly silence perdured. As the music box kept playing, not a single word was uttered.
 00320	@rWhen that melody ends... Will she really be executed?
@@ -330,7 +330,7 @@
 00323	@rIt slowly shifted through her head as if to cover it, only to stop at around her neck.
 00324	Cyan@r@vsian00450."Wh...What's that?"
 00325	Lemon@r@vremo00460."Fu-Fuhehe... Look, that's the stuff they use for tricks in magic shows... Look, look...."
-00326	@rA trick like those where the magician cuts both a cigarette and their arm with a guillotine, and the cigarette is cut while the arm is fine.
+00326	@rA trick like those where the magician cuts both a cigarette and their arm with a guillotine, and the cigarette remains cut while the arm is fine.
 00327	@rThe device around the mystery girl's neck looks just like those guillotines.　
 00328	@r...Yes. It's just a trick. It has to be. It would just look like it was cut but nothing would happen....
 00329	Lemon@r@vremo00470."NOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!!!"
@@ -356,13 +356,13 @@
 00349	@rHampu's eyes started spinning, not unlike the old anime of the Showa era.
 00350	Hampu@r@vhanp00480."And it's decided! Now then, I'll send the chosen nuisance the signal!"
 00351	@rLife and death determined by victory or defeat...and before that, by where the roulette points at.
-00352	@rEither the lone nuisance, or the remaning three, will survive.
-00353	@rAs the roulette comes to its stop, the barrier between the nuisance and the rest is being set.
+00352	@rEither the lone nuisance, or the remaning three, would survive.
+00353	@rAs the roulette came to its stop, the barrier between the nuisance and the rest was set.
 
 # section 「？？？？」
 00354	@rKorone seems to be in high spirits.　
 00355	@rYou're incredible, Grandpa. You really have the power to grant any wish.　
-00356	Hampu@r@vhanp00490."Ho-Ho-Ho-Ho! That's because I adore my sweet little Mashiro! I would grant any wish if needed!!
+00356	Hampu@r@vhanp00490."Ho-Ho-Ho-Ho! That's because I adore my sweet little Mashiro! I would grant any of her wishes if needed!!
 00357	@r...Is that so.
 00358	@rWould you really grant anything?
 00359	Hampu@r@vhanp00500."But of course! As long as it makes my sweet little Mashiro happy, I'll happily oblige!"
@@ -374,8 +374,8 @@
 00365	@rBut... Let's say,
 00366	@rIf that wish were to bring ruin and destruction, would you still grant it...?
 00367	Hampu@r@vhanp00530."Well...hmm. I guess it would be case by case."
-00368	@rImagine: it's the last day of summer vacation and there is still homework to be done.
-00369	@rNot caring about homework, you're asked to make the day fun and exciting. Would you grant that wish?
+00368	@rImagine this: it's the last day of summer vacation and there is still homework to be done.
+00369	@rNot caring about that, you're asked to make the day fun and exciting. Would you grant that wish?
 00370	@rKnowing that the homework is due for the next day, and the teachers would definitely scold her in front of everyone?
 00371	Hampu@r@vhanp00540."Hmmm... That is conflicting, indeed..."
 00372	Hampu@r@vhanp00550."I thought that, as long as I would grant wishes, then my little Mashiro would be happy... But seems like it's not as easy as that."
@@ -398,360 +398,360 @@
 00389	Hampu@r@vhanp00600."Oh-ho? This is quite intriguing.... Why don't you tell me more?"
 
 # section 「第２ゲーム 紫」
-00390	Hampu@r@vhanp00910."Now time for a seating change! Korone stays where she is, while everyone else rotates clockwise!"「それでは席替えをするぞい！　コロネちゃんはそのままで、そこから時計回りに席順をチェンジじゃ！」
-00391	@rExcluding Korone, everyone's chairs — on which they are restrained — came back to life just to move around the table, changing the seat order.　コロネ以外の３人の少女たちを拘束する椅子が、再びお伽話の魔法の椅子のように歩き出し、席を入れ替わる。
-00392	@rThe new position, in a clockwise order, was now: Korone, Lemon, Murasaki and Cyan.　その結果、コロネから時計回りに、レモン、紫、梓杏の順番となる。
-00393	Korone@r@vsiro02280."I'm assuming this is now my turn then."「ということは、最初の手番は私からみたいですね」
-00394	Hampu@r@vhanp00920."And you assumed right! We'll be moving clockwise, starting with you!"「そういうことじゃ！　コロネちゃんから時計回りで進行するぞい！」
-00395	Lemon@r@vremo01740."Fuhee... I'm second. This isn't too bad..."「ふへぇ……。私は２番手かぁ。……悪くないね」
-00396	Cyan@r@vsian01710."Well good for you. Meanwhile I'm in last place."「そりゃよかったな。私なんかビリっけつの最後だぞ」
-00397	Hampu@r@vhanp00930."I will once again send the nuisance a signal! Aaaaaaaand here!"「それでは、改めて邪魔者に合図を送るぞい！　そおれ！」
-00398	@rTwitch, twitch.　ぴくんぴくん。
-00399	Murasaki@r@vmura01350."........."「………………………」
-00400	Murasaki@r@vmura90040.Hehe. I guess this is God's way of making things fair.　ふふ。まぁ、これも神様の与えたハンデですわね。
-00401	Murasaki@r@vmura90050.This game favors those who are smart and collected. So it would be a given that I, the smartest and most collected person here, would have a natural advantage.　このゲームは、知性と冷静さが物を言う。つまり、賢さと冷静さを常日頃から兼ね備えた、私に一番有利なゲームなんですもの。
-00402	Murasaki@r@vmura90060.Korone may have said losing in this death game would lead to death but...　コロネさんは負けたら処刑のデスゲームなんて仰ってますけれど……、
-00403	Murasaki@r@vmura90070.If she herself were to end up in the losing team, she'd have no choice but to call it all off. 　ご自身が負けて処刑されるなんてことになったら、さすがにデスゲームなんて物騒な話は、引っ込めざるを得ませんわね。
-00404	@rThat girl that was executed as an example... She did not look like a doll or anything.　直前に、見せしめとばかりに処刑された子の首無し死体は、……とても人形か何かには見えない。
-00405	@rEven if she were fake, the amount of effort and preparation necessary would be nothing short of madness.　仮に人形だったとしても、あんなに精巧なものを準備するその手間は、もはや狂気と言っていい。
-00406	@r...Any ordinary person would crack under the fear and pressure, unable to think of anything else.　……普通の人間だったら、その狂気に震えあがり、普段通りの思考さえも出来なくなるだろう。
-00407	紫@r@vmura90080.But I've never been one to be fazed by such things. Even she would be aware of it.　でも、私は昔から、そういうのには全然、動じませんのよ？　コロネさんもご存知でしょうに。
-00408	紫@r@vmura90090.I commend you for this movie-like setting you've prepared, Korone, but I will have to bring you down a peg or two.　せっかくの、まるで映画のようなお膳立てですけれど。この私が、引っ繰り返して、コロネさんの目を覚まさせてあげましてよ。
-00409	コロネ@r@vsiro02290."I'll go first. Hmm...which card should I pick?"「では、私から行きますね。……どのお茶会を選ぼうかな……？」
-00410	レモン@r@vremo01750."...Well, thinking about it, why don't we go for a 3-tea?"「……まぁ、順当に考えて、いきなり３茶だけはないかなぁ」
-00411	梓杏@r@vsian01720."The hell's a 3-tea?"「サンチャって何だよ？」
-00412	紫@r@vmura01360."It's most likely an abbreviation of '3-hour tea party'. Fufu."「大方、３のお茶会の略称ですわ。うふふ」
-00413	紫@r@vmura90100.If someone heard '3-tea' in this context, they'd obviously think of a 3-hour tea party. You may be upfront, but your intellect leaves a lot to be desired, Cyan.　この状況でサンチャと言われたら、３のお茶会しか思いつきようがないでしょうに。本当に梓杏さんは、素直だけど、ひとつ、頭がお悪ぅございますわね。くす。
-00414	@rThe total value of those seven tea party cards is 15... Fifteen hours.　場に出ている７枚のお茶会カードの合計値は１５。……１５時間。
-00415	@rIf ten of those pass by, the nuisance loses. So all they would need to do to win is to waste six of those fifteen hours.　１０時間に達成されたら邪魔者は負ける。つまり、６時間を邪魔できれば、邪魔者が勝利できる。
-00416	@rSo by failing a 3-hour tea party, the goal would already be halfway there.　３のお茶会を失敗すれば、それだけでもう、邪魔者は勝利の半分を満たしたことになる訳だ。
-00417	@rBut taking such risks this early would be equivalent to introducing yourself as the nuisance...　そんなリスクを初手で取ったら、それはもう、自分は邪魔者だといきなり自己紹介するようなもの……。
-00418	コロネ@r@vsiro02300."I'll choose a 2-hour tea party. Now, who should I invite..."「じゃあ、２のお茶会を選びます。このお茶会には誰を誘うかな……」
-00419	紫@r@vmura90110.Will she know the optimal choice to take here?　ここは、コロネさんの次の手番であるレモンさんを指名するのが妥当と思いましてよ？
-00420	コロネ@r@vsiro02310."I'll invite Lemon. Let's pray for a successful tea party together."「レモンさんを誘いますね。一緒に成功させましょう」
-00421	紫@r@vmura90120.Fufu. Correct answer, Korone.　ふふふ、それで正解ですわ、コロネさん。
-00422	紫@r@vmura90130.If this tea party ends up being successful, then there's a high probability that Lemon — the next player — will hold the same tea party.　もし、このお茶会が成功できたなら、次の手番のレモンさんも、まったく同じお茶会を開いて再び成功できる公算が高い。
-00423	紫@r@vmura90140.Being able to establish a nuisance-free team this early into the game is a tremendous advantage after all.　ゲームの最序盤で、２回のお茶会を成功させた人物が２人出現することは、邪魔者でないチームにとっては、大きなアドバンテージとなるでしょうから。
-00424	ハンプ@r@vhanp00940."Now then! I will add one random voting card to Korone's and Lemon's! Murasaki, do us the honors of shuffling and revealing the cards one by one."「それでは、コロネちゃんとレモンちゃんの投票カードにランダムを１枚加えるぞい！　では紫ちゃん、よくシャッフルしてから、１枚ずつ公開するのじゃ」
-00425	紫@r@vmura01370."Understood. In the unlikely event of a 'Failure' card, I am to stop revealing any other card, is that right?"「わかりましたわ。……万一、失敗が出たら、そこでストップで残りは捲らないんでしたわよね？」
-00426	コロネ@r@vsiro02320."Yes. Now, if you would."「うん。そうだよ。お願いね」
-00427	梓杏@r@vsian01730."...I hope we don't get a fail this early."「……のっけからいきなり、失敗なんてしねぇといいけどな」
-00428	レモン@r@vremo01760."There's at least a 25% chance of failure regardless... Fuhee, this is getting stressful..."「プレイヤーの意思と無関係に、２５％の確率で失敗するからねぇ。……ふへぇ、これは緊張するよ……」
-00429	紫@r@vmura90150.Heh. One perk of being the nuisance is that I do not have such worries. Unlike you lot, I don't have to worry about how my turn will end.　くす。これは邪魔者の特権ですわね。私には何の緊張もありませんわ。そんなことより私は、自分の手番を想定しなくては。
-00430	紫@r@vmura90160.Realistically speaking, this party is likely to be successful and, on the next turn, Lemon will re-invite Korone for another successful 2-hour tea party.　確率的に考えて、このお茶会は成功し、次のレモンさんがコロネさんを誘っての同じ形の２のお茶会も成功するに違いない。
-00431	紫@r@vmura90170.I know the nuisance should try to cast doubt on the other players, but it may end up being hard to do so on Korone and Lemon who've made two successful tea parties.　邪魔者は、自分以外の誰かを疑わせるように立ち回るのが鉄則のはずだけれど、２回ずつを成功させてるコロネさんとレモンさんに疑惑の目を向けさせるのは難しいですわ。
-00432	紫@r@vmura90180.Which means...the best move would be to make Cyan my scapegoat.　となると……、ピエロに丁度いいのは……、梓杏さんということになりますわね。
-00433	梓杏@r@vsian01740."Nice! All three are a 'Success'! That's two points then, two hours down!"「よし！　３枚全部が成功だ！　これでまずは２点。２時間を獲得だな」
-00434	コロネ@r@vsiro02330."Still, eight more left. We're far away from the goal. Anyway, it's now Lemon's turn. "「あと８時間。まだまだゴールは遠いよ。じゃ、次はレモンさんです」
-00435	レモン@r@vremo01770."I've already made up my mind. I'll do a 2-tea with Korone."「私はもう決まってるよ。２茶を選択して、コロネちゃんを指名する」
-00436	紫@r@vmura90190.Heh. Just as I expected. Well, Lemon can be quite clever when it comes to games, it's only natural she would come to the same conclusion as me.　くす。読み通りですわね。まぁ、レモンさんもゲームに関してだけは知恵の回る方。私と同じ結論に行きつくのは当然ですわね。
-00437	梓杏@r@vsian01750."So far it's just been Korone and Lemon. Feels like I'm being left out."「コロネとレモンだけでゲームが進んでるぜ。ハブられてる気持ちだぞ」
-00438	紫@r@vmura01380."Our goal is to reach ten hours, so does it really matter who gets to participate with who?"「１０時間のゴールに辿り着けるなら、誰が誰とお茶会をしても関係ないではございませんこと？」
-00439	紫@r@vmura01390.「それとも梓杏さんは……、除け者にされて順調にお茶会が成功すると負けになってしまうような役割だったりするのかしら？」
-00440	梓杏@r@vsian01760."Huh? HUH?! Don't be stupid, that's not what I meant...!"「は？　はあッ？　馬鹿言うな、そんなつもりじゃねぇよ……っ」
-00441	紫@r@vmura90200.I REALLY need to make this idiot the scapegoat.　このお馬鹿さんを、何とかピエロに仕立てたいですわね。
-00442	紫@r@vmura90210.It truly is a pity that you ended up in a game like this one, Cyan. Heh.　聡明で賢い者が勝つゲームに、あなたが参加させられるなんて、本当にお気の毒ですわよ。くす。
-00443	ハンプ@r@vhanp00950."Ho-Ho-Ho! Now then, Cyan, could you do us the honors of shuffling the cards?"「ホッホッホ！　それでは今度は梓杏ちゃんが、この３枚をよくシャッフルしてもらえるかの？」
-00444	梓杏@r@vsian01761."Leave it to me. One by one, then stop at the first 'Failure', right?"「おう、任せろ。１枚ずつ捲る。失敗が出たら、そこでストップ、だろ？」
-00445	紫@r@vmura90220.Ignoring the ones with a perfect track record to perform a tea party with Cyan is likely to raise some suspicions...　２回も成功させた２人を無視して、私が梓杏をお茶会に誘えば明らかにおかしいと思われますわね……。
-00446	紫@r@vmura90230.I'll first need to address that by bringing the possibility that the nuisance may have not interfered with the previous tea parties to earn trust.　その為、まずは演説が必要ですわ。今の２回の成功は邪魔者が完璧な信頼を得る為にわざと通した可能性も否定できないから、２人を全面的に信頼するのは早計である、と。
-00447	紫@r@vmura90240.Once that is done, I'll do a 3-hour tea party with Cyan and either Korone or Lemon...　それを理解させた上で、私、梓杏さん、そしてレモンさんかコロネさんのどちらかを加えて３のお茶会を……、
-00448	梓杏@r@vsian01770."Woah!"...Hey, that's a 'Failure'!"「うわ、……おい、失敗だぞっ」
-00449	紫@r@vmura90250.Oh my...heh. What do we have here?　あら、……くす、これはこれは。
-00450	レモン@r@vremo01780."Fu, fuhee..."「ふ、ふへぇ…………」
-00451	コロネ@r@vsiro02270."That...must be an accident. We just had a successful tea party with the two of us just before, after all."「きっとその……、事故だと思いますよ。だって、お互いについさっき、成功させたことをもう一度やろうとしただけですから」
-00452	レモン@r@vremo01790."Y-Yeah, true, that has to be an accident. 25% isn't nothing...fuhehe..."「そ、そうだよね、きっと事故、事故。２５％って結構、あると思うし……、ふへへぇ……」
-00453	紫@r@vmura90260.As the nuisance, I can read you two like a book.　邪魔者の私から見れば、二人の心が丸わかりですわね。
-00454	紫@r@vmura90270.'This cannot be happening... We just had a successful run, I trusted you...' 　そんな馬鹿な、こんなはずは。……ついさっき、成功できたんだから、信頼できるはずなのに……。
-00455	紫@r@vmura90280.People are quick to distrust those they have no opinion of, but are greatly burdened by the belief of betrayal from those they even slightly trusted.　人間は、無評価の人を疑うことには躊躇いがないけれど。一度でもわずかでも信頼してしまった人を疑うのには、大きな負担がかかる生き物。
-00456	紫@r@vmura90290.The two of them surely want to believe it was but an accident, they want to believe one another, but alas... Heh. So predictable.　二人して、きっとこれは事故っ、相手のことを信じたいっ、だけれど……っ、って。……くす。本当に丸わかりですわね。
-00457	紫@r@vmura01410."...It is now my turn then."「……それでは。次は私の手番ですわね」
-00458	@rThe plan I conceived would have to be revised.　となると、たった今、用意したシナリオは急遽、変更になる。
-00459	@rThis was the perfect time to shake Korone and Lemon's credibility even more.　コロネとレモンの潔癖が揺らいだところに追い打ちを掛けるのが妥当。
-00460	@rIf I and they were all part of another failed tea party, their alibis would end up being crushed to dust...　自分、コロネ、レモンの３人でお茶会を開き、ここでさらに失敗させれば、２人が示そうとした潔白証明は粉々になる……。
-00461	紫@r@vmura01420."Cyan. Let's hold a 2-hour tea party, you and I."「梓杏さん。私たち２人で、２のお茶会を開きましょう」
-00462	梓杏@r@vsian01780."R-Right! Let's do it!"「お、おう！　やってやろうぜっ」
-00463	紫@r@vmura90300.I could use this occasion to pour more salt on the wound...but that would be too boorish, wouldn't it?　この好機を活かしてコロネさんとレモンさんに追い打ちを掛けよう……、……なんて、まさに凡人の考えでしてよ？
-00464	紫@r@vmura90310.The key to success for the nuisance is to keep your head low until you strike the decisive blow.　このゲームにおける邪魔者とは、トドメの瞬間まで、とにかく息を潜め続けることが肝要ですのよ……。
-00465	コロネ@r@vsiro02340."It seems like that last 'Failure' made us untrustworthy."「さっきの失敗で、一気に信用を無くしちゃった感じです」
-00466	レモン@r@vremo01800."Well, it's better to keep it safe and go with only Murasaki and Cyan...not that I like being suspected. Fuhee..."「まぁ、安全策で行けば、紫ちゃんと梓杏ちゃんで進めるべきだよね。……まぁ、自分が疑われてるのは悲しいけど。ふへぇ……」
-00467	梓杏@r@vsian01790."And there! I'll play a 'Success' card!"「そらよ。成功のカードを出すぜ」
-00468	紫@r@vmura01430."Hehe, I don't think anyone would ever say the'll play a 'Failure' card." 「くす。失敗のカードを出すぜ、なんて言う方はいないと思いましてよ」
-00469	@rThe card I had put on the table was a 'Failure'.　私が場に出すカードは、失敗。
-00470	紫@r@vmura90320.Huhu. The lesser-minded folk would definitely not be able to understand... To keep your head low is to wait until the end of the game. 　ふふ。トドメの瞬間まで息を潜めるというと、……考えの足りない方々はつい勘違いをされる。……ゲームの最後まで息を潜めろという意味だと。
-00471	紫@r@vmura90330.After all, why give the decisive blow for a 7-turn game in only three turns...?　７ターン行なわれるゲームの３ターン目だけれど……、トドメを刺すのは、今なんでしてよ……。
-00472	ハンプ@r@vhanp00960."Ho-Ho! Now then, Korone! Please give the cards a good shuffle before the reveal!"「ホッホー！　それではコロネちゃん、よくシャッフルしてから開示を頼むぞい！」
-00473	コロネ@r@vsiro02350."Understood. I'll begin. @k@|@x3820.First card: Success. @k@x7860.Second card:"「はい。それでは行きますねっ。@k@|@x3820.……１枚目、成功。@k@x7860.２枚目、」
-00474	梓杏@r@vsian01800."'Failure'...?!"「失敗……？！」
-00475	紫@r@vmura01440."Huh? But that couldn't have..."「え？　そんなことがある訳……、」
-00476	@rThe card Korone just flipped was a 'Failure'... A card different than the one Murasaki just placed.　コロネが捲ったそのカードは失敗のカードだが……、紫が出したものとは異なる失敗のカードなのだ。
-00477	紫@r@vmura90340.What a well-made game... Even two similar 'Failure' cards can have different designs.　よく出来たカードゲームですわね。……このゲーム、同じ失敗のカードでも、皆、絵柄が異なっている。
-00478	紫@r@vmura90350.The one I used had a drawing of the March Hare spilling tea, but this one is of the Hatter falling on their behind...　私が投じた失敗のカードの絵柄は、三月兎がポットを零してしまうものだった。でも、今、捲られた失敗のカードには、帽子屋が引っ繰り返る絵柄が記されている……。
+00390	Hampu@r@vhanp00910."Now time for a seating change! Korone stays where she is, while everyone else rotates clockwise!"
+00391	@rExcluding Korone, everyone's chairs — on which they are restrained — came back to life just to move around the table, changing the seat order.
+00392	@rThe new position, in clockwise order, was now: Korone, Lemon, Murasaki and Cyan.
+00393	Korone@r@vsiro02280."I'm assuming this is now my turn, then."
+00394	Hampu@r@vhanp00920."And you assumed right! We'll be moving clockwise, starting with you!"
+00395	Lemon@r@vremo01740."Fuhee... I'm second. Could be worse..."
+00396	Cyan@r@vsian01710."Well good for you. Meanwhile I'm in last place."
+00397	Hampu@r@vhanp00930."I will once again send the nuisance a signal! Aaaaaaaand here!"
+00398	@rTwitch, twitch.
+00399	Murasaki@r@vmura01350."........."
+00400	Murasaki@r@vmura90040.Hehe. I guess this is God's way of making things fair.
+00401	Murasaki@r@vmura90050.This game favors those who are smart and collected. So it would be a given that I, the smartest and most collected person here, would have a natural advantage.
+00402	Murasaki@r@vmura90060.Korone may have said that losing in this death game would lead to death, but...
+00403	Murasaki@r@vmura90070.If she herself were to end up in the losing team, she'd have no choice but to call it all off.
+00404	@rThat girl that was executed as an example... She did not look like a doll or anything similar.
+00405	@rEven if she were fake, the amount of effort and preparation necessary would be nothing short of madness.
+00406	@r...Any ordinary person would crack under the fear and pressure, unable to think of anything else.
+00407	Murasaki@r@vmura90080.But I've never been one to be fazed by such things. Even she should be aware of it.
+00408	Murasaki@r@vmura90090.I commend you for this movie-like setting you've prepared, Korone, but I will have to bring you down a peg or two.
+00409	Korone@r@vsiro02290."I'll go first. Hmm...which card should I pick?"
+00410	Lemon@r@vremo01750."...Well, thinking about it, why don't we go for a 3-tea?"
+00411	Cyan@r@vsian01720."The hell's a 3-tea?"
+00412	Murasaki@r@vmura01360."It's most likely an abbreviation of '3-hour tea party'. Fufu."
+00413	Murasaki@r@vmura90100.If someone heard '3-tea' in this context, they'd obviously think of a 3-hour tea party. You may be upfront, but your intellect leaves a lot to be desired, Cyan.
+00414	@rThe total value of those seven tea party cards is 15... Fifteen hours.
+00415	@rIf ten of those pass by, the nuisance loses. So all they would need to do to win is to waste six of those fifteen hours.
+00416	@rBy failing a 3-hour tea party, their goal would already be halfway reached.
+00417	@rBut taking such risks this early would be equivalent to introducing yourself as the nuisance...
+00418	Korone@r@vsiro02300."I'll choose a 2-hour tea party. Now, who should I invite..."
+00419	Murasaki@r@vmura90110.Will she know the optimal choice to take here? To choose Lemon, who is next after her in the turn order?
+00420	Korone@r@vsiro02310."I'll invite Lemon. Let's pray for a successful tea party together."
+00421	Murasaki@r@vmura90120.Fufu. Correct answer, Korone.
+00422	Murasaki@r@vmura90130.If this tea party ends up being successful, then there's a high probability that Lemon — the next player — will hold the same tea party with the same participants.
+00423	Murasaki@r@vmura90140.Being able to establish a nuisance-free team this early into the game is a tremendous advantage, after all.
+00424	Hampu@r@vhanp00940."Now then! I will add one random voting card to Korone's and Lemon's! Murasaki, do us the honors of shuffling and revealing the cards one by one."
+00425	Murasaki@r@vmura01370."Understood. In the unlikely event of a 'Failure' card, I am to stop revealing any other card, is that right?"
+00426	Korone@r@vsiro02320."Yes. Now, if you would."
+00427	Cyan@r@vsian01730."...I hope we don't get a fail this early."
+00428	Lemon@r@vremo01760."There's at least a 25% chance of failure anyway... Fuhee, this is getting stressful..."
+00429	Murasaki@r@vmura90150.Heh. One perk of being the nuisance is that I do not have such worries. Unlike you lot, I don't have to worry about how my turn will end.
+00430	Murasaki@r@vmura90160.Realistically speaking, this party is likely to be successful and, on the next turn, Lemon will re-invite Korone for another successful 2-hour tea party.
+00431	Murasaki@r@vmura90170.I know the nuisance should try to cast doubt on the other players, but it may end up being hard to do so on those two, who've made two successful tea parties.
+00432	Murasaki@r@vmura90180.Which means...the best move would be to make Cyan my scapegoat.
+00433	Cyan@r@vsian01740."Nice! All three are a 'Success'! That's two points then, two hours down!"
+00434	Korone@r@vsiro02330."Still, eight more left. We're far away from the goal. Anyway, it's now Lemon's turn."
+00435	Lemon@r@vremo01770."I've already made up my mind. I'll do a 2-tea with Korone."
+00436	Murasaki@r@vmura90190.Heh. Just as I expected. Well, Lemon can be quite clever when it comes to games, it's only natural she would come to the same conclusion as me.
+00437	Cyan@r@vsian01750."So far it's just been Korone and Lemon. Feels like I'm being left out."
+00438	Murasaki@r@vmura01380."Our goal is to reach ten hours, so does it really matter who gets to participate with who?"
+00439	Murasaki@r@vmura01390."...Or are you simply playing the ostracized role so that you'd have a better chance of failing tea parties?"
+00440	Cyan@r@vsian01760."Huh? HUH?! Don't be stupid, that's not what I meant...!"
+00441	Murasaki@r@vmura90200.I REALLY need to make this idiot the scapegoat.
+00442	Murasaki@r@vmura90210.It truly is a pity that you ended up in a game like this one, Cyan. Heh.
+00443	Hampu@r@vhanp00950."Ho-Ho-Ho! Now then, Cyan, could you do us the honors of shuffling the cards?"
+00444	Cyan@r@vsian01761."Leave it to me. One by one, then stop at the first 'Failure', right?"
+00445	Murasaki@r@vmura90220.Ignoring the ones with a perfect track record to perform a tea party with Cyan is likely to raise some suspicions...
+00446	Murasaki@r@vmura90230.I'll first need to address that by bringing the possibility that the nuisance may have not interfered with the previous tea parties to earn trust.
+00447	Murasaki@r@vmura90240.Once that is done, I'll do a 3-hour tea party with Cyan and either Korone or Lemon...
+00448	Cyan@r@vsian01770."Woah!"...Hey, that's a 'Failure'!"
+00449	Murasaki@r@vmura90250.Oh my...heh. What do we have here?
+00450	Lemon@r@vremo01780."Fu, fuhee..."
+00451	Korone@r@vsiro02270."That...must be an accident. We just had a successful tea party with the two of us just before, after all."
+00452	Lemon@r@vremo01790."Y-Yeah, true, that has to be an accident. 25% isn't nothing...fuhehe..."
+00453	Murasaki@r@vmura90260.As the nuisance, I can read you two like a book.
+00454	Murasaki@r@vmura90270.'This cannot be happening... We just had a successful run, I trusted you...'
+00455	Murasaki@r@vmura90280.People are quick to distrust those they have no opinion of, but are greatly burdened by the belief of betrayal from those they even slightly trusted.
+00456	Murasaki@r@vmura90290.The two of them surely want to believe it was but an accident, they want to believe one another, but alas... Heh. So predictable.
+00457	Murasaki@r@vmura01410."...It is now my turn, then."
+00458	@rThe plan she conceived would have to be revised.
+00459	@rThis was the perfect time to shake Korone and Lemon's credibility even more.
+00460	@rIf she and they were all part of another failed tea party, their alibis would end up being crushed to dust...
+00461	Murasaki@r@vmura01420."Cyan. Let's hold a 2-hour tea party, you and I."
+00462	Cyan@r@vsian01780."R-Right! Let's do it!"
+00463	Murasaki@r@vmura90300.I could use this occasion to pour more salt on the wound...but that would be too boorish, wouldn't it?
+00464	Murasaki@r@vmura90310.The key to success for the nuisance is to keep your head low until you strike the decisive blow.
+00465	Korone@r@vsiro02340."It seems like that last 'Failure' made us untrustworthy."
+00466	Lemon@r@vremo01800."Well, it's better to keep it safe and go with only Murasaki and Cyan...not that I like being suspected. Fuhee..."
+00467	Cyan@r@vsian01790."And there! I'll play a 'Success' card!"
+00468	Murasaki@r@vmura01430."Hehe, I don't think anyone would ever say the'll play a 'Failure' card."
+00469	@rThe card I had put on the table was a 'Failure', though.
+00470	Murasaki@r@vmura90320.Huhu. The lesser-minded folk would definitely not be able to understand... To keep your head low is to wait until the end of the game.
+00471	Murasaki@r@vmura90330.After all, why give the decisive blow for a 7-turn game in only three turns...?
+00472	Hampu@r@vhanp00960."Ho-Ho! Now then, Korone! Please give the cards a good shuffle before the reveal!"
+00473	Korone@r@vsiro02350."Understood. I'll begin. @k@|@x3820.First card: Success. @k@x7860.Second card:"
+00474	Cyan@r@vsian01800."'Failure'...?!"
+00475	Murasaki@r@vmura01440."Huh? But that couldn't have..."
+00476	@rThe card Korone just flipped was a 'Failure'... A card different than the one Murasaki just placed.
+00477	Murasaki@r@vmura90340.What a well-made game... Even two similar 'Failure' cards can have different designs.　よく出来たカードゲームですわね。……このゲーム、同じ失敗のカードでも、皆、絵柄が異なっている。
+00478	Murasaki@r@vmura90350.The one I used had a drawing of the March Hare spilling tea, but this one is of the Hatter falling on their behind...　私が投じた失敗のカードの絵柄は、三月兎がポットを零してしまうものだった。でも、今、捲られた失敗のカードには、帽子屋が引っ繰り返る絵柄が記されている……。
 00479	@rMost likely, all of the 'Failure' cards have a different design... This is information only the nuisance has access to.　恐らく、失敗のカードは全て、異なる絵柄が記されているのだ。……そのお陰で邪魔者の私にはわかることが出来る。
-00480	紫@r@vmura90360.Hehehe, I suppose one CAN suffer of too much good luck.　くすくす、幸運も重なり過ぎると無駄になるということですわね。
-00481	紫@r@vmura90370....Even though this tea party was already set for failure, the random draw also ended in a 'Failure', making this a double 'Failure'.　……私が失敗させようとして開いたお茶会なのに、さらに２５％の確率での失敗まで重なり、このお茶会はダブルで失敗している、という訳ですわ。
-00482	@rFor the nuisance, the random 'Failure' card brings good fortune. 25% are low odds, after all.　邪魔者にとって、２５％の失敗は希少な幸運。２５％は普通、そう簡単には起こらない。
-00483	@rOne would expect a 1-in-4-odds event to happen at least one after four tries, but in reality the chances of that happening are less than 70%.　２５％のクジは４回も引けば当たりそうだが、４回引いて１回でも当たる確率は、実は７０％を下回る。
-00484	@r...And yet, Murasaki had essentially rolled those low odds twice in only three tries.　そんな低い確率のクジを、ここまでの手番で紫は３回引いて、２回も当ててしまっているのだ……。
-00485	レモン@r@vremo01810."Fuhee... What does it mean...?"「ふへぇ……、これは……どういうことぉ……？」
-00486	梓杏@r@vsian01810."Wasn't the nuisance supposed to be Korone or Lemon?! What the hell is going on?"「邪魔者は、コロネかレモンのはずだろ？！　どういうことだよ？！」
-00487	コロネ@r@vsiro02360."...First of all, I believe it is safe to assume that either this 'Failure' or the previous one was caused by the random card."「……まず間違いなく、……先程の失敗と今の失敗の、どちらかが２５％の事故だった、ということだと思います」
-00488	紫@r@vmura01450."That's not all... Even though we obtained valuable pieces of information in the form of those 'Failures', we cannot extract anything from them."「それだけではありませんわよ。……２度の失敗という貴重な情報が出たはずなのに、何の手掛かりにもならないということが重要ですわ」
-00489	レモン@r@vremo01820."...You've got a point. There's nothing to tell us which pair had the random 'Failure' or which pair had a nuisance."「……確かに。……どっちのペアが２５％の事故かはわからないし、ましてやどっちのペアのどっちが邪魔者かなんて、まったくわからない」
-00490	紫@r@vmura90380.That's what I'm aiming for. To erase any trace leading to me.　これが私の狙い。気配を完全に殺し切ること。
-00491	紫@r@vmura90390.Only the most shallow-minded would think of attacking Korone and Lemon at this stage. Actually, this is what Lemon would've likely done. Heh.　コロネさんとレモンさんが失敗したからと追い打ちを掛けようだなんて、浅はかこの上ない。そういうのはレモンさんがやりそうなことですわね。くす。
-00492	ハンプ@r@vhanp00970."Now, it's time for Cyan's turn!"「それでは、次は梓杏ちゃんの番じゃぞい！」
-00493	梓杏@r@vsian01820."Oh, right... Shit, I don't know who I can't trust now..."「お、おう……。……クソ、誰も信用できねぇ状況になっちまったぞ……」
-00494	コロネ@r@vsiro02370."Usually, by the fourth turn, we would already have ideas on who the nuisance is..."「普通、４回目の手番にもなれば、そろそろ誰が疑わしいかの情報が、多少はあるものなのですが……」
-00495	梓杏@r@vsian01830."What should I do now...?"「私はどうすりゃいいんだよっ……」
-00496	レモン@r@vremo01830."You'll have to go blind for this one... I also don't know what to do now."「梓杏ちゃんの望むようにしてもらうしかないよ……。私もこの状況じゃ、何も浮かばないよ……」
-00497	梓杏@r@vsian01840."Hey, you're the gaming expert! It's your whole thing! Just find some kind of cheat or something!"「お前はゲームしか取り柄がねぇだろうがっ。何か、秘策とかを出しやがれっ……」
-00498	紫@r@vmura01460."It's your turn, Cyan... Only you can choose for yourself."「今は梓杏さんの手番。……何を選ぶか決められるのは、あなただけでしてよ」
-00499	紫@r@vmura90400.Well, not that I expect the dumbest one among us to come up with anything that makes sense.　まぁ、知性の最も劣った梓杏さんが何かを考えたところで、意味など為さないでしょうけれど。
-00500	紫@r@vmura90410.Truly, what a pity. Were this another game like the 'Flamingo Croquet' we had, you would've had your moment to shine.　本当にお気の毒ですわね。せめて一番最初のフラミンゴのゴルフみたいなゲームだったなら、梓杏さんにも輝ける瞬間がありましたでしょうに。
-00501	梓杏@r@vsian01850."Ok... I choose...this!"「じゃあ………、私が選ぶのは、……これだっ」
-00502	紫@r@vmura90420.A one-hour tea party?　１のお茶会でしょう？
-00503	梓杏@r@vsian01860."I'm doing a one-hour tea party. Since I can't trust anyone, I'm choosing this."「１のお茶会だ。……誰も信用できねぇなら、選ぶのはこれしかねぇからな」
-00504	レモン@r@vremo01840."Currently, we've gained two hours but lost four... We still need eight hours to win, while the nuisance only needs two."「今のところ、２時間分が成功で、４時間分が失敗。……ゲームに勝利にはまだ８時間も必要で、邪魔者はあとたったの２時間でアガリ」
-00505	コロネ@r@vsiro02380."The situation is pretty dire... One more unlucky accident and we lose."「状況は、かなり絶望的です。もう一度、気紛れな事故が起こるだけで、……負けです」
-00506	梓杏@r@vsian01870."I know. And honestly...I'm kind of stupid. I can't think of any smart thing to do."「わかってる。……その上、私は馬鹿だ。何も気の利いたことなんか思いつかねぇ」
-00507	梓杏@r@vsian01880."But I know one thing: choosing this one-hour tea party means that at least I'm not the nuisance."「でも、これだけはわかる。１のお茶会を選ぶというのが、少なくとも私は邪魔者じゃないという証明にできる」
-00508	紫@r@vmura01470."...Indeed. If you were the nuisance, you would've gone for two hours or above, which would have given you the hours you needed."「……確かに。梓杏さんが邪魔者なら、２以上のお茶会を選んで失敗させればそれでアガリですものね」
-00509	レモン@r@vremo01850."And with only one hour, even if it were to fail, we'd still be able to survive it."「１なら、仮に事故が起きても、ギリギリで生き残れるから妥当だし」
-00510	コロネ@r@vsiro02390."On top of that, Cyan is fourth in the seating order... She is the only one who won't have to play again."「その上、梓杏さんは手番が４番目。……プレイヤーの中で唯一、次の手番がありません」
-00511	レモン@r@vremo01860."...True. There are seven cards and four players. The player on the fourth only gets to draw once."「……うん。７枚のお茶会カードに４人のプレイヤー。４番目の手番プレイヤーだけが、１度しか自分の番が来ない」
-00512	梓杏@r@vsian01890."Hm? Ohh, really? So...I won't have to play again after that?"「ん？　あー、そうなのか？　何だ、私はこれを終えるともう順番が来ないのかよ……」
-00513	紫@r@vmura90430.Hehehe. Did you really make your move without noticing something this important...? Honestly, you're just so entertaining, Cyan. 　くすくす。そんな重要なことにも気付かずにぼんやりと手番を迎えたんですの……？　まったく梓杏さんったら、面白い方……。
-00514	@rCyan will only get one turn, while everyone gets two.　他の３人には２度の手番が訪れるが、梓杏にだけは１度の手番しか訪れない。
-00515	@rMeaning that if the fourth player is the nuisance, they need to make their turn as impactful than possible.　だから、４番目のプレイヤーが邪魔者になった場合には、たった一度の手番を、かなり大胆に活かすことが求められる。
-00516	@rOf course, the only turn they can guarantee a 'Failure' on is their own. Afterwards, their only means of attack and satisfying their victory conditions is to on accidents.　当然だ。確実に失敗できるのは自分の手番だけ。そこで攻めなかったら、事故だけで邪魔者の勝利条件である６時間を満たさなければならなくなる。
-00517	@rBy drawing seven cards with 1-in-4 odds, one would expect around two accidents on average. But this isn't a certainty.　２５％のクジを７回引けば、運が良ければ２度くらいは事故も起こるだろう。しかし絶対じゃない。
-00518	@rMoreover, of the two possible accidents, one has to land during a three-hour tea party...　しかも、その２度の事故の内の１つには、７枚中２枚しかない３のお茶会が必ず含まれていなければならないのだ……。
-00519	コロネ@r@vsiro02400."Since the fourth player has less available actions, they may seem at a disadvantage... But it also means there are some perks to it too.「４番目のプレイヤーは手番が少ない分、不利だけど。……だからこそ、有利な面もあるよね」
-00520	レモン@r@vremo01870."...At the very least, since she chose the one-hour tea party this quickly, I don't doubt her that much anymore."「……少なくとも。その１のお茶会を淀みなく選んだことで、私の中での梓杏ちゃんへの疑い度はかなり下がったね」
-00521	紫@r@vmura01480."Because it was a one-hour tea party, was it? If she had instead chosen a higher value card, I'm sure you would've used that rule against her."「というのを狙っての、１のお茶会かもしれませんわよ？　実際、２以上のお茶会を選んでいたら、レモンさんは、あのルールで刺したでしょう？」
-00522	レモン@r@vremo01880."Fuhee... Maybe? I don't want to lose after all."「ふへぇ……、まぁねぇ。負けたくないしぃ」
-00523	梓杏@r@vsian01900."That rule? What rule?"「あのルール？？　何のことだ」
-00524	梓杏@r@vsian01910."Oh, whatever. Hey, Egghead! I'm doing a one-hour tea party, so I can just vote now, right?"「まぁいいや。おい、卵野郎。１のお茶会だと、私ひとりが投票カードを出せばいいんだな？」
-00525	ハンプ@r@vhanp00980."Hooo-Ho-Ho! But of course! One card from Cyan and one random card, and it's on!"「ホーッホッホ！　その通りだぞい！　梓杏ちゃんのカードとランダムカードを合わせての２枚で勝負じゃ！」
-00526	紫@r@vmura90440.　１なんてクズ札、成功してもしなくてもどうでもいいけれど。……私の、いささか過剰な幸運が、こんなところでももたらされないといいですわね。
-00527	@r　ハンプに指名されたレモンが２枚の投票カードを集め、よくシャッフルしてから公開する。
-00528	レモン@r@vremo01890.「ふへぇ……。成功だよぉ……」
-00529	梓杏@r@vsian01920.「はーーーーー………。緊張したぜ……」
-00530	コロネ@r@vsiro02410.「これでやっと、成功したお茶会は３時間。……あと７時間もありますね」
-00531	紫@r@vmura01490.「かなり、……厳しい戦いですわね」
-00532	紫@r@vmura90450.　皆さんにとっては、ですが。……くすくす。
-00533	コロネ@r@vsiro02420.「……これで一巡して、再び、私の手番ですね」
-00534	コロネ@r@vsiro02430.「私は、２のお茶会を選びますね」
-00535	紫@r@vmura90460.　邪魔者であろうとなかろうと、もうそれしか選びようがありませんわね。
-00536	紫@r@vmura90470.　場に残るお茶会カードは、２のお茶会が１枚と、３のお茶会が２枚のみ。
-00537	紫@r@vmura90480.　冒険の余地なんてわずかほどもないんですもの……。
-00538	レモン@r@vremo01900.「誘う相手は、やっぱり梓杏ちゃん？」
-00539	コロネ@r@vsiro02440.「はい。……躊躇なく１のお茶会を選んだ梓杏ちゃんは、邪魔者ではないと感じました」
-00540	梓杏@r@vsian01930.「ああ！　私は邪魔者なんかじゃねぇぜ！　やっぱりコロネは信じてくれるんだな？！」
-00541	紫@r@vmura01500.「感じるって、……フィーリングで決めてもいいのかしら？」
-00542	コロネ@r@vsiro02450.「私のフィーリングなどより、もっと説得力のある意見があるなら、ぜひ伺いたいです」
-00543	レモン@r@vremo01910.「……ありはするけど、ふへぇ、今は控えとくよ。梓杏ちゃんが梓杏ちゃんらしくしてることが、一番の潔白証明だからさぁ」
-00544	梓杏@r@vsian01940.「そうともっ。私は嘘なんか吐かない！　信じてくれ！　私の時の失敗は、絶対に２５％の事故だ！」
-00545	紫@r@vmura90490.　やれやれ。レモンさんは上手に言葉を選びますわね。
-00546	紫@r@vmura90500.　要は、梓杏さんは馬鹿だから小細工を考える脳みそなどないと、だから信用できると言っている訳ですわね。うふふ……。
-00547	@r　コロネは２のお茶会に梓杏を誘い、無事に成功する。
-00548	@r　これで、残るお茶会カードは、３のお茶会が２枚のみ。
-00549	@r　これを１枚でも失敗させれば、邪魔者の勝利。……２枚とも成功されれば、邪魔者の敗北。
-00550	@r　残りの手番プレイヤーは、レモンと、邪魔者の紫。
-00551	@r　……普通に考えれば、この時点で邪魔者の勝利は確定しているのだが。
-00552	紫@r@vmura90510.　でも、……そうは簡単に行きませんのよね。レモンさんは、ゲームについてだけは切れ者ですもの。
-00553	@r　ゲームはまだ終わってない。ここで油断すれば、自分をすっ飛ばされる。
-00554	@r　この最後の勝負で最も重要なのは、自分を信用してもらうこと。コロネと梓杏に。
-00555	レモン@r@vremo01920.「まずは……。私をみんなに信じてもらわないことには、始まらないよねぇ」
-00556	紫@r@vmura01510.「誰を信じるか、というより、誰が邪魔者だと断定するか、の方がよろしいと思いましてよ」
-00557	レモン@r@vremo01930.「……ふへぇ。……紫ちゃんは相変わらず、単刀直入だなぁ」
-00558	レモン@r@vremo01940.「でも、いーよ。そうしよっか。……ふへへ」
-00559	@r　レモンが、明らかに挑戦的な笑みを浮かべる。
-00560	@r　互いに、ここが最終決戦の場であるとわかっている……。
-00561	梓杏@r@vsian01950.「ど、どっちが邪魔者かを当てれば、勝てるんだよな……？」
-00562	コロネ@r@vsiro02460.「はい。それも、邪魔者以外の全員が同じ答えにならなければなりません」
-00563	梓杏@r@vsian01960.「……つまり、私とコロネは裁判官の役って訳だな」
-00564	紫@r@vmura01520.「では、レモンさんにお尋ねしますわ。どうして、私が邪魔者だと言えるんですの？」
-00565	紫@r@vmura01530.「ゲームの大先生のあなたですもの。ロジックに基づいた、素敵な理論で説明して下さるんでしょう？」
-00566	レモン@r@vremo01950.「………………………」
-00567	レモン@r@vremo01960.「……まぁ、勘、かなぁ？」
-00568	紫@r@vmura01540.「勘？　これ、一応、デスゲームなんですのよ？　命のやり取りをしているのに、運命を勘なんかに託すというのかしら？」
-00569	梓杏@r@vsian01970.「おいおい、マジかよ？　勘を信じろなんて言われて、はいそうですかって訳に行く訳ねぇだろ」
-00570	レモン@r@vremo01970.「ふへぇ、ごめんねぇ。まぁ、流れを見ておいおい話すよ」
-00571	レモン@r@vremo01980.「じゃあ、紫ちゃんは？　私が邪魔者だと、どんな素敵な説明ができる訳？」
-00572	紫@r@vmura01550.「いいですわ。とても簡単なことですのよ」
-00573	紫@r@vmura01560.「ハンプさん。申し訳ございませんが、成功と失敗の投票カードをお借りすることは出来まして？」
-00574	ハンプ@r@vhanp00990.「ホッホ！　構わんぞい。そぉれ！」
-00575	@r　テーブル中央にスリットが開き、成功と失敗の投票カードが１枚ずつ、紫に前に射出される。
-00576	紫@r@vmura01570.「この２枚の投票カードですけれど。……邪魔者を除く全てのプレイヤーにとっては、失敗のカードはまったく意味のないものですわよね？　梓杏さん？」
-00577	梓杏@r@vsian01980.「え？　そりゃそうだろ。お茶会を失敗させて得するのは邪魔者だけなんだからな。失敗なんてカード、邪魔者以外には意味なんか何もねぇ」
-00578	紫@r@vmura01580.「あなたは、私とのお茶会とコロネさんとのお茶会で、計２度のお茶会に参加した訳だけれど。その時、どのように成功のカードを選んだかしら？」
-00579	梓杏@r@vsian01990.「どのようにって……。普通に、成功のカードを選んで出しただけだぜ」
-00580	@r　紫は、成功と失敗のカードをよくシャッフルすると、それを梓杏に差し出す。
-00581	紫@r@vmura01590.「成功のカードを選んで出す、というのをやってもらってもよろしくて？」
-00582	梓杏@r@vsian02000.「な、何でだよ……。お前、私を邪魔者だと疑ってんじゃねぇだろうな……？」
-00583	コロネ@r@vsiro02470.「そんなことはないよ。いいからやってみて？」
-00584	梓杏@r@vsian02010.「お、おう……」
-00585	@r　梓杏は２枚のカードを拾って、自分だけに見えるように広げ、成功のカードを選んでテーブル中央に出す……。
-00586	@r　さり気ない仕草だ。当人も、これに何かやましいところでもあるのかと訝しがっている。
-00587	梓杏@r@vsian02020.「……これでいいのか」
-00588	紫@r@vmura01600.「ありがとう。そして、そういうことですのよ。邪魔者以外にとっては、ただ成功のカードを探して出すだけの簡単な作業」
-00589	紫@r@vmura01610.「でも、邪魔者の場合は、そこまで簡単な作業ではないんですの」
-00590	コロネ@r@vsiro02480.「……確かに。邪魔者は、成功と失敗のどちらを選ぶか、わずかに迷う時間があるかもしれない」
-00591	梓杏@r@vsian02030.「そ、そうかっ。投票カードを出すのが遅かったヤツがいたら、そいつが邪魔者ってことなのか？！」
-00592	紫@r@vmura01620.「私、このゲームのルール説明を聞いていた時から思っていましたの。……このゲーム。邪魔者は、成功するか失敗するかを考える時間は、わずかしかないということに」
-00593	紫@r@vmura01630.「だから私。……このゲームが始まった一番最初から、……皆さんが投票カードを出すのにどれだけの時間を掛けられるか、……ちゃんと観察していましたのよ」
-00594	梓杏@r@vsian02040.「マジかよ……、紫、お前ぇすげぇな……っ」
-00595	@r　興奮した梓杏は首輪の拘束を忘れて立ち上がろうとし、ぐえっと呻いて咽たが、その興奮が冷めることはなかった。
-00596	梓杏@r@vsian02050.「ぇほっ、げほっ。そ、それで？！　誰が一番、カードを出すのが遅かったんだ？！」
-00597	コロネ@r@vsiro02490.「まさか……それが……、」
-00598	紫@r@vmura01640.「えぇ。……明らかに一番、遅かったのが、レモンさんでしたわ」
-00599	レモン@r@vremo01990.「ふへへぇ……。そう来るだろうねぇ……。これで私が顔真っ赤にして反論すると、むしろ怪しさが増すってワケだよねぇ……」
-00600	梓杏@r@vsian02060.「こ、これはもう決まりだろ！　レモンが怪しいぜ、絶対に怪しい！　いやもうこれは間違いねぇ、絶対に決まりだ！　決着だぜ、なぁおい、コロネ！」
-00601	コロネ@r@vsiro02500.「んー……。私も、レモンさんの勘と紫さんのカードを出す時間の話だと、……紫さんの方が説得力があるかな」
-00602	梓杏@r@vsian02070.「なら決まりだな！　邪魔者はレモンだ！　レモンに決まりだ！！」
-00603	紫@r@vmura90520.　こういう時、声が大きい人は便利ですわね。とにかく賑やかにして、場の流れを決定付けてくれる。
-00604	紫@r@vmura90530.　レモンさんはゲームの駆け引きはお上手でしょうけれど、相手に理詰めで説得するのは得意ではないでしょう？
-00605	紫@r@vmura90540.　こういう時、普段の知性の差が出ましてよ？　ゲーム以外はいつも脳が半分寝惚けてるようなあなたとは違いますの。
-00606	梓杏@r@vsian02080.「で、レモンが邪魔者だと決まったら、どうすりゃいいんだ？」
-00607	コロネ@r@vsiro02510.「その前に。……レモンさんは最初に言いましたよね？　流れを見て、おいおい話すよ、……って」
-00608	紫@r@vmura01650.「……言っていましたわね。抗弁があるのならお聞きしますわ」
-00609	紫@r@vmura90550.　……本当は、この流れのまま決着したかったですわね。さすがは平等で公平なコロネさん。レモンさんに最後の発言を許すとは……。
-00610	紫@r@vmura90560.　人は議論の一番最後に聞いた意見に引き摺られやすい。……レモンさんももちろん、それをわかってて発言を出し惜しみしていたのでしょうけれど。
-00611	紫@r@vmura90570.　ここを凌げれば、勝てる。でも、一度、あなたを疑うという流れになった梓杏さんの勢いは、意味深な一言程度では覆りませんでしてよ……？
-00612	レモン@r@vremo02000.「……落ち着け、レモン。頑張れレモン。頑張るレモン、頑張るもん……」
-00613	レモン@r@vremo02010.「……流石だねぇ。紫ちゃんは」
-00614	レモン@r@vremo02020.「でもね。私だって、ちゃんと観察してたんだよぉ」
-00615	紫@r@vmura01660.「あら。何を観察なさっていたんですの？」
-00616	レモン@r@vremo02030.「人間ってのはね、ついつい思考が漏れるんだよ。……口からね」
-00617	コロネ@r@vsiro02520.「なるほど。レモンさんは、みんなが何を喋るのかを聞いていたのですね」
-00618	梓杏@r@vsian02090.「ああん？　邪魔者が、私は邪魔者ですなんて、言う訳ねぇだろ」
-00619	レモン@r@vremo02040.「ふへへぇ、そりゃそうだよ。……でもね、それにかなり近い事は、口にするかもしれないよ」
-00620	紫@r@vmura90580.　……おや。それはつまり、私が何か失言したという意味ですのよね？
-00621	紫@r@vmura90590.　私が失言することなんて、あり得ませんでしてよ？
-00622	コロネ@r@vsiro02530.「ちょっと失言を気を付けるだけで、紫ちゃんはもっともっと魅力的になれると思うよっ」
-00623	紫@r@vmura01670.「ありませんわ。私が失言をするなど」
-00624	レモン@r@vremo02050.「第３ターンを、みんな覚えてるかなぁ。紫ちゃんの手番の時のことなんだけどね」
-00625	梓杏@r@vsian02100.「あぁ、覚えてるぞ。……紫は２のお茶会を選んで、私と一緒にやったんだ」
-00626	コロネ@r@vsiro02540.「確か、失敗したんですよね……」
-00627	紫@r@vmura01680.「よく覚えてますわよ。確か、１枚目は成功で、２枚目に失敗したんでしたわね」
-00628	梓杏@r@vsian02110.「あの失敗さえなければ、話は拗れなかったんだ。あれはきっと、２５％の事故だ」
-00629	レモン@r@vremo02060.「うん。そうなんだよ。その通り。……あれは、事故だったんだよ」
-00630	梓杏@r@vsian02120.「ああ？　……だったらなおのこと、怪しいのはお前で決まりじゃねぇか」
-00631	レモン@r@vremo02070.「まぁまぁ。でもね？　その失敗の時、紫ちゃんは面白いことを言ったんだよぉ」
-00632	紫@r@vmura90600.　？？？　……私、そんなにも面白いことを口にしまして……？？
-00633	紫@r@vmura01690.「え？　そんなことがある訳……、」
-00634	レモン@r@vremo02080.「え？　そんなことがある訳……。……紫ちゃんはそう言ったんだよ」
-00635	紫@r@vmura01700.「じゃ、邪魔者はあなたかコロネさんだと思っていたところで失敗したんですもの。その程度には驚きましてよ……」
-00636	レモン@r@vremo02090.「まぁ……、知らない誰かが口にしたなら、そこまで不自然な言葉だとは思わないよ」
-00637	レモン@r@vremo02100.「でもねぇ。……私たちは、結構、長く一緒にいたんだ。そして、３年経っても、何も変わってないって、確信してる」
-00638	レモン@r@vremo02110.「……私の知ってる紫ちゃんは、運否天賦で負けた時にそういう言い方はしないんだなぁ」
-00639	レモン@r@vremo02120.「そんなことがある訳ない。……絶対にあり得ないはずのことが起こった時の、紫ちゃんの言い方なんだよなぁ……」
-00640	コロネ@r@vsiro02550.「……………………」
-00641	梓杏@r@vsian02130.「………………………………」
-00642	紫@r@vmura01710.「レ、レモンさんが何を言いたいのか私、さっぱりですわ？」
-00643	紫@r@vmura01720.「ほら。コロネさんも梓杏さんも、ぽかんとしていましてよ……？」
-00644	コロネ@r@vsiro02560.「………んー………」
-00645	梓杏@r@vsian02140.「まぁ、確かに。……紫って、そういう言い方、よくしてたよなぁ」
-00646	紫@r@vmura01730.「そんなことがある訳ないッ。私は絶対に言いませんわよッ」
-00647	梓杏@r@vsian02150.「ほら。へへへ……」
-00648	レモン@r@vremo02130.「紫ちゃんはさ。あの時どうして、……失敗することが、絶対にあり得ないって、思ってたのかなぁ……？　って」
-00649	紫@r@vmura01740.「だ、だからそんなことがある訳ありませんわッ。言い掛かりでしてよ？！」
-00650	レモン@r@vremo02140.「そりゃ、絶対にあり得ないって思うよねぇ？　……だって、自分が出してないはずの失敗が、出て来たんだからさぁ……？」
-00651	梓杏@r@vsian02160.「……参ったな。レモンの話も、筋が通ってるぜ……」
-00652	紫@r@vmura01750.「筋なんか何も通っておりませんでしてよ？！　思考に芯のない方はすぐに新しい意見に傾倒してしまいますわ！！」
-00653	紫@r@vmura01760.「梓杏さんもコロネさんも、私の話を聞いてレモンさんが邪魔者だって確信されましたわよね？！　確信というのは疑いの余地なく絶対に信じられるという意味でしてよ？　こんな簡単な単語の意味も忘れてしまったなら、お二人とも小学校からやり直した方がよろしいんではありませんこと？！」
-00654	コロネ@r@vsiro02570.「ちょっと失言を気を付けるだけで、紫ちゃんはもっともっと……」
-00655	紫@r@vmura01770.「梓杏さんやコロネさんが生まれつき知性が低いことは重々承知していますわ！　だからこそ、知性に勝る私が最高の答えを説明しているんではありませんの。私の言うことを信じていれば間違いはないんですわよ！　それが知性の低い方を助ける私の役目、知性ある者の役割ですもの！　だから、ゲームの話を除けば、いつもぼんやりしていて頭の回らないレモンさんの話なんかより、私ッ、私の話を信じるべきなんですわよ！　それが私の使命で、私より知性が劣る方々の義務ではありませんの……！！」
-00656	コロネ@r@vsiro02580.「紫ちゃんは本当はね、すっごく可愛い子なんだよっ。それがみんなに伝わってないのが、勿体ないって私は思うんだっ」
-00657	コロネ@r@vsiro02590.「ちょっと失言を気を付けるだけで、紫ちゃんはもっともっと魅力的になれると思うよっ」
-00658	梓杏@r@vsian02170.「……おう。ずいぶんと言ってくれるじゃねぇかよ」
-00659	コロネ@r@vsiro02600.「も、もちろん私たちは、紫ちゃんの方が頭がいいのは知ってるよ。……でも、もう少し、言い方が……」
-00660	梓杏@r@vsian02180.「言い方とかそういう問題じゃねぇだろッ。私は馬鹿だってわかってるから、それについては否定しねぇ！」
-00661	梓杏@r@vsian02190.「でもな、コロネを馬鹿にすることだけは許さねえ！！　それだけは断じて許せねぇぞ！！　ああッ？！？！」
-00662	レモン@r@vremo02150.「………っくく……、っくっくっく………」
-00663	@r　レモンは自分の表情を手で覆い隠しながら……、紫の自滅を笑っていた。
-00664	@r　梓杏は感情を爆発させ、もう理屈など関係ない。梓杏がこうと決めたら、もう覆せない。
-00665	紫@r@vmura90610.　……あれ……。私……、……………。
-00666	紫@r@vmura90620.　またブレーキが効かなくなって……。でも、……いつもだったらそうなる前に……。
-00667	@r　コロネが、自重するように囁きかけてくれたのだ。
-00668	@r　それがないから、……………………。
-00669	梓杏@r@vsian02200.「悪いが、理屈も道理も関係ねぇ！　そこまで言われたら、紫の話を聞く義理はねぇぜ。私はレモンを信じることにする！」
-00670	レモン@r@vremo02160.「梓杏ちゃん、ありがとうっ。その決断、正しかったってすぐに証明してみせるよっ」
-00671	レモン@r@vremo02170.「３茶を選択っ。招くのは、コロネちゃんと梓杏ちゃん……！」
-00672	紫@r@vmura01780.「…………………ッ……」
-00673	コロネ@r@vsiro02610.「……紫ちゃん…………」
-00674	紫@r@vmura01790.「……私は……また………、………ッ………」
-00675	ハンプ@r@vhanp01000.「ホッホー！　それでは、この４枚の投票カードを紫ちゃん、よくシャッフルして１枚ずつ公開してくれるかね」
-00676	@r　３人の投票した３枚のカードにランダムのカード１枚を加え、４枚にしてシャッフル。
-00677	@r　……そういう手順のはずだった。
-00678	@r　………バサリ。
-00679	梓杏@r@vsian02210.「……紫？　何やってんだよ……、カードが……」
-00680	@r　紫の手から落ちたカードは、全て表向きになっている。
-00681	@r　それは、ランダムのカードを加える前の、３人の投票カードのみ。
-00682	@r　そしてその投票カードは全て…………。
-00683	紫@r@vmura01800.「……私の……投了ですわ………」
-00684	梓杏@r@vsian02220.「と、投了って……、そんなのアリなのかよ？！」
-00685	レモン@r@vremo02180.「………全部成功。……つまり、私、コロネちゃん、そして梓杏ちゃんは、邪魔者でないことが証明されたんだよ」
-00686	レモン@r@vremo02190.「つまりは、ゲームセットって訳だね……」
-00687	コロネ@r@vsiro02620.「それでいいの、紫さん？　……まだ、最後の勝負で２５％の事故が紛れ込む可能性だってありますよ」
-00688	紫@r@vmura01810.「すでに２度も、２５％を引き当ててますのよ……。さらにもう１度、それが引き当てられるなんて、そんなうまい話があったら苦労はしませんわ……」
-00689	コロネ@r@vsiro02630.「ハンプ。……最後の勝負の、ランダムカードを１枚、出してもらえますか」
-00690	ハンプ@r@vhanp01010.「うむ。了解じゃ」
-00691	@r　シュルッ。テーブル中央に開いたスリットからカードが１枚、飛び出してくる。
-00692	@r　それをコロネが捲る……。
-00693	紫@r@vmura01820.「……ほらね？」
-00694	コロネ@r@vsiro02640.「……………………」
-00695	梓杏@r@vsian02230.「成功……。……ははっ、やったぞ！　これで文句なしの勝利だ！　そうだろ？！」
-00696	レモン@r@vremo02200.「勝利というか、……紫ちゃんの自滅というか。……ふへへぇ……」
-00697	コロネ@r@vsiro02650.「だからさ、紫ちゃん。……失言に気を付けた方がいいって、私、昔からずっと言ってましたよね……？」
-00698	紫@r@vmura01830.「……そうでしたわね……。コロネさんにずっと、……何度も何度も、言われてましたわね……」
-00699	コロネ@r@vsiro02660.「なのに。……何度も何度も。ずっとずっと調子に乗って、事あるごとに馬鹿にしくさりやがって」
-00700	コロネ@r@vsiro02670.「私が何かする度に小さいミスを見つけてはネチネチと！！　その度に笑ってやり過ごすのがどれだけ苦しいか、テメェに想像は出来ねぇのかよッ！　御自慢の知性とやらで、テメエの言葉がカミソリみてぇに、人の心をザクザクと斬りつけて、そこから何色の血が滲んでくるか想像してみやがれってんだッ！！　出来るか？　出来ねぇだろおなあッ？！　お前、知性とやらが高いそうだから！　馬鹿で無能で知恵の足りねぇ私らが、何色の血を流すか、何色の涙を陰で流してるかなんて、想ッ像ぉ出来ねえんだろおなあぁあああぁあッ？！？！　調子ぶっこいてんじゃねえぞオラああぁああぁあッ！！！」
-00701	コロネ@r@vsiro02680.「………他のことは笑って済ませてもいい。……でもね？」
-00702	コロネ@r@vsiro02690.「おばあちゃんの形見にもらった、手作りのヘアピン。……あれを、古臭ぇだの、センスねぇだの言ってくれたことだけは、絶対ぇにッ絶対に絶対に許せねえんだよおおおおぉおおおッ！！！」
-00703	紫@r@vmura01840.「……そ、……それはその……、私はただ……、あなたにはもっと似合うものがその……、」
-00704	コロネ@r@vsiro02700.@z150.「そこはまずはごめんなさいッッだろうああああああああぁああぁッ？！？！　似合うか似合わないかじゃねぇだろッ！！　やっぱ、お前は私らとは血の色が違うんじゃね？！　さっすが高い知性だよ、頭の悪い私らと同じ赤い色の血の訳がねぇってなああぁッ！！　ハンプ！！　『コーカス・レース』の処刑を準備しろッ！！！」
-00705	梓杏@r@vsian02240.「む、紫、謝れッ、いいからとにかく謝れ！！」
-00706	レモン@r@vremo02210.「紫ちゃんの口が、時々悪いのは私たちも思ってるよ……。これからは私たちも注意するようにするからさ……！」
-00707	紫@r@vmura01850.「こ、この音は何？　……ひッ？！？！」
-00708	@r　その時、頭上で大きな金属音が聞こえた。見上げると……、天井から吊るされた、巨大な円形の鉄骨のようなものが降りてくる。中央のテーブルよりも二回りは大きいサイズだ。
-00709	@r　その巨大な鉄の輪が、テーブルの頭上まで降りてくると、壁から巨大な歯車などが次々に現れ、巨大な鉄の輪に噛み合わされる。
-00710	ハンプ@r@vhanp01020.「ちょいと試運転じゃぞい。そぉれ！」
-00711	@r　歯車がガリガリと音を立て始めたかと思うと……、頭上の巨大な鉄の輪を、ものすごい速度で回転させ出す。
-00712	@r　その回転速度は、自転車を漕ぐようなもののレベルではない。
-00713	@r　車輪どころか、……巨大な回転ノコギリを思わせるような凄まじい速さ。それが甲高い金属音を響かせるのだ……。
-00714	ハンプ@r@vhanp01030.「ホーッホッホ！　問題なしじゃぞい！」
-00715	コロネ@r@vsiro02710.「不思議の国のアリスに出てくる、コーカス・レースって知ってます？」
-00716	紫@r@vmura01860.「……確か……、濡れた服を乾かす為に、その場をぐるぐると回って走るというものでは……」
-00717	コロネ@r@vsiro02720.「賢い紫さまに、のたのたと走られても面白くも何もありませんからっ。紫さんは座ってるだけで、勝手に回転するような仕掛けを準備させてもらいました！」
-00718	紫@r@vmura01870.「きゃッ？！」
-00719	@r　椅子の仕掛けが、首輪だけでなく、手足も拘束する。すると、椅子の脚が伸びて、鉄の輪の内側に張り付く。
-00720	@r　次々と仕掛けが作動し、彼女とその椅子を、不必要と思われるほどに厳重に鉄の輪の内側に固定していく……。
-00721	コロネ@r@vsiro02730.「さっき、試運転で見た通り。結構な速度で回ります。ただ、メリーゴーランドのようなものを想像されては困ります」
-00722	コロネ@r@vsiro02740.「だって。最大回転速度は１分間に、１万回転を超えますから」
-00723	レモン@r@vremo02220.「そそ、それはもはや遠心分離器だよっ、そんなことしたら死んじゃうよッ？！」
-00724	コロネ@r@vsiro02750.「負けたら処刑されて死んじゃうデスゲームだ、って。私、最初からずっと言っていますよ♪」
-00725	コロネ@r@vsiro02760.「それに、見てみたいと思いませんか？　……高い高い、尊い尊い知性の紫ちゃんの体の中には、何色の血が詰まっているのか」
-00726	コロネ@r@vsiro02770.「私たちと同じ色の訳がないですよね。１分間に１万回転もの遠心分離器にかけたなら、……人の内側は、体液も臓物もミキサーにかけられたみたいにグチャグチャに混ざって、体中の穴から溢れ出してくるでしょうね。……それは何色かなぁ？　くす、ちょっと見てみたいと思いませんか？」
-00727	梓杏@r@vsian02250.「ば、馬鹿野郎ォ！！　そんなの誰が見てぇんだよッ！！」
-00728	コロネ@r@vsiro02780.「私が見たいんです。……何ですか？　梓杏さんも、紫さんの次に挑戦して、私にあなたが何色の液体を噴き出すか、見せてくれるんですか？」
-00729	@r　レモンも梓杏も、コロネの怒りを買わない範囲内で、懸命に処刑を思い留まるように説得しているが、……無駄だ。
-00730	ハンプ@r@vhanp01040.「さて。……そろそろ処刑の時間じゃが、何か言いたいことがあるなら、言っておいた方がいいぞい」
-00731	紫@r@vmura01880.「……う………ぅぅ………」
-00732	コロネ@r@vsiro02790.「知性だけでなく、プライドも高い紫さんですから、命乞いなんてする気もないでしょう」
-00733	コロネ@r@vsiro02800.「でも、助かるチャンスが示されるなら、命乞いを試してみようという気にもなりませんか？」
-00734	紫@r@vmura01890.「私を……許してくれるの………？」
-00735	コロネ@r@vsiro02810.「ごめんなさいって、……うーん。じゃあ、１００回言えたら、処刑は中止ということで」
-00736	梓杏@r@vsian02260.「紫！！　謝れッ、謝れええぇえ！！」
-00737	紫@r@vmura01900.「ご、……ごめんなさ………、？！？！」
-00738	@r　紫の言葉を待つ気などないかのように、巨大な鉄の輪は、紫と椅子ごとゆっくりと回転を始める。
-00739	コロネ@r@vsiro02820.「早くした方がいいですよ。ものの数十秒で、最高速度に達しますから。凡人なら、１秒に１０回転もされたらそれだけで失神するでしょうけれど、知性の高い紫ちゃんなら出来ますよね？　くすくす」
-00740	紫@r@vmura01910.「ごぁあぁ……、………………ッ…………ッッッ………………！！！」
-00741	@r　無理だ……。信じ難いほどの速度で回転していて……もはや紫の姿を見ることさえ出来ない……。
-00742	@r　なのに、なおもなおも、耳障りな金属音は甲高さを増し、……さらにさらに回転速度をあげていくのだ………。
-00743	コロネ@r@vsiro02830.「あれ？　おかしいなぁ。普通の赤だなぁ？」
+00480	Murasaki@r@vmura90360.Hehehe, I suppose too much good luck isn't always a net positive.
+00481	Murasaki@r@vmura90370....Even though this tea party was already set for failure, the random draw also ended in a 'Failure', making this a double 'Failure'.
+00482	@rFor the nuisance, the random 'Failure' card brought good fortune. 25% are low odds, after all.
+00483	@rOne would expect a 1-in-4-odds event to happen at least one after four tries, but in reality, the chances of that happening were less than 70%.
+00484	@r...And yet, Murasaki had essentially rolled those low odds twice in only three tries.
+00485	Lemon@r@vremo01810."Fuhee... What does it mean...?"
+00486	Cyan@r@vsian01810."Wasn't the nuisance supposed to be Korone or Lemon?! What the hell is going on?"
+00487	Korone@r@vsiro02360."...First of all, I believe it is safe to assume that either this 'Failure' or the previous one was caused by the random card."
+00488	Murasaki@r@vmura01450."That's not all... Even though these 'Failures' should give us valuable information, we cannot extract anything meaningful from them."
+00489	Lemon@r@vremo01820."...You've got a point. There's nothing to tell us which pair had the random 'Failure' or which pair had a nuisance."
+00490	Murasaki@r@vmura90380.That's what I'm aiming for. To erase any trace leading to me.
+00491	Murasaki@r@vmura90390.Only the most shallow-minded would think of attacking the weak at this stage. Actually, this is what Lemon would've likely done. Heh.
+00492	Hampu@r@vhanp00970."Now, it's time for Cyan's turn!"
+00493	Cyan@r@vsian01820."Oh, right... Shit, I don't know who I can't trust now..."
+00494	Korone@r@vsiro02370."Usually, by the fourth turn, we would already have ideas on who the nuisance is..."
+00495	Cyan@r@vsian01830."What should I do now...?"
+00496	Lemon@r@vremo01830."You'll have to go blind for this one... I also don't know what to do now."
+00497	Cyan@r@vsian01840."Hey, you're the gaming expert! It's your whole thing! Just find some kind of cheat or something!"
+00498	Murasaki@r@vmura01460."It's your turn, Cyan... Only you can choose for yourself."
+00499	Murasaki@r@vmura90400.Well, not that I expect the dumbest one among us to come up with anything that makes sense.
+00500	Murasaki@r@vmura90410.Truly, what a pity. Were this another 'Flamingo Croquet', you would've had your moment to shine.
+00501	Cyan@r@vsian01850."Ok... I choose...this!"
+00502	Murasaki@r@vmura90420.A one-hour tea party?
+00503	Cyan@r@vsian01860."I'm doing a one-hour tea party. Since I can't trust anyone, I'm choosing this."
+00504	Lemon@r@vremo01840."Right now, we've gained two hours but lost four... We still need eight hours to win, while the nuisance only needs two."
+00505	Korone@r@vsiro02380."The situation is pretty dire... One more unlucky accident and we lose."
+00506	Cyan@r@vsian01870."I know. And honestly...I'm kind of stupid. I can't think of any smart thing to do."
+00507	Cyan@r@vsian01880."But I know one thing: choosing this one-hour tea party means that at least I'm not the nuisance."
+00508	Murasaki@r@vmura01470."...Indeed. If you were the nuisance, you would've gone for two hours or above, which would have given you the hours you needed."
+00509	Lemon@r@vremo01850."And with only one hour, even if it were to fail, we'd still be able to survive it."
+00510	Korone@r@vsiro02390."On top of that, Cyan is fourth in the seating order... She is the only one who won't have to play again."
+00511	Lemon@r@vremo01860."...True. There are seven cards and four players. The player on the fourth only gets to draw once."
+00512	Cyan@r@vsian01890."Hm? Ohh, really? So...I won't have to play again after that?"
+00513	Murasaki@r@vmura90430.Hehehe. Did you really make your move without noticing something this important...? Honestly, you're just so entertaining, Cyan.
+00514	@rCyan would only get one turn, while everyone gets two.
+00515	@rMeaning that if the fourth player is the nuisance, they need to make their turn as impactful than possible.
+00516	@rOf course, the only turn they can guarantee a 'Failure' on is their own. Afterwards, their only means of attack and satisfying their victory conditions is to on accidents.
+00517	@rBy drawing seven cards with 1-in-4 odds, one would expect around two accidents on average. But this isn't a certainty.
+00518	@rMoreover, of the two possible accidents, one has to land during a three-hour tea party...
+00519	Korone@r@vsiro02400."Since the fourth player has less available actions, they may seem at a disadvantage... But it also means there are some perks to it too.
+00520	Lemon@r@vremo01870."...At the very least, since she chose the one-hour tea party this quickly, I don't doubt her that much anymore."
+00521	Murasaki@r@vmura01480."Because it was a one-hour tea party, was it? If she had instead chosen a higher value card, I'm sure you would've used that rule against her."
+00522	Lemon@r@vremo01880."Fuhee... Maybe? I don't want to lose after all."
+00523	Cyan@r@vsian01900."That rule? What rule?"
+00524	Cyan@r@vsian01910."Oh, whatever. Hey, Egghead! I'm doing a one-hour tea party, so I can just vote now, right?"
+00525	Hampu@r@vhanp00980."Hooo-Ho-Ho! But of course! One card from Cyan and one random card, and it's on!"
+00526	Murasaki@r@vmura90440.This 1 card is such a waste, it has no influence on the game whatsoever... I hope my somewhat excessive luck won't bring about such a thing.
+00527	@rHampu asked Lemon to collect and shuffle the cards before revealing them.
+00528	Lemon@r@vremo01890."Fuhee... It's a 'Success'..."
+00529	Cyan@r@vsian01920."Phewwwwww... Damn, that was tense."
+00530	Korone@r@vsiro02410."And with that, we've passed three hours... Only seven left."
+00531	Murasaki@r@vmura01490."Still...that's quite a tough challenge to face."
+00532	Murasaki@r@vmura90450.For you, that is... Hehe.
+00533	Korone@r@vsiro02420."...Now that we've done a full table round, it is now my turn again."
+00534	Korone@r@vsiro02430."I'll choose the two-hour tea party."
+00535	Murasaki@r@vmura90460.Whether you're a nuisance or not, there isn't much else to choose from.
+00536	Murasaki@r@vmura90470.The only options left are this two-hour card or the two three-hour ones.
+00537	Murasaki@r@vmura90480.There's very little room for risks...
+00538	Lemon@r@vremo01900."I'm guessing you'll do it with Cyan?"
+00539	Korone@r@vsiro02440."Yes... Since she instantly chose the one-hour card, I think it's okay to trust her.
+00540	Cyan@r@vsian01930."Yeah! I'm not the nuisance! I knew Korone would believe me!"
+00541	Murasaki@r@vmura01500."You 'think'... Is it really safe to make judgements over a vague belief?"
+00542	Korone@r@vsiro02450."If you have anything to refute my vague belief, then I would love to hear it."
+00543	Lemon@r@vremo01910."...I would say something, but I think it's best if I don't. And Cyan acting like herself is a good enough proof of her innocence."
+00544	Cyan@r@vsian01940."Damn straight. I'm not lying! Believe me! That 'Failure' back then was totally an accident!"
+00545	Murasaki@r@vmura90490.Oh my. Lemon certainly chose her words well.
+00546	Murasaki@r@vmura90500.Essentially, she's saying that Cyan is too dull to come up with any tricks this complex, hence she can be trusted.
+00547	@rKorone invited Cyan to her tea party, which was a 'Success'.
+00548	@rNow, only the 3-hour cards remained.
+00549	@rIf even one of these tea parties failed, the nuisance would win... If the two of them pass, the nuisance would lose.
+00550	@rThe last remaining turns were Lemon's, as well as the nuisance's — Murasaki.
+00551	@r...Technically speaking, the nuisance's victory was all but guaranteed.
+00552	Murasaki@r@vmura90510....But I doubt it will be that easy. When it comes to games, Lemon is nothing short of a genius.
+00553	@rThis isn't over yet. If I let my guard down now, this could be the end of me.
+00554	@rIf I want to win this game, I'll have to garner Korone and Cyan's trust.
+00555	Lemon@r@vremo01920."Now then... We can't start until I know who to trust."
+00556	Murasaki@r@vmura01510."Know who to trust? Don't you mean, until you can prove who the nuisance is?"
+00557	Lemon@r@vremo01930."...Fuhee. As staight to the point as ever."
+00558	Lemon@r@vremo01940."But, fine. Let's go with that... Fuhehe."
+00559	@rLemon's face smiled brightly as a form of provocation.
+00560	@rBoth of them were aware: the game's decisive battle was now to come...
+00561	Cyan@r@vsian01950."Um, if we find out who's the nuisance, then we win right?"
+00562	Korone@r@vsiro02460."Indeed. Furthermore, all of the other participants must be in agreement."
+00563	Cyan@r@vsian01960."...So, you and I are kinda like juries, no?"
+00564	Murasaki@r@vmura01520."Now, I ask you: why do you believe I am the nuisance?"
+00565	Murasaki@r@vmura01530."You are the gaming adept, after all. Certainly, you've come up with a solid argument to back up your claim, no?"
+00566	Lemon@r@vremo01950."........."
+00567	Lemon@r@vremo01960."...Hmm, call it a hunch, I guess?"
+00568	Murasaki@r@vmura01540."A hunch? Lest you forget, this is a death game. Are you really willing to entrust your life to a gut feeling?"
+00569	Cyan@r@vsian01970."H-Hey, are you for real!? We're not just going to believe you on a 'hunch', y'know?"
+00570	Lemon@r@vremo01970."Fuhee, my bad. I'll just say my piece later."
+00571	Lemon@r@vremo01980."And what about you? What kind of superb explanation have you concocted?"
+00572	Murasaki@r@vmura01550."If you really want to know. It's quite simple, actually."
+00573	Murasaki@r@vmura01560."Hampu. If you may, could give us a 'Success' and 'Failure' card?"
+00574	Hampu@r@vhanp00990."Ho-Ho! No problem! Here you go!"
+00575	@rThe slit at the table's center opens, delivering two voting cards in front of Murasaki.
+00576	Murasaki@r@vmura01570."...While these two cards are our options, picking the 'Failure' card would have little meaning to anyone other than the nuisance. Don't you agree, Cyan?"
+00577	Cyan@r@vsian01980."Huh? I mean, yeah. They're the only one who get something from failing a tea party. It wouldn't make sense for anyone else to pick that card."
+00578	Murasaki@r@vmura01580."In the two tea parties you've had with either me or Korone, how did you choose the 'Success' card?"
+00579	Cyan@r@vsian01990."How...? Uh, I just took out the one I wanted, that's all.
+00580	@rMurasaki shuffled the cards before placing them in front of Cyan.
+00581	Murasaki@r@vmura01590."Could you give us a demonstration?"
+00582	Cyan@r@vsian02000."T, the hell...? Don't tell me, you think I'm the nuisance, is that it?"
+00583	Korone@r@vsiro02470."Of course not. Could you please give it a try?"
+00584	Cyan@r@vsian02010."O-OK..."
+00585	@rCyan secretly looked at the two cards placed in front of her before picking the 'Success' card and placing it at the center of the table.
+00586	@rHer behavior was calm and collected. Nothing from her gestures would indicate any kind of second-guessing or guilt.
+00587	Cyan@r@vsian02020."...Is that it?"
+00588	Murasaki@r@vmura01600."Yes, thank you. As you've seen, any regular player would have no difficulty to pick the 'Success' card."
+00589	Murasaki@r@vmura01610."However, it isn't as easy of a choice for the nuisance."
+00590	Korone@r@vsiro02480."...Indeed. They would have to consider both options instead of just one, which would take a bit more time."
+00591	Cyan@r@vsian02030."Ohh, I see! So whoever took the most time to vote is the nuisance, right?"
+00592	Murasaki@r@vmura01620."This is something I've thought about ever since the rules were explained to us... What differentiates the nuisance from the rest is the decision-making time."
+00593	Murasaki@r@vmura01630."That's why, since the beginning of this game, I've taken mental notes of everyone's reactions during the voting phases."
+00594	Cyan@r@vsian02040."No way... That's awesome, Murasaki...!"
+00595	@rCyan, in her excitement, forgot about the chain attached to her collar and injured her throat as she got up from her chair, which calmed her down.
+00596	Cyan@r@vsian02050."Oeugh, ough... A-And then? Who was the one who took the longest to choose?"
+00597	Korone@r@vsiro02490."Wait...do you mean...?"
+00598	Murasaki@r@vmura01640."Yes... That person is none other than Lemon."
+00599	Lemon@r@vremo01990."Fuhehe... So that's how it is... I'm guessing if I tried to blurt out a rebuttal, it'd just make me more suspicious..."
+00600	Cyan@r@vsian02060."T-There's no doubt, Lemon's sus, way too sus! You can't tell me otherwise, there's definitely something going on! Right, Korone?!"
+00601	Korone@r@vsiro02500."Hmm... Between Lemon's 'hunch' and Murasaki's theory, I'm more inclined to believe in the latter as well..."
+00602	Cyan@r@vsian02070."Then it's settled! Lemon's the nuisance, it has to be her!"
+00603	Murasaki@r@vmura90520.It's in times like these that I can appreciate having loudmouths around. Cyan's enthusiasm makes her easy to convince.
+00604	Murasaki@r@vmura90530.You may be a skilled strategist in your games, Lemon, but that doesn't mean you're any good at persuasion.
+00605	Murasaki@r@vmura90540.This is where the gap in our intelligences lie. Unlike you, my brain isn't half-comatose everytime I'm not playing games.
+00606	Cyan@r@vsian02080."So, now that we know who's the nuisance, what do we do?"
+00607	Korone@r@vsiro02510."Before that... Didn't you have something to say, Lemon? I remember something about 'saying your piece later'..."
+00608	Murasaki@r@vmura01650."....She did say that. Well then, let us hear your objection."
+00609	Murasaki@r@vmura90550....Honestly, I would've prefered to end this now. As expected from our Champion of fairness, she wouldn't let her leave without a defense...
+00610	Murasaki@r@vmura90560.People are simple-minded beings who cling to the last plausible theory they've heard... Of course, Lemon must also be aware of that, which is why she let me talk first.
+00611	Murasaki@r@vmura90570.If she manages to pull it off, victory will be hers... But how will she fare against Cyan, who's been the most vocal about her distrust of her?
+00612	Lemon@r@vremo02000."...Calm down Lemon. You can do it, Lemon. You will do it, Lemon, you will Lemon it!"
+00613	Lemon@r@vremo02010."...You're good. Just what I'd expect from you, Murasaki."
+00614	Lemon@r@vremo02020."But you weren't the only one making mental notes, you know?"
+00615	Murasaki@r@vmura01660."Is that so. And what have you noted so far?"
+00616	Lemon@r@vremo02030."You see, people tend to...say certain things out loud, unconsciously."
+00617	Korone@r@vsiro02520."I see... You must have been keeping tracks of what we've said during the game."
+00618	Cyan@r@vsian02090."Huh? it's not like the nuisance would say 'I'm the nuisance' or something, though?"
+00619	Lemon@r@vremo02040."Fuhehee, of course not...but, they could have said something in that vein."
+00620	Murasaki@r@vmura90580....Oh my, is she implying I had a slip of the tongue?
+00621	Murasaki@r@vmura90590.These things don't happen to me, though.
+00622	Korone@r@vsiro02530."If you could just be careful about those slips of yours, I think you'd be even more charming!"
+00623	Murasaki@r@vmura01670."It's impossible. I would never slip up like that."
+00624	Lemon@r@vremo02050."Do you remember all the third turn? When it was Murasaki's time to play."
+00625	Cyan@r@vsian02100."Ah, I do! It was...when me and Murasaki did that two-hour tea party."
+00626	Korone@r@vsiro02540."If I remember correctly, it ended in a failure..."
+00627	Murasaki@r@vmura01680."That is indeed what happened. As I recall, the first card was a 'Success' but the second one turned out to be a 'Failure'.
+00628	Cyan@r@vsian02110."If only that card didn't come out, this wouldn't have become so complicated... It's got to be an accident!"
+00629	Lemon@r@vremo02060."Yeah, I think so too... It was definitely an accident."
+00630	Cyan@r@vsian02120."Huh...? Then, wouldn't that mean you're the most sus person here?"
+00631	Lemon@r@vremo02070."Well, maybe. But, you see, Murasaki here said something pretty interesting during that turn."
+00632	Murasaki@r@vmura90600....What? What could I have said that was so strange...? 
+00633	Murasaki@r@vmura01690."Huh? But that couldn't have..."
+00634	Lemon@r@vremo02080."'Huh? But that couldn't have...' That's what you said."
+00635	Murasaki@r@vmura01700."T-That's because I thought either you or Korone were the nuisance. It was a surprise when that 'Failure' appeared..."
+00636	Lemon@r@vremo02090."Well...had it been from anyone else, I wouldn't have thought much of it."
+00637	Lemon@r@vremo02100."Buuut... You and I have spent a lot of time together. And even after all those years apart, I can see that nothing has changed about you."
+00638	Lemon@r@vremo02110."...The Murasaki I know wouldn't react to arbitrary moments of bad luck like this."
+00639	Lemon@r@vremo02120."'But that couldn't have happened.' ...This is what she says about impossible events."
+00640	Korone@r@vsiro02550."........."
+00641	Cyan@r@vsian02130."............"
+00642	Murasaki@r@vmura01710."I-I have not a single clue of what you mean by this."
+00643	Murasaki@r@vmura01720."See? Even Korone and Cyan have trouble understanding..."
+00644	Korone@r@vsiro02560."...Hmm."
+00645	Cyan@r@vsian02140."Well, I mean... That does sound like something you'd say."
+00646	Murasaki@r@vmura01730."But that couldn't have happened! I would never say something like this!"
+00647	Cyan@r@vsian02150."Look, see? Hehehe..."
+00648	Lemon@r@vremo02130."Hey, Murasaki... Why would you think that 'Failure' appearing was impossible, hmm?"
+00649	Murasaki@r@vmura01740."I-I said it coulnd't have happened! You're just accusing me on bogus claims!!"
+00650	Lemon@r@vremo02140."Why would you...? Could it be that you expected another card, like maybe the 'Failure' you voted with...?"
+00651	Cyan@r@vsian02160."...Well I'm stumped. Lemon's logic is starting to make sense..."
+00652	Murasaki@r@vmura01750."What logic do you talk about?! All I see is you simpletons being swayed by a bit of sophistry!!"
+00653	Murasaki@r@vmura01760."Were you two not convinced that Lemon was the nuisance after my talk?! Conviction means to not have any room for reasonable doubt! How have you two even graduated from elementary school without understanding such a simple fact?!"
+00654	Korone@r@vsiro02570."If you could just be careful about those slips of yours, I think you'd be even more..."
+00655	Murasaki@r@vmura01770."I was aware that you have been born with poor intellect, which is why I took it upon myself to bless you with my superior intelligence! My mind is superior, therefore my reasoning is obviously the correct one! It is the duty of the wise to assist lesser-minded beings such as you, which is why — rather than listening to this one-track mind airhead — you should listen to me, ME! It is MY duty, not that of the unintelligent!"
+00656	Korone@r@vsiro02580."I think you're a very lovely person, Murasaki! Honestly, it's a shame nobody else can see that."
+00657	Korone@r@vsiro02590."If you could just be careful about those slips of yours, I think you'd be even more charming!"
+00658	Cyan@r@vsian02170."...Well ain't you a blabbermouth."
+00659	Korone@r@vsiro02600."O-Of course you are smarter than us, but...the way you said it..."
+00660	Cyan@r@vsian02180."That's not the issue! I'm stupid, I know. Say it all you want!"
+00661	Cyan@r@vsian02190."But I won't let you say that about Korone! You better take that back, got it?!"
+00662	Lemon@r@vremo02150."...Heh...hehehehe..."
+00663	@rLemon covered her face...trying to hide her laughing at Murasaki's situation.
+00664	@rNow that Cyan was overwhelmed with anger, it would be impossible to change her mind in any way.
+00665	Murasaki@r@vmura90610....No... I...
+00666	Murasaki@r@vmura90620.I was unable to restrain myself once again... Usually, she would...　
+00667	@rKorone would whisper to her to not act rashly...　
+00668	@rBut she wasn't here to help Murasaki now...
+00669	Cyan@r@vsian02200."Sorry, but I don't give a damn about logic anymore! If you're gonna be like that, then I don't have any reason to listen to you! I'm siding with Lemon."
+00670	Lemon@r@vremo02160."Thanks, Cyan. You'll soon see you've made the right choice"
+00671	Lemon@r@vremo02170."I choose the 3-tea! The participants will be me, Korone and Cyan!"
+00672	Murasaki@r@vmura01780."......!"
+00673	Korone@r@vsiro02610."Murasaki..."
+00674	Murasaki@r@vmura01790."I...not yet..."
+00675	Hampu@r@vhanp01000."Ho-Ho! Well then, Murasaki! Give those four voting cards a good shuffle!"
+00676	@rThe three participants' voting cards would then be collected and shuffled alongside a random fourth card.
+00677	@r...Or, at least, such was supposed to be the procedure.　……そういう手順のはずだった。
+00678	@r...A "thud" could be heard.
+00679	Cyan@r@vsian02210."...Huh? Murasaki, what are you doing...? The cards..."
+00680	@rThe cards that fell from her hand were all face up.
+00681	@rThat is, the three voting cards used by the three girls, not including the random fourth card.
+00682	@rAnd all three of them were...
+00683	Murasaki@r@vmura01800."I...surrender..."
+00684	Cyan@r@vsian02220."'Surrender...' Wait, just like that?!"
+00685	Lemon@r@vremo02180."...A complete 'Success'. That proves neither me, Korone or Cyan are the nuisance."
+00686	Lemon@r@vremo02190."In other words: game, set, and match..."
+00687	Korone@r@vsiro02620."Is that okay with you, Murasaki...? We still haven't seen what was the random card."
+00688	Murasaki@r@vmura01810."We've already had two random failures... The odds that one appears again are, frankly, too good to be true..."
+00689	Korone@r@vsiro02630."Hampu... Could you please reveal the last card?"
+00690	Hampu@r@vhanp01010."Yep, got it."
+00691	@rOnce again, another card appeared from the slit at the table's center.
+00692	@rAnd as Korone flipped it...
+00693	Murasaki@r@vmura01820."...See?"
+00694	Korone@r@vsiro02640."........."
+00695	Cyan@r@vsian02230."'Success...' H-Haha... Hell yeah! We did it! This is a total victory! Right?!"
+00696	Lemon@r@vremo02200."A victory for us...or the end for Murasaki... Fuhehe..."
+00697	Korone@r@vsiro02650."Say, Murasaki... Didn't I tell you to be careful about those slips all the time?" 
+00698	Murasaki@r@vmura01830."...You did. You would constantly, constantly remind me of that."
+00699	Korone@r@vsiro02660."And yet...you would constantly, constantly, on a heartbeat, at every opportunity, make fun of me!"
+00700	Korone@r@vsiro02670."Every single time, you'd just nitpick every little thing I did! Can you even imagine how much smiling through all of it fucking hurt?! Can you imagine how much blood wept from my heart after being cut through by your razor-sharp remarks?! Try even imagining its color, you with your 'superior intellect'! Can you do it? CAN YOU?! YOU CAN'T, CAN YOU! Because of your so-called 'superior mind'! You would NEVER be able to imagine what poor little stupid me would go through, of what my blood looks like, or what my tears look like! And don't fucking pretend otherwise!"
+00701	Korone@r@vsiro02680."...You know, I've laughed off a lot of things. However..."
+00702	Korone@r@vsiro02690."You dared to call my grandma's keepsake — the hairpin she handmade herself — 'dated' and 'out of fashion'... This is unforgivable, UTTERLY UNFORGIVABLE!"
+00703	Murasaki@r@vmura01840."...I-I just...thought something better would suit you..."
+00704	Korone@r@vsiro02700.@z150."SHOULDN'T YOU APOLOGIZE FIRST?! THIS ISN'T ABOUT WHETHER IT SUITS ME OR NOT! ARE YOU EVEN HUMAN?! BUT OF COURSE, SOMEONE AS INTELLIGENT AS YOU WOULDN'T SHARE THE SAME BLOOD COLOR AS AN IDIOT LIKE ME! HAMPU! PREPARE THE 'CAUCUS RACE'!"
+00705	Cyan@r@vsian02240."M-Murasaki! Apologize! C'mon, just apologize already!"
+00706	Lemon@r@vremo02210."We're also at fault for the bad stuff Murasaki says sometimes... W-We'll be more careful in the future so, please..."
+00707	Murasaki@r@vmura01850."W-What's this sound coming from? ...Eek?!"
+00708	@rAt that moment, a big, metallic sound could be heard from above. As they looked up...they saw a giant, circular steel frame — about twice the size of the central table — being lowered.
+00709	@rAnd from the walls appeared giant cogs, successively attaching themselves to the giant circular ring above the central table.
+00710	Hampu@r@vhanp01020."Time to give it a little test run. Here we go!"
+00711	@rAs the gears made frantic sounds, the circular frame started to spin at terrifying speeds.
+00712	@rSpeeds that were far removed from those common to wheels.
+00713	@rThey were closer to...a saw. The high pitched sounds it made reminded them of that...
+00714	Hampu@r@vhanp01030."Hoooo-Ho-Ho! Works like a charm, if I dare say so myself!"
+00715	Korone@r@vsiro02710."Are you familiar with Alice in Wonderland's 'Caucus Race', perchance?"
+00716	Murasaki@r@vmura01860."...If I recall, in order to dry their wet clothes, they started running around in circles..."
+00717	Korone@r@vsiro02720."It wouldn't be intersting to see our oh-so smart Lady Murasaki run around aimlessly, so we've prepared this device to let you move without even moving from your seat!"
+00718	Murasaki@r@vmura01870."Ah?!"
+00719	@rThe mechanisms in Murasaki's chair tightened not only her neck, but her arms and legs to it as well. Said chair then extended its legs and fixed itself to the circular frame.
+00720	@rEach mechanism activating successively, now firmly securing her to the frame...
+00721	Korone@r@vsiro02730."As you've just seen now, this contraption can spin quite fast. But, please don't mistake it for a mere carousel."
+00722	Korone@r@vsiro02740."After all, it's capable of reaching 10'000 revolutions per minute."
+00723	Lemon@r@vremo02220."B-But that's as fast as a centrifuge! It's just going to kill her!"
+00724	Korone@r@vsiro02750."Yes, and this is a death game where losing means death. Haven't I said so from the beginning?"
+00725	Korone@r@vsiro02760."And aren't you curious as well? ...Don't you want to see what kind of blood flows inside the haughty and sharp Murasaki?"「それに、見てみたいと思いませんか？」
+00726	Korone@r@vsiro02770."Clearly, it must be different from the blood of regular people like us. If you were to put someone through such a device...their innards would most likely get crushed and mixed, and gush out of their orifices. What color would they have? Heh, doesn't the idea intrigue you?"
+00727	Cyan@r@vsian02250."W-Who wants to see that?! Dumbass!"
+00728	Korone@r@vsiro02780."Well, I do. ...But what's that about? Would you also like for me to see the color of your innards, Cyan?"
+00729	@rBoth Lemon and Cyan tried to save Murasaki from her execution, without arousing Korone's wrath...in vain.
+00730	Hampu@r@vhanp01040."Now then. Before we begin, if you have anything to say, I believe now would be the perfect time for it."
+00731	Murasaki@r@vmura01880."...Hngh...Hic..."
+00732	Korone@r@vsiro02790."You're not only intelligent, but quite prideful too, Murasaki. I doubt you would be one to beg for her life."
+00733	Korone@r@vsiro02800."But, if there was even a chance for you to be rescued, wouldn't it be better to cast that pride away?"
+00734	Murasaki@r@vmura01890."You'd...forgive me...?"
+00735	Korone@r@vsiro02810."Just say 'I am sorry.' ...Actually, say it one hundred times. And then I'll stop the execution."
+00736	Cyan@r@vsian02260."Murasaki! Apologize! Hurryyyy!!"
+00737	Murasaki@r@vmura01900."I... I am sorr— Ah?!"
+00738	@rWithout even waiting for her words to come, Murasaki's chair started moving along the giant steel frame.
+00739	Korone@r@vsiro02820."I would hurry if I were you! This device can reach max velocity in only a few seconds! Mere ordinary people would likely lose consciousness with 10 revolutions per second, but surely someone like YOU would fare way better! Hehe!"
+00740	Murasaki@r@vmura01910."Sooaaaaaa......!"
+00741	@rBut it was in vain...　Murasaki was already rotating at incredible speeds...so much so that even her figure was now hard to see.
+00742	@rAnd yet, it would continue to accelerate, more, even more, as the shrill metallic sounds kept increasing.
+00743	Korone@r@vsiro02830."Oh? How strange. Isn't this just regular red?"
 
 # section 「第２ゲーム レモン」
 00744	ハンプ@r@vhanp00610.「まずは席替えからじゃ。紫ちゃんはそのままで、そこから時計回りに席順を変えていくぞい！」
@@ -1609,36 +1609,36 @@
 01594	梓杏@r@vsian01700.「ぁあぁぁぁぁぁあぁ……ッ、………ッッ、……ッッッ……！！！」
 01595	@r　それはたちまちの内に頭のプレゼントボックスを満たし、さらに溢れて梓杏の膝の上にまでぼろぼろと零れ落ちた。
 01596	コロネ@r@vsiro02260.「さて、梓杏さんは根性見せてどれだけ我慢してくれるでしょうか。でも、本当はビビリの梓杏ちゃんですから、すぐにギブアップかもしれませんね？」
-01597	@r　私たちの町は、地方都市からさらに離れた郊外にあった。
-01598	@r　まぁ、若者には退屈な田舎町だったけれど、生まれ育ったこの土地に不満はなかった。
-01599	@r　私たち仲良し四人組はその土地で、幼稚園も小学校も、そして中学校もずっと一緒だったのだ。
-01600	@r　そして、高校も一緒だろうし、何の仕事に就こうと、どうせずっと地元で一緒だと信じていた……。
-01601	@r　しかし、中学３年の夏休み。思いもよらぬ出来事に、私たちの予定調和は霧散したのである。
-01602	@r　温暖化だのエルニーニョだの線状降水帯だの。……とにかく、お年寄りも初めて経験するような豪雨が町を襲った。
-01603	@r　そして、川は氾濫して大水害になり、緩んだ地盤は耐え切れなくなって、大規模な山津波が町を呑み込んだのだ。
-01604	@r　泥水に町が沈み、家や車の屋根の上で助けを待つ人々の映像は、全国に配信された。
-01605	@r　少なからぬ犠牲者も出た。家々も水に漬かり、生活再建が困難な人々も大勢いた。
-01606	@r　私たちの学校も、土砂崩れに半分呑み込まれてしまった。
-01607	@r　町の人々の半分以上が生活再建を諦め、遠方の親類を頼ったりなどで引っ越していった。
-01608	@r　それは、私たち四人組それぞれの家族も同じだ。
-01609	@r　多くの人が亡くなり、災害について触れるのが不謹慎な雰囲気だった。もちろん心のショックもあった。
-01610	@r　だから、あんなに仲良しだったのに、私たちは別れの挨拶もなく、その後の連絡もなく、……ただ散り散りになっていったのだ。
-01611	@r　突然の引っ越しと新生活。そして高校進学。
-01612	@r　あまりに変化の大きい毎日に翻弄され、私たちは、あの日の前と後ろで記憶や思い出が、完全に断裂してしまっていた。
-01613	@r　友人やあるいは親戚を亡くした子もいただろう。故郷の無残な姿を思い出したくない子もいただろう。
-01614	@r　私たちは皆、共に過ごした日々を忘失して、新しい環境で生きることを選択したのだ……。
-01615	@r　そして、高校３年生となった夏休み間近のある日。私たちはメールを受け取るのだ。
-01616	@r　それは、懐かしい懐かしい仲良し四人組のひとりからの、小さな同窓会のお誘い。
-01617	@rコロネです。
-01618	@r元気にしてますか？
-01619	@r色々なことがあって、みんな忙しかったと思うけど、@rそろそろ落ち着いてきた頃かな。
-01620	@r仲良し四人組で集まってお茶でもしない？
-01621	@r私たち四人組だけの、小さな小さな同窓会をやろうよ。
-01622	@r　……３年前のあの日から、止まってしまった友情の時計を、また動かしたい。
-01623	@r　受験勉強にも疲れ、夏休みに１日くらい、みんなで集まる日があったって悪くない。
-01624	@r　私は、私たちは、………同窓会の為に集まったのだ………。
-01625	@r　私たちは、コロネに誘われて、同窓会に来たんだ……。
-01626	@r　待ち合わせ場所は、……隠れ家的な、趣のある喫茶店だった。
+01597	@rOur town was a remote rural area, far removed from provincial cities.
+01598	@rEven though it was a fairly boring place for the youth, we never felt any discontent about it.
+01599	@rUs four have spent our childhood together, from kindergarten, to elementary school, to middle school. 
+01600	@rAnd, since we planned to attend the same high school too, we thought we would always be together, in this very town. 
+01601	@rHowever, in the summer of our third year of middle school, an event came and destroyed our expectations.　
+01602	@rPerhaps it was climate change, or maybe El Niño, or simply training... Regardless, our town was hit by a pour never seen by any local.
+01603	@rAnd thus, the local river started to flood, which caused the ground to become unstable, which caused a landslide to occur on the town.
+01604	@rFootage of the disaster — the various submerged houses, and the people taking refuge on the roof of houses and cars — were broadcasted all across the nation.
+01605	@rThere were a lot of casualties. Many lost their homes, and many had difficulty rebuilding their lives.
+01606	@rOur school had been affected as well, half of it being destroyed in the landslide.
+01607	@rThis forced more than half of the town's population to move and leave, seeking the help of relatives.
+01608	@rOur families weren't spared by this either.
+01609	@rMany lost their lives, the disaster left a heavy atmosphere in its wake. Naturally, it was too much for many to bear.
+01610	@rAnd so, even though we had been such good friends, we left each other without even a farewell, without ever contacting the others... Simply moving on, dispersed around.
+01611	@rA sudden new life. A sudden new school.
+01612	@rAs a result of the sudden change in daily life, the thoughts and memories from before that day had been completely cut apart.
+01613	@rBe it those who lost a friend or family, or those who wanted to forget about the sorry state of their hometown.
+01614	@rWe chose to forget the days of the past, and embrace the new scenery... 
+01615	@rAnd then, near the start of summer break, in our third year of high school, we received a mail.
+01616	@rIt was a request for a small reunion, from one of our dear old friends from back then.
+01617	@rThis is Korone.
+01618	@rHow do you all do?
+01619	@rA lot has happened since then, and I'm sure everyone must have been busy with their lives, @rbut I believe it is time to put it behind us.
+01620	@rWhat do you say to having some tea, all together?
+01621	@rI would like for us to meet up for a very, very small reunion.
+01622	@r...And so, the gears that were frozen for three years have started to move once more.
+01623	@rA day away from studies, where we could all see each other, didn't sound like a bad idea at all.
+01624	@rAnd so, we... We decided to meet again, for the sake of the reunion...
+01625	@rWe went to the reunion Korone invited us to.
+01626	@rThe meeting place was... a small, cozy café.
 01627	レモン@r@vremo02230.「あ、予約じゃないです。待ち合わせです……」
 01628	紫@r@vmura01920.「奥の席……。あそこみたいですわね」
 01629	レモン@r@vremo02240.「ふへぇ……、な、なんか怖い人が座ってる……」
