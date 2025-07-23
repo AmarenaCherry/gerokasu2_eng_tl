@@ -739,7 +739,7 @@
 00728	Korone@r@vsiro02780."Well, I do. ...But what's that about? Would you also like for me to see the color of your innards, Cyan?"
 00729	@rBoth Lemon and Cyan tried to save Murasaki from her execution, without arousing Korone's wrath...in vain.
 00730	Hampu@r@vhanp01040."Now then. Before we begin, if you have anything to say, I believe now would be the perfect time for it."
-00731	Murasaki@r@vmura01880."...Hngh...Hic..."
+00731	Murasaki@r@vmura01880."...Hngh... Hic..."
 00732	Korone@r@vsiro02790."You're not only intelligent, but quite prideful too, Murasaki. I doubt you would be one to beg for her life."
 00733	Korone@r@vsiro02800."But, if there was even a chance for you to be rescued, wouldn't it be better to cast that pride away?"
 00734	Murasaki@r@vmura01890."You'd...forgive me...?"
