@@ -456,7 +456,7 @@
 00445	Murasaki@r@vmura90220.Ignoring the ones with a perfect track record to perform a tea party with Cyan is likely to raise some suspicions...
 00446	Murasaki@r@vmura90230.I'll first need to address that by bringing the possibility that the nuisance may have not interfered with the previous tea parties to earn trust.
 00447	Murasaki@r@vmura90240.Once that is done, I'll do a 3-hour tea party with Cyan and either Korone or Lemon...
-00448	Cyan@r@vsian01770."Woah!"...Hey, that's a 'Failure'!"
+00448	Cyan@r@vsian01770."Woah!...Hey, that's a 'Failure'!"
 00449	Murasaki@r@vmura90250.Oh my...heh. What do we have here?
 00450	Lemon@r@vremo01780."Fu, fuhee..."
 00451	Korone@r@vsiro02270."That...must be an accident. We just had a successful tea party with the two of us just before, after all."
@@ -485,9 +485,9 @@
 00474	Cyan@r@vsian01800."'Failure'...?!"
 00475	Murasaki@r@vmura01440."Huh? But that couldn't have..."
 00476	@rThe card Korone just flipped was a 'Failure'... A card different than the one Murasaki just placed.
-00477	Murasaki@r@vmura90340.What a well-made game... Even two similar 'Failure' cards can have different designs.　よく出来たカードゲームですわね。……このゲーム、同じ失敗のカードでも、皆、絵柄が異なっている。
-00478	Murasaki@r@vmura90350.The one I used had a drawing of the March Hare spilling tea, but this one is of the Hatter falling on their behind...　私が投じた失敗のカードの絵柄は、三月兎がポットを零してしまうものだった。でも、今、捲られた失敗のカードには、帽子屋が引っ繰り返る絵柄が記されている……。
-00479	@rMost likely, all of the 'Failure' cards have a different design... This is information only the nuisance has access to.　恐らく、失敗のカードは全て、異なる絵柄が記されているのだ。……そのお陰で邪魔者の私にはわかることが出来る。
+00477	Murasaki@r@vmura90340.What a well-made game... Even two similar 'Failure' cards can have different designs.
+00478	Murasaki@r@vmura90350.The one I used had a drawing of the March Hare spilling tea, but this one is of the Hatter falling on their behind...
+00479	@rMost likely, all of the 'Failure' cards have a different design... This is information only the nuisance has access to.
 00480	Murasaki@r@vmura90360.Hehehe, I suppose too much good luck isn't always a net positive.
 00481	Murasaki@r@vmura90370....Even though this tea party was already set for failure, the random draw also ended in a 'Failure', making this a double 'Failure'.
 00482	@rFor the nuisance, the random 'Failure' card brought good fortune. 25% are low odds, after all.
@@ -524,7 +524,7 @@
 00513	Murasaki@r@vmura90430.Hehehe. Did you really make your move without noticing something this important...? Honestly, you're just so entertaining, Cyan.
 00514	@rCyan would only get one turn, while everyone gets two.
 00515	@rMeaning that if the fourth player is the nuisance, they need to make their turn as impactful than possible.
-00516	@rOf course, the only turn they can guarantee a 'Failure' on is their own. Afterwards, their only means of attack and satisfying their victory conditions is to on accidents.
+00516	@rOf course, the only turn they can guarantee a 'Failure' on is their own. Afterwards, their only means of attack and satisfying their victory conditions is to rely on accidents.
 00517	@rBy drawing seven cards with 1-in-4 odds, one would expect around two accidents on average. But this isn't a certainty.
 00518	@rMoreover, of the two possible accidents, one has to land during a three-hour tea party...
 00519	Korone@r@vsiro02400."Since the fourth player has less available actions, they may seem at a disadvantage... But it also means there are some perks to it too.
@@ -559,10 +559,10 @@
 00548	@rNow, only the 3-hour cards remained.
 00549	@rIf even one of these tea parties failed, the nuisance would win... If the two of them pass, the nuisance would lose.
 00550	@rThe last remaining turns were Lemon's, as well as the nuisance's — Murasaki.
-00551	@r...Technically speaking, the nuisance's victory was all but guaranteed.
+00551	@r...Technically speaking, the latter's victory was all but guaranteed.
 00552	Murasaki@r@vmura90510....But I doubt it will be that easy. When it comes to games, Lemon is nothing short of a genius.
-00553	@rThis isn't over yet. If I let my guard down now, this could be the end of me.
-00554	@rIf I want to win this game, I'll have to garner Korone and Cyan's trust.
+00553	@rThis wasn't over yet. If she let her guard down now, this could be the end of her.
+00554	@rIf she wanted to win this game, she would have to garner Korone and Cyan's trust.
 00555	Lemon@r@vremo01920."Now then... We can't start until I know who to trust."
 00556	Murasaki@r@vmura01510."Know who to trust? Don't you mean, until you can prove who the nuisance is?"
 00557	Lemon@r@vremo01930."...Fuhee. As staight to the point as ever."
@@ -590,12 +590,12 @@
 00579	Cyan@r@vsian01990."How...? Uh, I just took out the one I wanted, that's all.
 00580	@rMurasaki shuffled the cards before placing them in front of Cyan.
 00581	Murasaki@r@vmura01590."Could you give us a demonstration?"
-00582	Cyan@r@vsian02000."T, the hell...? Don't tell me, you think I'm the nuisance, is that it?"
+00582	Cyan@r@vsian02000."T, the hell...? Don't tell me, you think I'm the nuisance? Is that it?"
 00583	Korone@r@vsiro02470."Of course not. Could you please give it a try?"
 00584	Cyan@r@vsian02010."O-OK..."
 00585	@rCyan secretly looked at the two cards placed in front of her before picking the 'Success' card and placing it at the center of the table.
 00586	@rHer behavior was calm and collected. Nothing from her gestures would indicate any kind of second-guessing or guilt.
-00587	Cyan@r@vsian02020."...Is that it?"
+00587	Cyan@r@vsian02020."...Is that good?"
 00588	Murasaki@r@vmura01600."Yes, thank you. As you've seen, any regular player would have no difficulty to pick the 'Success' card."
 00589	Murasaki@r@vmura01610."However, it isn't as easy of a choice for the nuisance."
 00590	Korone@r@vsiro02480."...Indeed. They would have to consider both options instead of just one, which would take a bit more time."
@@ -685,7 +685,7 @@
 00674	Murasaki@r@vmura01790."I...not yet..."
 00675	Hampu@r@vhanp01000."Ho-Ho! Well then, Murasaki! Give those four voting cards a good shuffle!"
 00676	@rThe three participants' voting cards would then be collected and shuffled alongside a random fourth card.
-00677	@r...Or, at least, such was supposed to be the procedure.　……そういう手順のはずだった。
+00677	@r...Or, at least, such was supposed to be the procedure.
 00678	@r...A "thud" could be heard.
 00679	Cyan@r@vsian02210."...Huh? Murasaki, what are you doing...? The cards..."
 00680	@rThe cards that fell from her hand were all face up.
@@ -712,7 +712,7 @@
 00701	Korone@r@vsiro02680."...You know, I've laughed off a lot of things. However..."
 00702	Korone@r@vsiro02690."You dared to call my grandma's keepsake — the hairpin she handmade herself — 'dated' and 'out of fashion'... This is unforgivable, UTTERLY UNFORGIVABLE!"
 00703	Murasaki@r@vmura01840."...I-I just...thought something better would suit you..."
-00704	Korone@r@vsiro02700.@z150."SHOULDN'T YOU APOLOGIZE FIRST?! THIS ISN'T ABOUT WHETHER IT SUITS ME OR NOT! ARE YOU EVEN HUMAN?! BUT OF COURSE, SOMEONE AS INTELLIGENT AS YOU WOULDN'T SHARE THE SAME BLOOD COLOR AS AN IDIOT LIKE ME! HAMPU! PREPARE THE 'CAUCUS RACE'!"
+00704	Korone@r@vsiro02700.@z120."SHOULDN'T YOU APOLOGIZE FIRST?! THIS ISN'T ABOUT WHETHER IT SUITS ME OR NOT! ARE YOU EVEN HUMAN?! BUT OF COURSE, SOMEONE AS INTELLIGENT AS YOU WOULDN'T SHARE THE SAME BLOOD COLOR AS AN IDIOT LIKE ME! HAMPU! PREPARE THE 'CAUCUS RACE'!"
 00705	Cyan@r@vsian02240."M-Murasaki! Apologize! C'mon, just apologize already!"
 00706	Lemon@r@vremo02210."We're also at fault for the bad stuff Murasaki says sometimes... W-We'll be more careful in the future so, please..."
 00707	Murasaki@r@vmura01850."W-What's this sound coming from? ...Eek?!"
@@ -733,7 +733,7 @@
 00722	Korone@r@vsiro02740."After all, it's capable of reaching 10'000 revolutions per minute."
 00723	Lemon@r@vremo02220."B-But that's as fast as a centrifuge! It's just going to kill her!"
 00724	Korone@r@vsiro02750."Yes, and this is a death game where losing means death. Haven't I said so from the beginning?"
-00725	Korone@r@vsiro02760."And aren't you curious as well? ...Don't you want to see what kind of blood flows inside the haughty and sharp Murasaki?"「それに、見てみたいと思いませんか？」
+00725	Korone@r@vsiro02760."And aren't you curious as well? ...Don't you want to see what kind of blood flows inside the haughty and sharp Murasaki?"
 00726	Korone@r@vsiro02770."Clearly, it must be different from the blood of regular people like us. If you were to put someone through such a device...their innards would most likely get crushed and mixed, and gush out of their orifices. What color would they have? Heh, doesn't the idea intrigue you?"
 00727	Cyan@r@vsian02250."W-Who wants to see that?! Dumbass!"
 00728	Korone@r@vsiro02780."Well, I do. ...But what's that about? Would you also like for me to see the color of your innards, Cyan?"
